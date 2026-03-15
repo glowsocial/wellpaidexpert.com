@@ -35,26 +35,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Value Section — split layout like original */}
-      <section className="value-section">
-        <div className="container">
-          <div className="value-split">
-            <div className="value-text">
-              <p className="value-eyebrow">Come join...</p>
-              <h2>The Well-Paid Expert Mastermind</h2>
-              <p className="value-desc">
-                A mastermind to discover and package your digital product to
-                $100K+/year in just 12 weeks. Stop undercharging for your
-                expertise and build the revenue stream you deserve.
-              </p>
-              <Link href="/articles" className="btn btn--outline">
-                Learn More
-              </Link>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* Mission statement */}
       <section className="mission">
         <div className="container">
