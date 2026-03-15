@@ -1,16 +1,15 @@
 "use client";
-
 import Link from "next/link";
 import { useState } from "react";
 
 export default function Header() {
-  const [mobileOpen, setMobileOpen] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false);
 
   return (
     <header className="site-header">
       <div className="container">
         <Link href="/" className="site-logo">
-          the well-paid <span className="accent">expert</span>
+          The Well-Paid Expert
         </Link>
 
         <nav className="site-nav">
@@ -26,7 +25,7 @@ export default function Header() {
 
         <button
           className="mobile-menu-toggle"
-          onClick={() => setMobileOpen(!mobileOpen)}
+          onClick={() => setMenuOpen(!menuOpen)}
           aria-label="Toggle menu"
         >
           <span></span>
@@ -35,17 +34,17 @@ export default function Header() {
         </button>
       </div>
 
-      <nav className={`mobile-nav ${mobileOpen ? "open" : ""}`}>
-        <Link href="/articles" onClick={() => setMobileOpen(false)}>
+      <nav className={`mobile-nav ${menuOpen ? "open" : ""}`}>
+        <Link href="/articles" onClick={() => setMenuOpen(false)}>
           Articles
         </Link>
-        <Link href="/about" onClick={() => setMobileOpen(false)}>
+        <Link href="/about" onClick={() => setMenuOpen(false)}>
           About
         </Link>
         <Link
           href="/articles"
           className="btn btn--primary"
-          onClick={() => setMobileOpen(false)}
+          onClick={() => setMenuOpen(false)}
         >
           Read the Blog
         </Link>

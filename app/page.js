@@ -7,60 +7,65 @@ export default function HomePage() {
 
   return (
     <>
-      {/* Hero */}
+      {/* Hero — centered card on muted background, like the original */}
       <section className="hero">
+        <div className="hero-bg"></div>
         <div className="container">
-          <div className="hero-content">
+          <div className="hero-card">
             <h1>
-              You deserve to be <span className="gold">well paid</span> for
-              your expertise.
+              Helping experts add $100,000 with what they already have,{" "}
+              <em>annually</em>.
             </h1>
-            <p className="hero-sub">
-              Helping experts add $100,000+ per year with what they already
-              know. Through email lists, quiz funnels, LinkedIn strategy, and
-              digital products.
-            </p>
-            <div className="hero-actions">
-              <Link href="/articles" className="btn btn--primary btn--lg">
-                Explore Articles
-              </Link>
-              <Link href="/about" className="btn btn--outline btn--lg">
-                About Kathleen
+            <Link href="/articles" className="btn btn--primary btn--lg">
+              Teach Me How
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Social Proof */}
+      <section className="social-proof">
+        <div className="container">
+          <span className="proof-label">As seen in:</span>
+          <div className="proof-logos">
+            <span className="proof-logo">Trends</span>
+            <span className="proof-logo">Up My Influence</span>
+            <span className="proof-logo">Summer Camp</span>
+          </div>
+        </div>
+      </section>
+
+      {/* Value Section — split layout like original */}
+      <section className="value-section">
+        <div className="container">
+          <div className="value-split">
+            <div className="value-text">
+              <p className="value-eyebrow">Come join...</p>
+              <h2>The Well-Paid Expert Mastermind</h2>
+              <p className="value-desc">
+                A mastermind to discover and package your digital product to
+                $100K+/year in just 12 weeks. Stop undercharging for your
+                expertise and build the revenue stream you deserve.
+              </p>
+              <Link href="/articles" className="btn btn--outline">
+                Learn More
               </Link>
             </div>
           </div>
         </div>
-        <div className="hero-glow"></div>
       </section>
 
-      {/* Value Props */}
-      <section className="value-props">
+      {/* Mission statement */}
+      <section className="mission">
         <div className="container">
-          <div className="value-grid">
-            <div className="value-card">
-              <div className="value-icon">&#9993;</div>
-              <h3>Email List Building</h3>
-              <p>
-                Build a monetizable email list from scratch using proven
-                strategies, quiz funnels, and lead magnets that convert.
-              </p>
-            </div>
-            <div className="value-card">
-              <div className="value-icon">&#128640;</div>
-              <h3>Sales Funnels</h3>
-              <p>
-                Create profitable sales funnels that turn your expertise into
-                digital products and passive income streams.
-              </p>
-            </div>
-            <div className="value-card">
-              <div className="value-icon">&#128161;</div>
-              <h3>LinkedIn Strategy</h3>
-              <p>
-                Leverage LinkedIn to land high-ticket B2B clients, build your
-                personal brand, and grow your authority.
-              </p>
-            </div>
+          <div className="mission-content">
+            <h2>
+              You deserve to be paid <em>more</em> for your expertise.
+            </h2>
+            <p>
+              It&apos;s not enough to know something. You need to be paid, and
+              paid well, for knowing what you know.
+            </p>
           </div>
         </div>
       </section>
@@ -96,7 +101,7 @@ export default function HomePage() {
                 </Link>
               ))}
             </div>
-            <div style={{ textAlign: "center", marginTop: "32px" }}>
+            <div style={{ textAlign: "center", marginTop: "40px" }}>
               <Link href="/articles" className="btn btn--outline">
                 View All Articles
               </Link>

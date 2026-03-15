@@ -1,29 +1,31 @@
 /* ========================================
    THE WELL-PAID EXPERT — GLOBAL STYLES
-   Fonts: Outfit (headings) + Inter (body)
-   Colors: Deep Slate + Gold/Amber + Warm White
+   Fonts: Playfair Display (headings) + Inter (body)
+   Colors: Cream + Maroon + Navy + Near-Black
+   Style: Authoritative editorial / high-end coaching
    ======================================== */
 :root {
-  --slate: #1a1a2e;
-  --slate-mid: #2d2d47;
-  --slate-light: #44446b;
-  --gold: #d4a843;
-  --gold-dark: #b8922e;
-  --gold-glow: rgba(212, 168, 67, 0.15);
-  --warm-white: #faf8f5;
-  --warm-bg: #f3f0eb;
+  --maroon: #4d1919;
+  --maroon-hover: #3a1212;
+  --navy: #1a2744;
+  --navy-light: #2a3a5c;
+  --cream: #f9f4ef;
+  --cream-dark: #f0e8df;
+  --warm-white: #fdfaf7;
   --white: #ffffff;
-  --text: #1a1a2e;
-  --text-muted: #6b6a7e;
+  --text: #1e1e1e;
+  --text-mid: #444444;
+  --text-muted: #777777;
   --card-bg: #ffffff;
-  --card-border: #e8e4de;
-  --shadow: 0 2px 16px rgba(26, 26, 46, 0.06);
-  --shadow-lg: 0 8px 32px rgba(26, 26, 46, 0.10);
-  --radius: 12px;
-  --radius-sm: 8px;
-  --radius-lg: 20px;
-  --font-heading: var(--font-outfit), 'Outfit', sans-serif;
+  --card-border: #e6e0d6;
+  --shadow: 0 2px 12px rgba(30, 30, 30, 0.06);
+  --shadow-lg: 0 8px 32px rgba(30, 30, 30, 0.10);
+  --radius: 4px;
+  --radius-sm: 3px;
+  --radius-lg: 6px;
+  --font-heading: var(--font-playfair), 'Playfair Display', 'Georgia', serif;
   --font-body: var(--font-inter), 'Inter', -apple-system, sans-serif;
+  --font-nav: var(--font-inter), 'Inter', -apple-system, sans-serif;
   --max-width: 1100px;
   --transition: 0.25s ease;
 }
@@ -43,8 +45,8 @@ html {
 body {
   font-family: var(--font-body);
   color: var(--text);
-  line-height: 1.65;
-  background: var(--warm-white);
+  line-height: 1.7;
+  background: var(--cream);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -70,92 +72,106 @@ ul {
   padding: 0 24px;
 }
 
-/* Typography */
+/* Typography — Editorial serif for headings */
 h1 {
   font-family: var(--font-heading);
-  font-weight: 800;
-  line-height: 1.1;
-  letter-spacing: -0.5px;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.3px;
+  color: var(--text);
 }
 
 h2, h3, h4, h5, h6 {
   font-family: var(--font-heading);
   font-weight: 600;
-  line-height: 1.2;
+  line-height: 1.25;
 }
 
 h2 {
-  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  font-size: clamp(1.75rem, 3.5vw, 2.4rem);
   margin-bottom: 12px;
 }
 
-/* Buttons */
+/* Buttons — Classic, no rounded corners */
 .btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 14px 28px;
-  border-radius: 50px;
-  font-family: var(--font-heading);
-  font-size: 0.95rem;
+  padding: 14px 32px;
+  font-family: var(--font-nav);
+  font-size: 0.85rem;
   font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
   transition: all var(--transition);
   cursor: pointer;
   border: 2px solid transparent;
 }
 
 .btn--primary {
-  background: var(--gold);
-  color: var(--slate);
-  border-color: var(--gold);
+  background: var(--maroon);
+  color: var(--white);
+  border-color: var(--maroon);
 }
 
 .btn--primary:hover {
-  background: var(--gold-dark);
-  border-color: var(--gold-dark);
+  background: var(--maroon-hover);
+  border-color: var(--maroon-hover);
   transform: translateY(-1px);
-  box-shadow: 0 4px 20px rgba(212, 168, 67, 0.35);
+  box-shadow: 0 4px 20px rgba(77, 25, 25, 0.25);
 }
 
 .btn--outline {
   background: transparent;
-  color: var(--slate);
-  border-color: var(--slate);
+  color: var(--maroon);
+  border-color: var(--maroon);
 }
 
 .btn--outline:hover {
-  background: var(--slate);
+  background: var(--maroon);
   color: var(--white);
   transform: translateY(-1px);
 }
 
 .btn--lg {
-  padding: 18px 40px;
-  font-size: 1.05rem;
+  padding: 18px 44px;
+  font-size: 0.9rem;
 }
 
 .btn--white-outline {
   background: transparent;
   color: var(--white);
-  border-color: rgba(255,255,255,.35);
+  border-color: rgba(255,255,255,.4);
 }
 
 .btn--white-outline:hover {
   background: var(--white);
-  color: var(--slate);
+  color: var(--maroon);
+  transform: translateY(-1px);
+}
+
+.btn--navy {
+  background: var(--navy);
+  color: var(--white);
+  border-color: var(--navy);
+}
+
+.btn--navy:hover {
+  background: var(--navy-light);
+  border-color: var(--navy-light);
   transform: translateY(-1px);
 }
 
 /* ========================================
-   SITE HEADER
+   SITE HEADER — Classic, minimal
    ======================================== */
 .site-header {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(250,248,245,.92);
-  backdrop-filter: blur(14px);
-  -webkit-backdrop-filter: blur(14px);
+  background: rgba(249, 244, 239, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--card-border);
 }
 
@@ -163,37 +179,41 @@ h2 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 68px;
+  height: 72px;
 }
 
 .site-logo {
   font-family: var(--font-heading);
-  font-weight: 800;
-  font-size: 1.15rem;
-  letter-spacing: -0.3px;
-  color: var(--slate);
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  color: var(--text);
 }
 
 .site-logo .accent {
-  color: var(--gold);
+  /* No accent color — all one color for the classic serif look */
+  color: var(--text);
 }
 
 .site-nav {
   display: flex;
   align-items: center;
-  gap: 32px;
+  gap: 36px;
 }
 
 .site-nav a {
-  font-family: var(--font-heading);
-  font-size: 0.88rem;
+  font-family: var(--font-nav);
+  font-size: 0.82rem;
   font-weight: 600;
-  color: var(--text-muted);
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-mid);
   transition: color var(--transition);
 }
 
 .site-nav a:hover {
-  color: var(--slate);
+  color: var(--maroon);
 }
 
 .header-ctas {
@@ -204,7 +224,7 @@ h2 {
 
 .header-ctas .btn {
   padding: 8px 22px;
-  font-size: 0.85rem;
+  font-size: 0.78rem;
 }
 
 /* Mobile menu toggle */
@@ -220,7 +240,7 @@ h2 {
   display: block;
   width: 24px;
   height: 2px;
-  background: var(--slate);
+  background: var(--text);
   margin: 5px 0;
   transition: var(--transition);
 }
@@ -234,11 +254,11 @@ h2 {
   display: flex;
   flex-direction: column;
   position: fixed;
-  top: 68px;
+  top: 72px;
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(250,248,245,0.98);
+  background: rgba(249, 244, 239, 0.98);
   backdrop-filter: blur(20px);
   padding: 32px 24px;
   gap: 0;
@@ -252,17 +272,19 @@ h2 {
 }
 
 .mobile-nav a {
-  font-family: var(--font-heading);
-  font-size: 1.1rem;
+  font-family: var(--font-nav);
+  font-size: 1rem;
   font-weight: 600;
-  padding: 14px 0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 16px 0;
   border-bottom: 1px solid var(--card-border);
   color: var(--text);
   display: block;
 }
 
 .mobile-nav .btn {
-  margin-top: 16px;
+  margin-top: 20px;
   text-align: center;
   justify-content: center;
 }
@@ -274,10 +296,10 @@ h2 {
 }
 
 /* ========================================
-   SITE FOOTER
+   SITE FOOTER — Dark, authoritative
    ======================================== */
 .site-footer {
-  background: var(--slate);
+  background: var(--navy);
   color: rgba(255,255,255,.7);
   padding: 64px 0 32px;
 }
@@ -292,7 +314,7 @@ h2 {
 .footer-brand .site-logo {
   color: var(--white);
   margin-bottom: 14px;
-  font-size: 1.1rem;
+  font-size: 0.95rem;
 }
 
 .footer-brand p {
@@ -302,10 +324,12 @@ h2 {
 }
 
 .footer-col h4 {
-  font-family: var(--font-heading);
+  font-family: var(--font-nav);
   color: var(--white);
-  font-size: 0.9rem;
+  font-size: 0.78rem;
   font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
   margin-bottom: 16px;
 }
 
@@ -318,11 +342,11 @@ h2 {
 }
 
 .footer-col a:hover {
-  color: var(--gold);
+  color: var(--white);
 }
 
 .footer-bottom {
-  border-top: 1px solid rgba(255,255,255,.1);
+  border-top: 1px solid rgba(255,255,255,.12);
   padding-top: 24px;
   display: flex;
   justify-content: space-between;
@@ -341,7 +365,7 @@ h2 {
 }
 
 .footer-bottom-links a:hover {
-  color: var(--gold);
+  color: var(--white);
 }
 
 @media (max-width: 768px) {
@@ -357,25 +381,24 @@ h2 {
 }
 
 /* ========================================
-   BLOG STYLES
+   BLOG LIST STYLES
    ======================================== */
 .blog-hero {
-  background: var(--warm-bg);
-  padding: 64px 0;
+  background: var(--cream-dark);
+  padding: 72px 0;
   text-align: center;
 }
 
 .blog-hero h1 {
   font-size: clamp(2rem, 4vw, 3rem);
-  letter-spacing: -0.5px;
-  font-weight: 800;
+  font-weight: 700;
   margin-bottom: 12px;
 }
 
 .blog-hero p {
   color: var(--text-muted);
-  font-size: 1.1rem;
-  max-width: 560px;
+  font-size: 1.05rem;
+  max-width: 520px;
   margin: 0 auto;
 }
 
@@ -389,50 +412,55 @@ h2 {
 .blog-card {
   background: var(--card-bg);
   border: 1px solid var(--card-border);
-  border-radius: var(--radius);
   overflow: hidden;
   transition: transform var(--transition), box-shadow var(--transition);
 }
 
 .blog-card:hover {
-  transform: translateY(-4px);
+  transform: translateY(-3px);
   box-shadow: var(--shadow-lg);
 }
 
 .blog-card-body {
-  padding: 24px;
+  padding: 28px 24px;
 }
 
 .blog-card-meta {
-  font-size: 0.8rem;
+  font-size: 0.78rem;
+  font-weight: 500;
   color: var(--text-muted);
-  margin-bottom: 8px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
 }
 
 .blog-card h3 {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
   font-weight: 600;
-  margin-bottom: 8px;
-  line-height: 1.3;
+  margin-bottom: 10px;
+  line-height: 1.35;
+  color: var(--text);
 }
 
 .blog-card p {
   font-size: 0.9rem;
   color: var(--text-muted);
-  line-height: 1.55;
+  line-height: 1.6;
 }
 
 .blog-card .read-more {
   display: inline-block;
-  margin-top: 12px;
-  font-size: 0.85rem;
+  margin-top: 14px;
+  font-size: 0.82rem;
   font-weight: 600;
-  color: var(--gold-dark);
+  color: var(--maroon);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
   transition: color var(--transition);
 }
 
 .blog-card .read-more:hover {
-  color: var(--slate);
+  color: var(--text);
 }
 
 @media (max-width: 900px) {
@@ -443,63 +471,68 @@ h2 {
   .blog-grid { grid-template-columns: 1fr; }
 }
 
-/* Blog post page */
+/* ========================================
+   BLOG POST PAGE — Editorial reading
+   ======================================== */
 .blog-post {
-  max-width: 740px;
+  max-width: 700px;
   margin: 0 auto;
-  padding: 64px 24px;
+  padding: 72px 24px;
 }
 
 .blog-post-header {
-  margin-bottom: 40px;
+  margin-bottom: 48px;
+  padding-bottom: 32px;
+  border-bottom: 1px solid var(--card-border);
 }
 
 .blog-post-header h1 {
-  font-size: clamp(1.8rem, 4vw, 2.8rem);
-  letter-spacing: -0.5px;
-  font-weight: 800;
-  line-height: 1.15;
-  margin-bottom: 16px;
+  font-size: clamp(2rem, 4.5vw, 2.8rem);
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 20px;
 }
 
 .blog-post-meta {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: var(--text-muted);
+  letter-spacing: 0.3px;
 }
 
 .blog-post-meta span + span::before {
   content: '·';
-  margin: 0 8px;
+  margin: 0 10px;
 }
 
 .blog-post-content h2 {
   text-align: left;
   font-size: 1.5rem;
-  margin: 40px 0 16px;
+  margin: 48px 0 16px;
+  padding-top: 8px;
 }
 
 .blog-post-content h3 {
   font-size: 1.2rem;
-  margin: 32px 0 12px;
+  margin: 36px 0 12px;
 }
 
 .blog-post-content p {
-  font-size: 1.05rem;
-  line-height: 1.8;
-  margin-bottom: 20px;
+  font-size: 1.08rem;
+  line-height: 1.85;
+  margin-bottom: 24px;
   color: var(--text);
 }
 
 .blog-post-content ul,
 .blog-post-content ol {
   padding-left: 24px;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
   list-style: disc;
 }
 
 .blog-post-content li {
-  font-size: 1.05rem;
-  line-height: 1.8;
+  font-size: 1.08rem;
+  line-height: 1.85;
   margin-bottom: 8px;
 }
 
@@ -508,33 +541,33 @@ h2 {
 }
 
 .blog-post-content a {
-  color: var(--gold-dark);
+  color: var(--maroon);
   text-decoration: underline;
-  text-underline-offset: 2px;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
 }
 
 .blog-post-content a:hover {
-  color: var(--slate);
+  color: var(--text);
 }
 
 .blog-post-content blockquote {
-  border-left: 3px solid var(--gold);
-  padding: 16px 24px;
-  margin: 24px 0;
-  background: var(--gold-glow);
-  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  border-left: 3px solid var(--maroon);
+  padding: 20px 28px;
+  margin: 32px 0;
+  background: var(--cream-dark);
   font-style: italic;
-  color: var(--text-muted);
+  font-size: 1.1rem;
+  color: var(--text-mid);
 }
 
 /* Blog post CTA box */
 .post-cta-box {
-  background: var(--slate);
+  background: var(--navy);
   color: var(--white);
-  border-radius: var(--radius);
-  padding: 40px;
+  padding: 48px;
   text-align: center;
-  margin: 48px 0;
+  margin: 56px 0;
 }
 
 .post-cta-box h3 {

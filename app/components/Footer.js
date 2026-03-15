@@ -6,12 +6,10 @@ export default function Footer() {
       <div className="container">
         <div className="footer-grid">
           <div className="footer-brand">
-            <div className="site-logo">
-              the well-paid <span className="accent">expert</span>
-            </div>
+            <div className="site-logo">The Well-Paid Expert</div>
             <p>
               Helping experts add $100,000+ per year with what they already
-              know. You deserve to be paid well for your expertise.
+              know.
             </p>
           </div>
 
@@ -23,15 +21,15 @@ export default function Footer() {
 
           <div className="footer-col">
             <h4>Legal</h4>
-            <Link href="/privacy">Privacy Policy</Link>
-            <Link href="/terms">Terms</Link>
+            <Link href="/privacy-policy">Privacy Policy</Link>
+            <Link href="/terms">Terms of Service</Link>
           </div>
         </div>
 
         <div className="footer-bottom">
-          <span>&copy; {new Date().getFullYear()} The Well-Paid Expert</span>
+          <p>&copy; {new Date().getFullYear()} The Well-Paid Expert. All rights reserved.</p>
           <div className="footer-bottom-links">
-            <Link href="/privacy">Privacy</Link>
+            <Link href="/privacy-policy">Privacy</Link>
             <Link href="/terms">Terms</Link>
           </div>
         </div>
