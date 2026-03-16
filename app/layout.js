@@ -18,6 +18,9 @@ const playfair = Playfair_Display({
 
 export const metadata = {
   metadataBase: new URL("https://thewellpaidexpert.com"),
+  alternates: {
+    canonical: "./",
+  },
   title: {
     default: "The Well-Paid Expert | Turn Your Expertise Into a $100K Revenue Stream",
     template: "%s | The Well-Paid Expert",
