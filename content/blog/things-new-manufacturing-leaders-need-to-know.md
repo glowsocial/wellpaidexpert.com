@@ -11,7 +11,7 @@ Stepping into [manufacturing leadership](https://thewellpaidexpert.com/10-traits
 
 When you're stepping into a new manufacturing leadership role, you have to understand that it's not just about output. At first glance, manufacturing can seem all about the numbers, with the units produced, the deadlines that required to be hit, the costs managed, the KPIs met. And yet those do matter. But behind all of that, other people in the systems that make it happen. If something isn't working, it's really just a numbers issue. It's usually a process that needs adjusting or a team that needs better support.
 
-![Organized warehouse racks in a modern manufacturing facility](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1200&q=80)
+![Organized warehouse racks in a modern manufacturing facility](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=75)
 
 You can start out by getting to know the floor. You can learn a lot from reports, paperwork, and data, but nothing is really going to beat spending time whether work is actually happening in your new role. Walk the floor, ask questions, and [listen to the people doing the job everyday](https://www.facebook.com/Officialworkmemes/posts/the-happiest-people-at-every-job-are-the-ones-who-spend-all-day-singing-to-pass-/1088820509954726/). They often have the clearest insight into what's working and what really isn't. You're also going to build trust much faster this way, which makes everything else easier. And it's from here you can figure out what the necessary improvements are. It's tempting to come in and make big changes straight away, but it's the smaller improvements that you notice on your walking the floor that's going to add up.
 
