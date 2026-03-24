@@ -17,16 +17,18 @@ Take the quiz and find out now
 
 # 12 Wonderful Careers That Give You Job Satisfaction
 
-If you are fed up with your current job then the time may have come to start looking for something else. If you no longer receive any sort of job satisfaction or chances at promotions then there is no point being stuck in a dead end job. There are so many careers out there and businesses who would love to have you as part of their team. If you don’t want to work for anyone else, you could also
+If you are fed up with your current job then the time may have come to start looking for something else. If you no longer receive any sort of job satisfaction or chances at promotions then there is no point being stuck in a dead end job. There are so many careers out there and businesses who would love to have you as part of their team. If you don't want to work for anyone else, you could also
 start your own business. Think about the pros and cons of each option. If you want a job that offers complete satisfaction then take a look at the article below for some inspiration.
 
 ## Teaching
 
-If there is one position that offers happiness and job satisfaction, that’s teaching. Teacher’s absolutely love what they do and for most it isn’t about the money they get paid. Teaching doesn’t pay all that well, unless you have a high ranking position such as a headteacher. If you have a background in childcare then you could go ahead and attain your teaching qualifications. Once you have this you could work just about anywhere, including your home country or abroad. There is a shortage of good teachers out there so if this is something you want to do then go for it.
+If there is one position that offers happiness and job satisfaction, that's teaching. Teacher's absolutely love what they do and for most it isn't about the money they get paid. Teaching doesn't pay all that well, unless you have a high ranking position such as a headteacher. If you have a background in childcare then you could go ahead and attain your teaching qualifications. Once you have this you could work just about anywhere, including your home country or abroad. There is a shortage of good teachers out there so if this is something you want to do then go for it.
+
+When selecting a school as your place of employment, it must provide plenty of learning and professional development opportunities. Schools that prioritize professional development, such as those that support active [professional learning communities education](https://www.cognia.org/services/professional-learning/), create an ideal collaborative atmosphere in which educators can share ideas, enhance skills, and pursue continuous professional growth in their careers. Communities that prioritize education for students and teachers often create an atmosphere of lifelong learning that can greatly enrich your teaching experience while setting the groundwork for meaningful professional advancement. Working in such an environment may significantly broaden and deepen your teaching experience and set the stage for meaningful professional advancement.
 
 ## Tutoring
 
-Similar to teaching, there is also a shortage of wonderful tutors. This career tends to start as a side hustle but could soon turn into a full time position if you have enough clients. Since the pandemic there have been a lot of parents worried about their children’s education. A lot of people missed out on almost a year of school, therefore a year of vital learning. If you create a website that parents can sign up to then they could hire your services. Be sure to include your working hours, fees, and most importantly, your availability.
+Similar to teaching, there is also a shortage of wonderful tutors. This career tends to start as a side hustle but could soon turn into a full time position if you have enough clients. Since the pandemic there have been a lot of parents worried about their children's education. A lot of people missed out on almost a year of school, therefore a year of vital learning. If you create a website that parents can sign up to then they could hire your services. Be sure to include your working hours, fees, and most importantly, your availability.
 
 ## Chaplain
 
@@ -53,13 +55,13 @@ Are you great with money? You could help people work on their finances for a liv
 
 ## Landscaper
 
-Do you simply love being outdoors and working with people to achieve their dreams? If so, then how about becoming a landscape gardener. There are two routes into this career, one you could apply and join an existing company. The other is you start your own landscaping business. You will need to have a portfolio for the latter, if you don’t have one it might be a good idea to start with someone else and then branch out. You will meet all types of people and work with all types of gardens, you need to be flexible and adaptable to last minute changes.
+Do you simply love being outdoors and working with people to achieve their dreams? If so, then how about becoming a landscape gardener. There are two routes into this career, one you could apply and join an existing company. The other is you start your own landscaping business. You will need to have a portfolio for the latter, if you don't have one it might be a good idea to start with someone else and then branch out. You will meet all types of people and work with all types of gardens, you need to be flexible and adaptable to last minute changes.
 
 ## Construction Worker
 
 If you are strong and great with your hands then how about a career in construction. There are always positions opening for
 hands-on construction workers
-who aren’t afraid of a little hard work. You could play a part in building the next hospital or school for disadvantaged pupils, the world is your oyster. Construction is something that can and will take you worldwide, build up your portfolio if you want to work abroad.
+who aren't afraid of a little hard work. You could play a part in building the next hospital or school for disadvantaged pupils, the world is your oyster. Construction is something that can and will take you worldwide, build up your portfolio if you want to work abroad.
 
 ## Social Worker
 
@@ -67,14 +69,14 @@ There is a common misconception that social workers only work with children and 
 
 ## Events Planner
 
-Do you enjoy making people’s dreams come true? If you do then there is the perfect career out there for you. An events planner position could take you all around the world, planning amazing events for your clients. No two parties will ever be the same and that is why people will come to you, one week you could be planning an epic wedding while the next a lowkey office party. You will need to be reliable and able to find people the best price, being good at bargaining and haggling will go a long way in this type of career.
+Do you enjoy making people's dreams come true? If you do then there is the perfect career out there for you. An events planner position could take you all around the world, planning amazing events for your clients. No two parties will ever be the same and that is why people will come to you, one week you could be planning an epic wedding while the next a lowkey office party. You will need to be reliable and able to find people the best price, being good at bargaining and haggling will go a long way in this type of career.
 
 ## Travel Agent
 
 Finally, if you love vacations and jetting off to luxury destinations then how about becoming a travel agent. You will help people find their dream vacations for the best price, and there are a lot of deals out there. Finding the best one could be tricky but once you do, you will constantly have people using your services. Make sure you take a small piece of the pie for yourself, being a private travel agent can
 pay quite lucratively. Alternatively, if you like working as part of a team then you could join your local travel agency.
 
-Hopefully this article gave you some ideas on where you could go with your career and how you could climb the ladder. Good luck in your new job and remember, if you aren’t satisfied then get out there and find something else.
+Hopefully this article gave you some ideas on where you could go with your career and how you could climb the ladder. Good luck in your new job and remember, if you aren't satisfied then get out there and find something else.
 
 ## Which well-paid expert are you?
 
