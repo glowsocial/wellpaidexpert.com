@@ -14,7 +14,7 @@ isn’t satisfying, there’s nowhere else to go, and your personal life seems t
 
 There’s a storm going on in your life right now, and it all stems from this sense of career dissatisfaction. What can you do to alleviate that? It’s a multi step process, and you can start off on the right foot using the points below.
 
-Pexels Image – CC0 Licence
+![Person thoughtfully considering a career change at a desk](/career-change.png)
 
 ## Don’t Panic
 
