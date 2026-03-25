@@ -7,47 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20241106213238"
 ---
 
-How Can You Sell An Attainable, But Still Idealized Lifestyle? - The Well-Paid Expert
-
-4 captures
-
-06 Nov 2024 - 16 Dec 2025
-
-Oct
-
-NOV
-
-Dec
-
-06
-
-2023
-
-2024
-
-2025
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-# How Can You Sell An Attainable, But Still Idealized Lifestyle?
-
 In some ways, all of the marketing industry is designed to sell you something you don’t have, that very something being the one object or service that could improve your life if you tried it. The Coca Cola Corporation wants you to think that if you enjoyed Coca Cola at lunchtime, your meal would go down more smoothly and you’d feel more refreshed than with other soft drinks. They do that by implying that without the product, you’d have an inferior experience.
 
 Yet the balance here is exceedingly important to achieve. Selling Cola this way is hardly an intense proposition – the product is cheap enough to purchase for most people, and easy enough to drink for all age groups. But what if your lifestyle offering is not only idealized, but takes hard work to achieve?
@@ -70,15 +29,3 @@ Now, you don’t have to take on the exact characteristics of a customer to rela
 adventure, sensuality, abandon, freedom, strength. We can relate to those. For some, it’s about feeling attractive and desired. What seems silly and abstract on the surface is actually tapping into what we want in our daily lives. If you can be relatable, you can be more present with your audience, but not necessarily too explicit to the point where it waters down your idealized presentation.
 
 With this advice, we hope you can more easily balance your promotional efforts between the ideal and the attainable.
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now

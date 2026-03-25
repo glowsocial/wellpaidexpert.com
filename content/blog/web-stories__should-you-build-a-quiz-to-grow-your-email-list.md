@@ -7,42 +7,7 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20231208195206"
 ---
 
-Should you build a quiz to grow your email list? - The Well-Paid Expert
-
-4 captures
-
-08 Dec 2023 - 14 Jan 2026
-
-Nov
-
-DEC
-
-Jan
-
-08
-
-2022
-
-2023
-
-2024
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
 ### Take the quiz and find out!
-
-# Should you build a quiz to grow your email list?
 
 ## NOTHING beats a well-aligned quiz to grow your business. But not everyone needs one.
 

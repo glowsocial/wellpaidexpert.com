@@ -7,47 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20241106211933"
 ---
 
-How to Protect Yourself At Work - The Well-Paid Expert
-
-4 captures
-
-06 Nov 2024 - 14 Jan 2026
-
-Oct
-
-NOV
-
-Dec
-
-06
-
-2023
-
-2024
-
-2025
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-# How to Protect Yourself At Work
-
 The working world can be tricky to manage. We want to do well at our jobs, of course, but it’s also important to remember that ultimately, our employers are not our friends. While everything will likely run smoothly when everything’s going well, that could well change as soon as there’s a crack in the ice.
 
 As such, it’s important to take measures to protect yourself while at work. Your loyalty should always be, first and foremost, to yourself. In this post, we’ll look at a few tried and tested ways you can ensure that number one is always taken care of.
@@ -77,15 +36,3 @@ enough for you to lose your job.
 Finally, you can protect your overall well-being by setting boundaries regarding your time at work. Your boss might want you to answer your phone on a Sunday afternoon, but that’s your time to relax and unwind. Ultimately, your sanity and
 career growth
 depend on rest, so protect it!
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now

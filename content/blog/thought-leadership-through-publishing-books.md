@@ -7,32 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20240530170113"
 ---
 
-Gain Influence: Thought Leadership Through Publishing Books - The Well-Paid Expert
-
-6 captures
-
-30 May 2024 - 16 Dec 2025
-
-Apr
-
-MAY
-
-Jun
-
-30
-
-2023
-
-2024
-
-2025
-
-success
-
-fail
-
-COLLECTED BY
-
 Organization:
 Archive Team
 
@@ -47,18 +21,7 @@ This collection contains the output of many Archive Team projects, both ongoing 
 The Archive Team Panic Downloads
 are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures.
 
-Collection:
 Archive Team: URLs
-
-TIMESTAMPS
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-# Gain Influence: Thought Leadership Through Publishing Books
 
 Imagine stepping into a room where your voice instantly commands attention, not just because of what you say but how you’ve said it before.
 Thought leadership through publishing books
@@ -295,15 +258,3 @@ To sum up: Write passionately about what you know best. Promote wisely across pl
 Tired of trading time for money? Ready to get paid for what you know?
 Become a Well-Paid Expert
 shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now

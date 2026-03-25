@@ -7,32 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20221201024707"
 ---
 
-Introducing: The Well-Paid Expert - The Well-Paid Expert
-
-9 captures
-
-01 Dec 2022 - 15 Dec 2025
-
-Nov
-
-DEC
-
-Jan
-
-01
-
-2021
-
-2022
-
-2023
-
-success
-
-fail
-
-COLLECTED BY
-
 Organization:
 Archive Team
 
@@ -47,12 +21,7 @@ This collection contains the output of many Archive Team projects, both ongoing 
 The Archive Team Panic Downloads
 are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures.
 
-Collection:
 Archive Team: URLs
-
-TIMESTAMPS
-
-# Introducing: The Well-Paid Expert
 
 Hi, I’m Kathleen.
 

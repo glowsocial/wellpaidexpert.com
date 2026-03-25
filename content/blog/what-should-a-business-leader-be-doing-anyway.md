@@ -7,47 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20241005042223"
 ---
 
-What Should A Business Leader Be Doing, Anyway? - The Well-Paid Expert
-
-5 captures
-
-05 Oct 2024 - 15 Dec 2025
-
-Sep
-
-OCT
-
-Nov
-
-05
-
-2023
-
-2024
-
-2025
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-# What Should A Business Leader Be Doing, Anyway?
-
 There are conflicting ideas about what leadership is and how it operates. Of course, that’s hardly surprising. The conductor of an orchestra is going to have a different set of leadership roles, responsibilities, and preparations compared to an infantry officer managing their troops on a battlefield.
 
 Moreover, the idea of a “business leader” serving as one kind of definition is vastly out of date. A person who owns or runs a business may be doing so in the hospitality sector, or they may be building the next rocketship to take us to Mars. Most people think of Elon Musk in that last example, but is anyone actually picturing him designing the rockets himself?
@@ -89,15 +48,3 @@ The modern business leader doesn’t work in a vacuum. You need to engage with t
 This is also different from promotion but not necessarily distinct from it, as sometimes curating structural change or cross-marketing efforts can be the benefit of both, not just for you. A leader is best placed to make these deals.
 
 With this advice, we hope you can inspire a little of your own excellent leadership also.
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now

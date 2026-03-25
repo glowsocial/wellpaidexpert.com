@@ -7,32 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20230311090616"
 ---
 
-5 things I’ve learned from yoga that apply to business - The Well-Paid Expert
-
-9 captures
-
-11 Mar 2023 - 15 Dec 2025
-
-Feb
-
-MAR
-
-Apr
-
-11
-
-2022
-
-2023
-
-2024
-
-success
-
-fail
-
-COLLECTED BY
-
 Organization:
 Archive Team
 
@@ -47,12 +21,7 @@ This collection contains the output of many Archive Team projects, both ongoing 
 The Archive Team Panic Downloads
 are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures.
 
-Collection:
 Archive Team: URLs
-
-TIMESTAMPS
-
-# 5 things I’ve learned from yoga that apply to business
 
 Over the last two years, I’ve been deepening my yoga practice. I’ve found a style of yoga that appeals to me (
 ashtanga!), I’ve found a studio that I love (three different studios, actually), and I’ve found a routine that works for me.

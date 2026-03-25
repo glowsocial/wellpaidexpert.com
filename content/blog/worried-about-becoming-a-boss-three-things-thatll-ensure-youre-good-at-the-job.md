@@ -7,45 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20250321081633"
 ---
 
-Worried About Becoming A Boss? Three Things That'll Ensure You're Good At The Job - The Well-Paid Expert
-
-3 captures
-
-21 Mar 2025 - 16 Dec 2025
-
-Feb
-
-MAR
-
-Apr
-
-21
-
-2024
-
-2025
-
-2026
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
 # Worried About Becoming A Boss? Three Things That’ll Ensure You’re Good At The Job
 
 Being a business owner and
@@ -80,15 +41,3 @@ For example, the employee who goes the extra mile might feel taken for granted i
 This person is likely to dial back their work ethic, and eventually look for a new job altogether. That’s why the same rules should apply to everyone. Every single employee needs to know that they’re going to get fair, equal treatment in the workplace.
 
 If you’re worried about becoming a boss, make sure you read through the points above. And remember, the fact that you’re concerned about doing a good job could even be a good sign. You clearly care about the employee experience!
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now

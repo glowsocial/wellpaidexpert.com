@@ -7,47 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20250427095027"
 ---
 
-Fixing A Struggling Construction Business - The Well-Paid Expert
-
-3 captures
-
-27 Apr 2025 - 15 Dec 2025
-
-Mar
-
-APR
-
-May
-
-27
-
-2024
-
-2025
-
-2026
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-# Fixing A Struggling Construction Business
-
 If you have a
 business
 in construction and you are finding that things are not quite going to plan or that you are not profiting in the way you thought you would, there are a number of common ailments that might be at play here. It is going to be important that you identify what they are and work through them if you are going to help get your business into a stronger place. In this post, we’ll discuss some of the common fixes you can apply to a struggling construction business to help it to improve and get back on track.
@@ -73,15 +32,3 @@ who can help you to figure out what you might be doing wrong and help you to tur
 
 Often, sloppy or poor project management is the real killer in a
 construction business, and it’s a good idea to make sure that you are keeping on top of this as well as you can. You need better planning, better scheduling and tighter communication between the office and the field if you are going to ensure that your projects complete on time and to budget. This is therefore going to mean that you have a much stronger and more successful business on the whole, which is of course the whole goal here.
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now

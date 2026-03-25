@@ -7,46 +7,11 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20231208193623"
 ---
 
-From Zero to Hero: How to Build an Email List from Scratch with Confidence - The Well-Paid Expert
-
-7 captures
-
-08 Dec 2023 - 16 Dec 2025
-
-Nov
-
-DEC
-
-Jan
-
-08
-
-2022
-
-2023
-
-2024
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
 ## Should you build a quiz for your business?
 
 Take this quick (60-second) quiz to find out whether you should build a list in the first place, and if so, what type of quiz your business needs.
 
 Take the quiz and find out now
-
-# From Zero to Hero: How to Build an Email List from Scratch with Confidence
 
 Use your right and left arrows (or scroll!) to see this in presentation mode.
 

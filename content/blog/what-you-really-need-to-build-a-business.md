@@ -7,47 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20250427110325"
 ---
 
-What You Really Need to Build a Business - The Well-Paid Expert
-
-3 captures
-
-27 Apr 2025 - 15 Dec 2025
-
-Mar
-
-APR
-
-May
-
-27
-
-2024
-
-2025
-
-2026
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-# What You Really Need to Build a Business
-
 Source
 
 When you first get into business, it’s not always easy to know what you should be focusing on.
@@ -77,15 +36,3 @@ and grow your business to the level you want it to be. Having growth goals can c
 ## 5. Grit
 
 Finally, you also need to have grit. You can have the best idea in the world or be a great person – but you also need to be motivated and determined in order to see your ideas through. It’s not enough to have passion and want it to work, you have to go beyond that. Having grit means that you’ve got a thick skin and are ready to bounce back should anything go wrong. Being adaptable and flexible in business can often set you apart and mean that you’ll keep going even when things potentially get tough!
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now

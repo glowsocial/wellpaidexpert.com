@@ -7,45 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20250427102816"
 ---
 
-What To Do When You've Been Rejected For A Business Loan - The Well-Paid Expert
-
-3 captures
-
-27 Apr 2025 - 15 Dec 2025
-
-Mar
-
-APR
-
-May
-
-27
-
-2024
-
-2025
-
-2026
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
 # What To Do When You’ve Been Rejected For A Business Loan
 
 If you’re trying to start up a business, then applying for a loan is a common way to secure the funding that you need to get things rolling. However, when you’re rejected for the money that you need, it can feel like running directly into a dead end. It doesn’t have to be, however. One rejection, or even a handful of rejections, doesn’t have to be the end of your business’s story. There’s a lot that you can do to bounce back and get the funding you need.
@@ -84,15 +45,3 @@ is not easy, but it can be the right approach for some companies that already ha
 Depending on your location and your industry, there may be government-backed programs and loans that you can take advantage of. These state programs often don’t offer as much in funding as a business loan, but they can include more flexible lending requirements and lower interest rates that can make them a good fit for those with bad credit, for instance.
 
 With the tips above, you can ensure that you’re in the best possible position for getting your business the funding that it needs. From there, all you have to do is make the best use of it.
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now

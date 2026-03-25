@@ -7,47 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20241206194003"
 ---
 
-Keeping Personal and Professional Seperate As An Entrepreneur - The Well-Paid Expert
-
-4 captures
-
-06 Dec 2024 - 15 Dec 2025
-
-Nov
-
-DEC
-
-Jan
-
-06
-
-2023
-
-2024
-
-2025
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-# Keeping Personal and Professional Seperate As An Entrepreneur
-
 Stepping into the world of self-employment and delivering a burgeoning idea from its very first inception to reality and consumers is an exciting but slightly scary proposition.
 
 Regardless of the products or services you’re going to sell or distribute, going it alone has some massive steps to climb, hurdles to face, and huge consequences if it all goes wrong.
@@ -77,15 +36,3 @@ It’s not just about setting professional boundaries; it’s about setting pers
 
 You need to
 have priorities so you don’t get swamped with work, life, and anything else. You need to know when you have to be free to do certain things as non-negotiables. For example, are you more creative or productive at certain times of the day or in specific environments? Are you better at hosting meetings in the morning rather than in the afternoon? Do you prefer to work later in the evening? Know your personal priorities for conducive working environments and then attach them to business priorities so you can set a schedule that enables you to do what you need to do when it needs to be done or is more likely to get completed in the best possible way.
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now

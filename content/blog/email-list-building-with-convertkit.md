@@ -7,47 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20240223090745"
 ---
 
-Boost Your Reach: Email List Building with ConvertKit - The Well-Paid Expert
-
-7 captures
-
-23 Feb 2024 - 16 Dec 2025
-
-Jan
-
-FEB
-
-Mar
-
-23
-
-2023
-
-2024
-
-2025
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-# Boost Your Reach: Email List Building with ConvertKit
-
 Let’s dive straight into the heart of **
 Email list
 building with ConvertKit**.
@@ -285,15 +244,3 @@ With these tools, patience, and strategy at hand, you’re ready to build an eng
 Tired of trading time for money? Ready to get paid for what you know?
 Become a Well-Paid Expert
 shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now

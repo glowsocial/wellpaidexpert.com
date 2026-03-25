@@ -7,47 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20241005040716"
 ---
 
-4 Issues That Can Disrupt Your Mental Health - The Well-Paid Expert
-
-4 captures
-
-05 Oct 2024 - 14 Jan 2026
-
-Sep
-
-OCT
-
-Nov
-
-05
-
-2023
-
-2024
-
-2025
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-# 4 Issues That Can Disrupt Your Mental Health
-
 If you are trying to look after your mental health then you need to also be in tune with your physical health. The two go hand in hand and work as a great team, however, if one is out of sync then you may have some issues. Mental health is vital for
 your health and wellbeing, if you haven’t been feeling up to anything lately then it might be time to address this. There can be many causes of mental health conditions, take a look at the article below to find out more.
 
@@ -74,15 +33,3 @@ counselling groups
 and therapists you could contact, just to know you are not alone.
 
 We hope you have found this article helpful and that it gave you some ideas on how you can best manage your mental health. Getting on top of your mental health before it becomes an issue is paramount as you don’t want to end up taking valuable time off work or away from your family.
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now

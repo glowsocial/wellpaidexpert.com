@@ -7,45 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20250427094229"
 ---
 
-What Can You Do After Deciding Your Career Isn't Quite Right For You? - The Well-Paid Expert
-
-3 captures
-
-27 Apr 2025 - 16 Dec 2025
-
-Mar
-
-APR
-
-May
-
-27
-
-2024
-
-2025
-
-2026
-
-success
-
-fail
-
-COLLECTED BY
-
-Collection:
-Common Crawl
-
-Web crawl data from Common Crawl.
-
-TIMESTAMPS
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
 # What Can You Do After Deciding Your Career Isn’t Quite Right For You?
 
 Deciding that you’re in the wrong career is quite the gut punch. You might have spent a lot of time working your way up to where you are now, and once you’re here, nothing feels right. The work
@@ -82,15 +43,3 @@ For most though, the answer will revolve around paying the bills and keeping the
 However, you can still think long term. You can still rearrange parts of your life to support your long term goals. Cutting back hours, for example, or taking a training course you’re genuinely passionate about.
 
 It’s OK if your career isn’t quite right for you. There’s plenty of time to decide what to do next and make it happen.
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
-
-## Which well-paid expert are you?
-
-Take this quick (60-second) quiz to find out which type of well-paid expert you are, and what steps to take to make that dream a reality.
-
-Take the quiz and find out now
