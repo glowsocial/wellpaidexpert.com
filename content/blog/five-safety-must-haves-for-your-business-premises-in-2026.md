@@ -18,7 +18,7 @@ If you're currently struggling to get to grips with things, this article is here
 
 Fire is the health and safety matter most people's minds go to when they think of the topic, and that's with good reason. Even a small fire can cause devastating damage across a wide area, endangering lives and generally destroying everything in its path.
 
-As such, it's essential to have a robust fire safety system in place. This will encompass modern fire alarms, extinguishers, sprinkler systems, and fire-rated commercial doors.
+As such, it's essential to have a robust fire safety system in place. This will encompass modern fire alarms, extinguishers, sprinkler systems, and [fire-rated commercial doors](https://www.usafiredoor.com/).
 
 It's also critical to have a fire safety procedure in place. This means regular drills with a well-thought-out exit strategy for everyone in the building.
 
