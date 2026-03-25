@@ -7,7 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20250321081633"
 ---
 
-# Worried About Becoming A Boss? Three Things That’ll Ensure You’re Good At The Job
 
 Being a business owner and
 being a boss
@@ -17,22 +16,22 @@ And for some owners, this is a very daunting thing. You’re going to be in char
 
 But the more you think about creating a fair workplace, the better a boss you’re going to be. Take charge of that right now; here are some tips to help with that.
 
-Pexels Image – CC0 Licence
+![Manager leading a team meeting in a modern office](/new-boss-leadership.png)
 
-If Criticising, Recognize Good Work First
+## If Criticising, Recognize Good Work First
 
 There’s going to come a time when you need to have a word with an employee. Ensure this is done privately; you don’t want to embarrass anyone. You also don’t want to criticise in a way that makes the employee feel unappreciated or attacked. That’s why you should recognise what they’ve done well at the same time.
 
 This way your criticism doesn’t come across unfair. It comes across as well intentioned and genuine, even if it has a negative tone to it. You might want them to try something differently or adjust their attitude in a certain area, but you remind them that they’re a good worker and an integral part of the team.
 
-Get Covered By Insurance
+## Get Covered By Insurance
 
 Insurance is key to running a business safely, but if you’re about to bring employees into the fold, it’s time to get some
 workers comp insurance. Accidents in the workplace are a lot more common than you may think, even in small business offices where you’d assume it’d be hard to get injured.
 
 Workers’ compensation makes life a lot easier for a brand new boss. It provides peace of mind, especially as you can never be sure when an emergency is going to occur. But with this key insurance policy in place, you’ll just be able to file a claim to ensure everyone is taken care of.
 
-Have the Same Rules for Everyone
+## Have the Same Rules for Everyone
 
 It’s quite common in the workplace for some employees to feel like they’re being treated differently. If different employees get different privileges, resentment will spread fast through your office.
 

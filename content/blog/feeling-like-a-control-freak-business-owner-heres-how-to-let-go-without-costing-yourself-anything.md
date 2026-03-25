@@ -18,7 +18,7 @@ in money, in customers, and even in the well-oiled internal operations you’ve 
 
 So let’s make sure you can let go without losing what you’ve worked so hard to build. If you’re a business owner who’s been acting a bit like a control freak lately, here’s what you need to hear.
 
-Pexels Image – CC0 Licence
+![Business owner delegating tasks to a capable team member](/business-delegation.png)
 
 ## Remember, Your Business is Staffed with Capable People
 
@@ -64,5 +64,3 @@ And most of all, bad customer service experiences happen to everyone! You’re d
 
 Look to feedback to see what people really want from you, make sure you trust your team, and don’t feel you have to be in charge 24/7. You’ll still be in business tomorrow, and you’ll still be working toward your long term goals.
 
-Posted in
-Running a business
