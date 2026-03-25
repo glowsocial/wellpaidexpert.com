@@ -12,6 +12,8 @@ The matter can naturally be a little stressful for you to puzzle through, and pe
 
 If you're currently struggling to get to grips with things, this article is here to help you out. Here are five safety must-haves for you to go through methodically and get on track.
 
+![A modern commercial building entrance with security features](/business-premises-safety.png)
+
 ## 1. Fire Safety Systems
 
 Fire is the health and safety matter most people's minds go to when they think of the topic, and that's with good reason. Even a small fire can cause devastating damage across a wide area, endangering lives and generally destroying everything in its path.
@@ -33,6 +35,8 @@ There are also matters such as having proper lighting implemented to promote men
 A big part of workplace safety revolves around the accessibility of your premises. You should tightly control who is able to freely come in and out of the building with an access control system, and a modern CCTV system should monitor all key areas 24/7 to ensure everything is as it should be.
 
 Regarding access control, if you have a large staff, key cards are indispensable. Modern access control enables you to segment the building into different tiers, making sure that only the people who are authorised can access a given area. This goes a long way in guaranteeing everything continues to function properly, and that no one ends up somewhere they aren't fully trained to be in (which could be a hazard to both themselves and others).
+
+![Office worker using keycard access control with CCTV cameras visible](/cctv-access-control.png)
 
 ## 4. Cybersecurity Infrastructure
 
