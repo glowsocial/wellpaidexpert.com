@@ -13,7 +13,7 @@ It’ll take time for that to happen. However, how
 much
 time is somewhat within your control. While overnight success is out of bounds (except for those one in a million cases), there are a few strategies for speeding up your journey towards profitability.
 
-Pexels – CC0 Licence
+![Young entrepreneur working on a laptop in a bright startup workspace](/young-business-success.png)
 
 ## Get a Professional Look
 

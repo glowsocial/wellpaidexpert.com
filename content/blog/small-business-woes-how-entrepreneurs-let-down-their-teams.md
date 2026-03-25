@@ -1,13 +1,13 @@
 ---
 title: "Small Business Woes: How Entrepreneurs Let Down Their Teams"
-description: "Pexels - CC0 License"
+description: "Small businesses thrive when their leaders make the right decisions. Here's how to avoid the most common ways entrepreneurs let their teams down."
 slug: "small-business-woes-how-entrepreneurs-let-down-their-teams"
 source_url: "https://thewellpaidexpert.com/small-business-woes-how-entrepreneurs-let-down-their-teams/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427095744"
 ---
 
-Pexels – CC0 License
+![Small business team collaborating in a modern office](/small-business-team.png)
 
 Small businesses thrive when their leaders make the right decisions. But when they overlook things or get their attitude wrong, it can create massive disturbances that undermine the firm as a whole.
 
