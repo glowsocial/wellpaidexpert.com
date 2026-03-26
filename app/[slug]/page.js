@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import Image from "next/image";
 import Link from "next/link";
 import { getAllSlugs, getPostBySlug } from "@/lib/posts";
 import { markdownToHtml } from "@/lib/markdown";
@@ -23,6 +24,9 @@ export async function generateMetadata({ params }) {
       title: post.title,
       description: post.description || post.title,
       type: "article",
+      ...(post.image && {
+        images: [{ url: post.image, alt: post.title }],
+      }),
     },
   };
 }
@@ -38,6 +42,18 @@ export default async function BlogPost({ params }) {
   return (
     <article className="blog-post">
       <div className="blog-post-header">
+        {post.image && (
+          <div className="blog-post-image">
+            <Image
+              src={post.image}
+              alt={post.title}
+              width={960}
+              height={540}
+              priority
+              style={{ width: "100%", height: "auto", borderRadius: "12px" }}
+            />
+          </div>
+        )}
         <h1>{post.title}</h1>
         <div className="blog-post-meta">
           <span>{post.readingTime}</span>
@@ -62,3 +78,4 @@ export default async function BlogPost({ params }) {
     </article>
   );
 }
+
