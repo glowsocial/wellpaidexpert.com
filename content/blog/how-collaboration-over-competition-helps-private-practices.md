@@ -10,8 +10,7 @@ image: "/how-collaboration-over-competition-helps-private-practices.png"
 
 ![Medical professionals collaborating around a conference table in a modern clinic](/how-collaboration-over-competition-helps-private-practices.png)
 
-Running a private healthcare practice can sometimes feel like you’re running a never-ending obstacle course, you’re just trying to do anything and everything you can to stay compliant, to
-keep an efficient workplace, to keep the patients (your customers) happy, your staff happy, reel in more people, and the list goes on and on.
+Running a private healthcare practice can sometimes feel like you’re running a never-ending obstacle course, you’re just trying to do anything and everything you can to stay compliant, to keep an efficient workplace, to keep the patients (your customers) happy, your staff happy, reel in more people, and the list goes on and on.
 
 There’s basically regulatory hoops left and right, and so much in between to keep the lights on too. And just when it seems like things are under control, another practice pops up down the street, making it feel like an all-out turf war.
 
@@ -63,8 +62,7 @@ it’s only making things harder. Every lost referral, every unread fax, and eve
 
 Medical records should be accessible, not a scavenger hunt. It goes back to earlier too that was mentioned in the post. Now, one of the biggest hurdles to smooth collaboration between practices is the back-and-forth of patient records, especially imaging. You would think nowadays this wouldn’t be a problem, but it’s still pretty prevalent.
 
-No patient should have to show up to an appointment clutching a CD of their own X-rays, hoping the doctor’s office has the right software to open it. The right technology makes this process seamless. But the
-PACS software, for example, eliminates the waiting game (and it’s modern too).
+No patient should have to show up to an appointment clutching a CD of their own X-rays, hoping the doctor’s office has the right software to open it. The right technology makes this process seamless. But the PACS software, for example, eliminates the waiting game (and it’s modern too).
 
 So instead of dealing with the potential of lost scans, repeats (which often don’t get covered by most patients’ health insurance), and so on, this instant access just saves everyone a headache. Besides, this alone means faster diagnoses which means your patients are going to get treatment ASAP.
 
@@ -76,8 +74,7 @@ Most practices are rolling out secure messaging systems, shared scheduling platf
 
 ## Strengthening Community Ties Through Collaboration
 
-At the end of the day, a private practice isn’t just a business, rather, it’s
-part of the fabric of the local community. It’s where families bring their kids for checkups, where older adults manage their long-term health, and where people turn when they need care they can trust. When practices work together with local hospitals, specialists, and healthcare organizations, they create a healthcare network that doesn’t just function, but honestly, it thrives!
+At the end of the day, a private practice isn’t just a business, rather, it’s part of the fabric of the local community. It’s where families bring their kids for checkups, where older adults manage their long-term health, and where people turn when they need care they can trust. When practices work together with local hospitals, specialists, and healthcare organizations, they create a healthcare network that doesn’t just function, but honestly, it thrives!
 
 ### Participating in Community Health Initiatives
 
