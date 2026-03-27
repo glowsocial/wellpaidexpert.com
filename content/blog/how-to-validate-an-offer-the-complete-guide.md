@@ -89,7 +89,7 @@ Studying competitors and their offerings
 
 Engaging with online communities and forums
 
-The goal is to assess the size and growth potential of your market, identify unmet needs or gaps, and gauge the level of market demand for your offer. With all this, having agents out in the field speaking to customers and gathering data, it can be enormously helpful to make use of some [field service management software](https://www.optsy.com/), so that you can have full control of that workflow every day.
+The goal is to assess the size and growth potential of your market, identify unmet needs or gaps, and gauge the level of market demand for your offer. With all this, having agents out in the field speaking to customers and gathering data, it can be enormously helpful to make use of some field service management software, so that you can have full control of that workflow every day.
 
 ### Evaluating the Competition
 
