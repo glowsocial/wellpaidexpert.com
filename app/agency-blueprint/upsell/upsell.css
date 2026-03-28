@@ -1,0 +1,571 @@
+/* ========================================
+   OTO / Upsell Page — Redesigned for Conversion
+   ======================================== */
+
+/* ===== LAYOUT ===== */
+.oto {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* ===== PATTERN INTERRUPT ===== */
+.oto-interrupt {
+  background: var(--navy);
+  padding: 80px 24px 72px;
+  text-align: center;
+}
+
+.oto-interrupt-inner {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.oto-wait {
+  display: inline-block;
+  background: var(--maroon);
+  color: var(--white);
+  font-family: var(--font-nav);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  padding: 8px 20px;
+  margin-bottom: 32px;
+  animation: pulse-badge 2s ease-in-out infinite;
+}
+
+@keyframes pulse-badge {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.8; transform: scale(1.02); }
+}
+
+.oto h1 {
+  font-family: var(--font-heading);
+  font-size: clamp(1.8rem, 4.5vw, 2.6rem);
+  color: var(--white);
+  line-height: 1.2;
+  margin-bottom: 24px;
+}
+
+.oto-highlight {
+  color: #f4c542;
+  display: block;
+  margin-top: 4px;
+}
+
+.oto-hook {
+  font-size: 1.05rem;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.75;
+  max-width: 540px;
+  margin: 0 auto;
+}
+
+.oto-hook em {
+  color: rgba(255, 255, 255, 0.95);
+  font-style: italic;
+}
+
+/* ===== THE GAP / TIMELINE ===== */
+.oto-gap {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 72px 24px 64px;
+}
+
+.oto-gap-title {
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  color: var(--text-dark);
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.oto-timeline {
+  position: relative;
+  padding-left: 32px;
+  margin-bottom: 48px;
+}
+
+.oto-timeline::before {
+  content: "";
+  position: absolute;
+  left: 8px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(
+    to bottom,
+    var(--card-border) 0%,
+    var(--maroon) 60%,
+    var(--card-border) 100%
+  );
+}
+
+.oto-timeline-item {
+  position: relative;
+  padding: 16px 0 24px 24px;
+}
+
+.oto-timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -28px;
+  top: 22px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--cream-dark);
+  border: 2px solid var(--card-border);
+}
+
+.oto-timeline-problem::before {
+  background: var(--maroon);
+  border-color: var(--maroon);
+  width: 12px;
+  height: 12px;
+  left: -29px;
+}
+
+.oto-timeline-day {
+  font-family: var(--font-nav);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.oto-timeline-item p {
+  font-size: 0.95rem;
+  color: var(--text-dark);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.oto-timeline-problem p {
+  color: var(--maroon);
+  font-weight: 500;
+}
+
+.oto-timeline-problem p em {
+  font-weight: 700;
+}
+
+.oto-gap-bridge {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  color: var(--text-dark);
+  line-height: 1.65;
+  text-align: center;
+  padding: 32px 20px;
+  border-top: 1px solid var(--card-border);
+}
+
+.oto-gap-bridge em {
+  font-style: italic;
+  color: var(--maroon);
+}
+
+/* ===== THE OFFER / WITH-WITHOUT ===== */
+.oto-offer {
+  background: var(--cream-dark);
+  padding: 72px 24px;
+}
+
+.oto-offer-header {
+  max-width: 640px;
+  margin: 0 auto 48px;
+  text-align: center;
+}
+
+.oto-offer-eyebrow {
+  font-family: var(--font-nav);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--maroon);
+  margin-bottom: 12px;
+}
+
+.oto-offer-header h2 {
+  font-family: var(--font-heading);
+  font-size: clamp(1.4rem, 3.5vw, 1.9rem);
+  color: var(--text-dark);
+  line-height: 1.35;
+}
+
+.oto-offer-header em {
+  font-style: italic;
+}
+
+/* WITH / WITHOUT Split */
+.oto-split {
+  max-width: 720px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.oto-split-col {
+  padding: 28px 24px;
+}
+
+.oto-split-col h3 {
+  font-family: var(--font-nav);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.oto-split-col ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.oto-split-col li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+/* Without */
+.oto-split-without {
+  background: var(--white);
+  border: 1px solid var(--card-border);
+}
+
+.oto-split-without h3 {
+  color: var(--text-muted);
+}
+
+.oto-split-without li {
+  color: var(--text-muted);
+}
+
+.x-mark {
+  flex-shrink: 0;
+  color: #c0392b;
+  font-weight: 700;
+  font-size: 0.8rem;
+  margin-top: 1px;
+}
+
+/* With */
+.oto-split-with {
+  background: var(--navy);
+  color: var(--white);
+  border: 2px solid var(--navy);
+}
+
+.oto-split-with h3 {
+  color: #f4c542;
+}
+
+.oto-split-with li {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.check-mark {
+  flex-shrink: 0;
+  color: #2d6a4f;
+  background: #e8f5e9;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.65rem;
+  font-weight: 700;
+  margin-top: 1px;
+}
+
+/* ===== THE MATH ===== */
+.oto-math-section {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 72px 24px;
+  text-align: center;
+}
+
+.oto-math-section h2 {
+  font-family: var(--font-heading);
+  font-size: 1.4rem;
+  color: var(--text-dark);
+  margin-bottom: 40px;
+}
+
+.oto-math-blocks {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 36px;
+}
+
+.oto-math-block {
+  padding: 24px 20px;
+  min-width: 120px;
+}
+
+.oto-math-num {
+  font-family: var(--font-heading);
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--text-dark);
+  line-height: 1;
+  margin-bottom: 6px;
+}
+
+.oto-math-num span {
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: var(--text-muted);
+}
+
+.oto-math-desc {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-family: var(--font-nav);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.oto-math-divider {
+  font-family: var(--font-heading);
+  font-size: 1.8rem;
+  color: var(--card-border);
+}
+
+.oto-math-result .oto-math-num {
+  color: #2d6a4f;
+}
+
+.oto-math-punchline {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--text-dark);
+  padding-top: 24px;
+  border-top: 1px solid var(--card-border);
+}
+
+.oto-math-punchline em {
+  display: block;
+  font-family: var(--font-heading);
+  font-size: 1.3rem;
+  color: var(--maroon);
+  margin-top: 8px;
+  font-style: italic;
+}
+
+/* ===== CTA SECTION ===== */
+.oto-cta-section {
+  background: var(--cream-dark);
+  padding: 64px 24px 80px;
+  text-align: center;
+}
+
+/* Timer */
+.oto-timer {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--white);
+  border: 1px solid var(--card-border);
+  padding: 10px 20px;
+  margin-bottom: 32px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.oto-timer strong {
+  color: var(--maroon);
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+}
+
+.oto-timer-icon {
+  font-size: 1.1rem;
+}
+
+/* CTA Box */
+.oto-cta-box {
+  max-width: 520px;
+  margin: 0 auto;
+  background: var(--white);
+  border: 2px solid var(--navy);
+  padding: 48px 40px;
+}
+
+.oto-cta-box h2 {
+  font-family: var(--font-heading);
+  font-size: 1.6rem;
+  color: var(--text-dark);
+  margin-bottom: 12px;
+}
+
+.oto-cta-includes {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin-bottom: 28px;
+}
+
+.oto-cta-price {
+  margin-bottom: 24px;
+}
+
+.oto-cta-amount {
+  font-family: var(--font-heading);
+  font-size: 3.2rem;
+  font-weight: 700;
+  color: var(--text-dark);
+}
+
+.oto-cta-per {
+  font-size: 1rem;
+  color: var(--text-muted);
+}
+
+.oto-cta-btn {
+  display: block;
+  width: 100%;
+  padding: 20px 32px;
+  background: var(--maroon);
+  color: var(--white);
+  font-family: var(--font-nav);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  position: relative;
+}
+
+.oto-cta-btn:hover {
+  background: var(--navy);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.oto-cta-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.oto-cta-sub {
+  display: block;
+  font-size: 0.65rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  opacity: 0.7;
+  margin-top: 6px;
+}
+
+.oto-spinner {
+  animation: spin-dots 1.5s ease-in-out infinite;
+}
+
+@keyframes spin-dots {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+.oto-error {
+  color: #c0392b;
+  font-size: 0.85rem;
+  margin-top: 16px;
+}
+
+.oto-guarantee {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin-top: 20px;
+  line-height: 1.6;
+}
+
+/* Decline */
+.oto-decline {
+  display: inline-block;
+  margin-top: 40px;
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color 0.2s ease;
+  opacity: 0.6;
+}
+
+.oto-decline:hover {
+  color: var(--text-dark);
+  opacity: 1;
+}
+
+/* ===== ANIMATIONS ===== */
+.oto-fade {
+  opacity: 0;
+  transform: translateY(12px);
+  animation: fade-in-up 0.5s ease forwards;
+}
+
+.oto-fade:nth-child(1) { animation-delay: 0.1s; }
+.oto-fade:nth-child(2) { animation-delay: 0.3s; }
+.oto-fade:nth-child(3) { animation-delay: 0.5s; }
+.oto-fade:nth-child(4) { animation-delay: 0.7s; }
+
+@keyframes fade-in-up {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ===== MOBILE ===== */
+@media (max-width: 640px) {
+  .oto-interrupt {
+    padding: 60px 20px 56px;
+  }
+
+  .oto-split {
+    grid-template-columns: 1fr;
+  }
+
+  .oto-math-blocks {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .oto-math-divider {
+    transform: rotate(90deg);
+  }
+
+  .oto-cta-box {
+    padding: 32px 20px;
+  }
+
+  .oto-cta-amount {
+    font-size: 2.6rem;
+  }
+}

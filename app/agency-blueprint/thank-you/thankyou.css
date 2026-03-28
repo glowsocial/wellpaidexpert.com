@@ -1,0 +1,142 @@
+/* ========================================
+   Thank You / Delivery Page
+   ======================================== */
+
+.thankyou {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 80px 24px 120px;
+  text-align: center;
+}
+
+.thankyou-icon {
+  width: 64px;
+  height: 64px;
+  background: #e8f5e9;
+  color: #2d6a4f;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin: 0 auto 24px;
+}
+
+.thankyou h1 {
+  font-family: var(--font-heading);
+  font-size: 2.8rem;
+  color: var(--text-dark);
+  margin-bottom: 16px;
+}
+
+.thankyou-subtitle {
+  font-size: 1.1rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin-bottom: 48px;
+}
+
+/* ===== Cards ===== */
+.thankyou-card {
+  background: var(--white);
+  border: 1px solid var(--card-border);
+  padding: 36px;
+  text-align: left;
+  margin-bottom: 24px;
+}
+
+.thankyou-card h2 {
+  font-family: var(--font-heading);
+  font-size: 1.3rem;
+  color: var(--text-dark);
+  margin-bottom: 10px;
+}
+
+.thankyou-card p {
+  color: var(--text-muted);
+  line-height: 1.65;
+  margin-bottom: 20px;
+}
+
+.thankyou-card-dark {
+  background: var(--navy);
+  border-color: var(--navy);
+}
+
+.thankyou-card-dark h2,
+.thankyou-card-dark p {
+  color: var(--white);
+}
+
+.thankyou-card-dark p {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+/* ===== CTA ===== */
+.thankyou-cta {
+  display: inline-block;
+  padding: 14px 28px;
+  background: var(--maroon);
+  color: var(--white);
+  font-family: var(--font-nav);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.thankyou-cta:hover {
+  background: var(--navy);
+  transform: translateY(-1px);
+}
+
+.thankyou-cta-light {
+  background: var(--white);
+  color: var(--navy);
+}
+
+.thankyou-cta-light:hover {
+  background: var(--cream);
+  color: var(--maroon);
+}
+
+.thankyou-bookmark {
+  font-size: 0.8rem !important;
+  color: var(--text-muted) !important;
+  margin-top: 16px;
+  margin-bottom: 0 !important;
+}
+
+/* ===== Reminder ===== */
+.thankyou-reminder {
+  background: var(--cream-dark);
+  padding: 24px 28px;
+  text-align: left;
+  margin-top: 16px;
+}
+
+.thankyou-reminder p {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.thankyou-reminder a {
+  color: var(--maroon);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+@media (max-width: 600px) {
+  .thankyou {
+    padding: 60px 16px 80px;
+  }
+
+  .thankyou-card {
+    padding: 24px 20px;
+  }
+}
