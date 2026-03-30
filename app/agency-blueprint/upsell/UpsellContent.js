@@ -10,27 +10,11 @@ export default function UpsellContent() {
   const sessionId = searchParams.get("session_id");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
-  const [minutes, setMinutes] = useState(14);
-  const [seconds, setSeconds] = useState(59);
 
   // Redirect if no session
   useEffect(() => {
     if (!sessionId) router.replace("/agency-blueprint");
   }, [sessionId, router]);
-
-  // Countdown timer — urgency
-  useEffect(() => {
-    const timer = setInterval(() => {
-      setSeconds((s) => {
-        if (s === 0) {
-          setMinutes((m) => (m === 0 ? 0 : m - 1));
-          return 59;
-        }
-        return s - 1;
-      });
-    }, 1000);
-    return () => clearInterval(timer);
-  }, []);
 
   const handleUpsell = async () => {
     setLoading(true);
@@ -64,204 +48,157 @@ export default function UpsellContent() {
 
   return (
     <div className="oto">
-      {/* ===== PATTERN INTERRUPT ===== */}
-      <div className="oto-interrupt">
-        <div className="oto-interrupt-inner">
-          <p className="oto-wait">WAIT — YOUR ORDER IS NOT COMPLETE</p>
-          <h1>
-            You just got the playbook.
-            <br />
-            <span className="oto-highlight">
-              Now get the machine that runs it.
-            </span>
-          </h1>
-          <p className="oto-hook">
-            Right now, you have the scripts, the templates, and the strategy.
-            But you&apos;re still missing the one thing that turns this from
-            a PDF into a <em>business</em>: the content engine.
-          </p>
-        </div>
+      {/* ===== WARNING HEADER ===== */}
+      <div className="oto-warning-bar">
+        <p>Step 1 Complete. Order Confirmed.</p>
+        <p className="oto-warning-sub">We have a one-time invitation for you before you access your blueprint.</p>
       </div>
 
-      {/* ===== THE GAP ===== */}
-      <section className="oto-gap">
-        <h2 className="oto-gap-title">
-          Here&apos;s what happens to most people who buy blueprints:
-        </h2>
-        <div className="oto-timeline">
-          <div className="oto-timeline-item oto-fade">
-            <div className="oto-timeline-day">Day 1</div>
-            <p>Excited. Read the whole thing. &ldquo;I&apos;m doing this.&rdquo;</p>
-          </div>
-          <div className="oto-timeline-item oto-fade">
-            <div className="oto-timeline-day">Day 3</div>
-            <p>
-              Start sending outreach. A prospect says &ldquo;sure, show me
-              what you can do.&rdquo;
-            </p>
-          </div>
-          <div className="oto-timeline-item oto-fade oto-timeline-problem">
-            <div className="oto-timeline-day">Day 4</div>
-            <p>
-              Panic. You need to actually <em>create content</em> for this
-              person. You spend 6 hours on Canva making posts that look
-              like they were made in 2019. The prospect ghosts you.
-            </p>
-          </div>
-          <div className="oto-timeline-item oto-fade">
-            <div className="oto-timeline-day">Day 14</div>
-            <p>
-              Blueprint is sitting in your downloads folder. You&apos;re
-              back on Reddit wondering if this was a mistake.
-            </p>
+      <div className="oto-progress-bar">
+        <div className="oto-progress-fill" style={{ width: "100%" }}></div>
+      </div>
+
+      <div className="oto-container">
+        {/* ===== HOOK ===== */}
+        <div className="oto-header">
+          <h1>
+            Never Pay Subscriptions Again. <br/>Own <span className="oto-highlight">Glow Social</span> for Life.
+          </h1>
+          <p className="oto-hook">
+            You have the systems. Now you need the software to execute them. By default, running an agency requires piecing together 5 different tools. We built a single platform that does it all.
+          </p>
+        </div>
+
+        {/* ===== VSL PLACEHOLDER ===== */}
+        <div className="oto-video-wrapper">
+          <div className="oto-video-placeholder">
+            <svg className="oto-play-btn" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+            <p>Your OTO Video Here (2-3 mins)</p>
           </div>
         </div>
 
-        <p className="oto-gap-bridge">
-          This doesn&apos;t have to be you. The difference between people who
-          <em> read</em> about running an agency and people who{" "}
-          <em>actually run one</em> is always the same thing: fulfillment.
-        </p>
-      </section>
-
-      {/* ===== THE OFFER ===== */}
-      <section className="oto-offer">
-        <div className="oto-offer-header">
-          <p className="oto-offer-eyebrow">One-Time Offer — This Page Only</p>
-          <h2>
-            Glow Social handles <em>everything</em>
-            <br />
-            between &ldquo;the client said yes&rdquo;
-            <br />
-            and &ldquo;the content is live.&rdquo;
-          </h2>
-        </div>
-
-        <div className="oto-split">
-          <div className="oto-split-col oto-split-without">
-            <h3>Without Glow Social</h3>
-            <ul>
-              <li>
-                <span className="x-mark">✕</span> You create every post manually
-              </li>
-              <li>
-                <span className="x-mark">✕</span> 2-4 hours per client per week
-              </li>
-              <li>
-                <span className="x-mark">✕</span> Limited to 2-3 clients before burnout
-              </li>
-              <li>
-                <span className="x-mark">✕</span> Every new client = more hours
-              </li>
-              <li>
-                <span className="x-mark">✕</span> Can&apos;t take a vacation
-              </li>
-            </ul>
-          </div>
-          <div className="oto-split-col oto-split-with">
-            <h3>With Glow Social</h3>
-            <ul>
-              <li>
-                <span className="check-mark">✓</span> AI creates content in your client&apos;s voice
-              </li>
-              <li>
-                <span className="check-mark">✓</span> 15 minutes per client per week
-              </li>
-              <li>
-                <span className="check-mark">✓</span> Handle 6 clients without breaking a sweat
-              </li>
-              <li>
-                <span className="check-mark">✓</span> Every new client = more profit, same effort
-              </li>
-              <li>
-                <span className="check-mark">✓</span> Content runs while you sleep
-              </li>
-            </ul>
-          </div>
-        </div>
-      </section>
-
-      {/* ===== THE MATH ===== */}
-      <section className="oto-math-section">
-        <h2>Let&apos;s do the math you&apos;re already doing in your head</h2>
-        <div className="oto-math-blocks">
-          <div className="oto-math-block">
-            <div className="oto-math-num">$199<span>/mo</span></div>
-            <div className="oto-math-desc">Your Glow Social cost</div>
-          </div>
-          <div className="oto-math-divider">÷</div>
-          <div className="oto-math-block">
-            <div className="oto-math-num">6</div>
-            <div className="oto-math-desc">Clients you can manage</div>
-          </div>
-          <div className="oto-math-divider">=</div>
-          <div className="oto-math-block oto-math-result">
-            <div className="oto-math-num">$33<span>/client</span></div>
-            <div className="oto-math-desc">Your cost per client</div>
-          </div>
-        </div>
-        <p className="oto-math-punchline">
-          You charge <strong>$500–$1,500</strong> per client.
-          <br />
-          Your fulfillment costs <strong>$33</strong>.
-          <br />
-          <em>That&apos;s a 93% margin business.</em>
-        </p>
-      </section>
-
-      {/* ===== CTA BOX ===== */}
-      <section className="oto-cta-section">
-        <div className="oto-timer">
-          <div className="oto-timer-icon">⏱</div>
+        {/* ===== THE PITCH ===== */}
+        <div className="oto-content-box">
+          <h2>Glow Social Boutique Plan (Lifetime Access)</h2>
           <p>
-            This one-time offer expires in{" "}
-            <strong>
-              {minutes}:{seconds.toString().padStart(2, "0")}
-            </strong>
+            The difference between people who <em>read</em> about running an agency and people who <em>actually run one</em> is getting the tech stack out of the way so they can just sell.
           </p>
+          
+          <div className="oto-split">
+            <div className="oto-split-col oto-split-without">
+              <h3>The Hard Way</h3>
+              <ul>
+                <li><svg className="icon-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> Wrangling Zapier/Make connections</li>
+                <li><svg className="icon-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> Managing content in messy CSVs</li>
+                <li><svg className="icon-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> Designing graphics from scratch in Canva</li>
+                <li><svg className="icon-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> Hacking together a client portal</li>
+                <li><svg className="icon-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> Paying $199/month for software subscriptions</li>
+              </ul>
+            </div>
+            <div className="oto-split-col oto-split-with">
+              <h3>With Lifetime Access</h3>
+              <ul>
+                <li><svg className="icon-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg> Fully configured, white-labeled client portal</li>
+                <li><svg className="icon-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg> Built-in scheduling and publishing</li>
+                <li><svg className="icon-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg> AI trained in your exact style</li>
+                <li><svg className="icon-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg> Seamless onboarding system</li>
+                <li><svg className="icon-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg> Never pay a recurring fee. Ever.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div className="oto-bento-section">
+            <h3>What's included in your Lifetime License:</h3>
+            <div className="oto-bento-grid">
+              <div className="oto-bento-card">
+                <div className="oto-bento-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg></div>
+                <h4>White-Label Portals for You + 5 Clients</h4>
+                <p>Your domain, your brand, your logo. Manage content for your own agency plus 5 recurring clients in an experience you own entirely.</p>
+              </div>
+              <div className="oto-bento-card">
+                <div className="oto-bento-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg></div>
+                <h4>Custom AI Calibration</h4>
+                <p>Dial in the AI prompts within the software so it generates content that sounds exactly like your clients.</p>
+              </div>
+              <div className="oto-bento-card">
+                <div className="oto-bento-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg></div>
+                <h4>Automated Approval Flows</h4>
+                <p>Friction-free content intake and client approval system, built right into the app to stop email threading.</p>
+              </div>
+              <div className="oto-bento-card oto-bento-highlight">
+                <div className="oto-bento-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg></div>
+                <h4>Lifetime Software Updates</h4>
+                <p>Use the entire platform forever without the looming $199/month fee. Any future updates, you get them.</p>
+              </div>
+            </div>
+          </div>
         </div>
 
-        <div className="oto-cta-box">
-          <h2>Activate Your Agency Engine</h2>
-          <p className="oto-cta-includes">
-            Up to 6 client brands · AI content creation · Multi-platform
-            publishing · Preview tool for closing prospects · Cancel anytime
-          </p>
-
-          <div className="oto-cta-price">
-            <span className="oto-cta-amount">$199</span>
-            <span className="oto-cta-per">/month</span>
+        {/* ===== THE MATH & FOUNDER ===== */}
+        <div className="oto-roi-founder-wrapper">
+          <div className="oto-math-card">
+            <h3>Visualizing the ROI</h3>
+            <div className="oto-math-comparison">
+              <div className="oto-math-monthly">
+                <span className="math-label">The Standard Way</span>
+                <span className="math-cost">$199<span className="math-period">/mo</span></span>
+                <span className="math-total">Total: $11,940 over 5 years</span>
+              </div>
+              <div className="oto-math-vs">VS</div>
+              <div className="oto-math-lifetime">
+                <span className="math-label">Your Lifetime Deal</span>
+                <span className="math-cost">$997<span className="math-period">/once</span></span>
+                <span className="math-total">Total: $997 forever</span>
+              </div>
+            </div>
+            <p className="oto-math-breaker">You break even in exactly 5 months. After that, 100% of your software cost stays in your pocket as agency profit.</p>
           </div>
+
+          <div className="oto-founder-note">
+            <div className="founder-avatar">
+              KC
+            </div>
+            <div className="founder-text">
+              <strong>A note from Kathleen:</strong>
+              <p>"I'm offering this Lifetime Deal because our highest-performing agency partners are the ones who don't have to stress about recurring overhead. You get full access to the Glow Social Boutique plan, giving you everything you need to run a high-margin boutique agency—and any feature we add to it in the future, you get it automatically."</p>
+            </div>
+          </div>
+        </div>
+
+        {/* ===== CALL TO ACTION ===== */}
+        <div className="oto-cta-section">
+          <div className="oto-cta-price">
+            <span className="oto-cta-amount">$997</span>
+            <span className="oto-cta-per">One-Time Payment</span>
+          </div>
+          
+          <p className="oto-guarantee-text">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+            100% Risk-Free. 14-Day Money Back Guarantee.
+          </p>
 
           <button
-            className="oto-cta-btn"
+            className="oto-btn-yes"
             onClick={handleUpsell}
             disabled={loading}
           >
             {loading ? (
               <span className="oto-spinner">Processing...</span>
             ) : (
-              <>
-                YES — Activate My Agency Plan
-                <span className="oto-cta-sub">
-                  One click. No re-entering your card.
-                </span>
-              </>
+              <div className="oto-btn-content">
+                <span className="oto-btn-title">YES! UPGRADE MY ORDER</span>
+                <span className="oto-btn-sub">Add Lifetime Software Access (One-click upgrade)</span>
+              </div>
             )}
           </button>
-
+          
           {error && <p className="oto-error">{error}</p>}
 
-          <p className="oto-guarantee">
-            🔒 Cancel anytime from your dashboard. No contracts. No commitments.
-            Your card on file will be charged $199 today.
-          </p>
+          <button className="oto-btn-no" onClick={handleDecline}>
+            No thanks. I'll stick to paying monthly software fees and hacking together my own tech stack. Let me access the blueprint now.
+          </button>
         </div>
-
-        <button className="oto-decline" onClick={handleDecline}>
-          No thanks, I&apos;ll figure out content creation on my own →
-        </button>
-      </section>
+      </div>
     </div>
   );
 }

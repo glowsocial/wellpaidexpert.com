@@ -1,9 +1,16 @@
 "use client";
 import Link from "next/link";
 import { useState } from "react";
+import { usePathname } from "next/navigation";
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
+  const pathname = usePathname();
+
+  // Hide the nav on the upsell page where we want an assumed close and no distractions
+  if (pathname && pathname.includes('/agency-blueprint/upsell')) {
+    return null;
+  }
 
   return (
     <header className="site-header">

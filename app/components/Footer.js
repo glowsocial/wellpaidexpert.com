@@ -1,6 +1,15 @@
+"use client";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 export default function Footer() {
+  const pathname = usePathname();
+
+  // Hide the footer on the upsell page where we want an assumed close and no distractions
+  if (pathname && pathname.includes('/agency-blueprint/upsell')) {
+    return null;
+  }
+
   return (
     <footer className="site-footer">
       <div className="container">
