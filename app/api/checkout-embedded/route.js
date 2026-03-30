@@ -15,7 +15,6 @@ export async function POST(req) {
     // This avoids the StripeConnectionError caused by cold-start connection pooling on Vercel
     const stripe = new Stripe(stripeKey, {
       apiVersion: "2024-12-18.acacia",
-      httpClient: Stripe.createFetchHttpClient(), // Use fetch instead of Node http — works on edge/serverless
     });
 
     let includeBump = false;
