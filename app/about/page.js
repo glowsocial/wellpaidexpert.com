@@ -1,4 +1,5 @@
 import "./about.css";
+import Link from "next/link";
 
 export const metadata = {
   title: "About",
@@ -61,9 +62,9 @@ export default function AboutPage() {
                 Explore our articles and start building the business you
                 deserve.
               </p>
-              <a href="/articles" className="btn btn--primary btn--lg">
+              <Link href="/articles" className="btn btn--primary btn--lg">
                 Read the Articles &rarr;
-              </a>
+              </Link>
             </div>
           </div>
         </div>

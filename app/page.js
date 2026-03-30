@@ -41,7 +41,7 @@ export default function HomePage() {
       <section className="the-gap" style={{ padding: '100px 0', background: 'var(--white)' }}>
         <div className="container">
           <div style={{ maxWidth: 880, margin: '0 auto', textAlign: 'center' }}>
-            <h2 style={{ fontSize: 'clamp(2rem, 4vw, 2.6rem)', marginBottom: 24 }}>You don't need more followers. You need a <em>system</em>.</h2>
+            <h2 style={{ fontSize: 'clamp(2rem, 4vw, 2.6rem)', marginBottom: 24 }}>You don&apos;t need more followers. You need a <em>system</em>.</h2>
             <p style={{ fontSize: '1.2rem', color: 'var(--text-mid)', marginBottom: 64, lineHeight: 1.6, maxWidth: 640, margin: '0 auto 64px auto' }}>
               Most experts spend hours a day on LinkedIn or Instagram, hoping for inbound leads. We built a system that actively creates high-margin recurring revenue—without you dancing on TikTok.
             </p>

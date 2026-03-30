@@ -1,6 +1,7 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
+import Link from "next/link";
 
 export default function ThankYouContent() {
   const searchParams = useSearchParams();
@@ -24,9 +25,9 @@ export default function ThankYouContent() {
           The complete system — niche selection, outreach scripts, proposal
           templates, pricing frameworks, and the fulfillment secret.
         </p>
-        <a href="/agency-blueprint/guide" className="thankyou-cta">
+        <Link href="/agency-blueprint/guide" className="thankyou-cta">
           Open Your Blueprint →
-        </a>
+        </Link>
         <p className="thankyou-bookmark">
           📌 Bookmark this page. You can come back to it anytime.
         </p>

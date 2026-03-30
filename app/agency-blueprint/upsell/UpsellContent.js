@@ -108,7 +108,7 @@ export default function UpsellContent() {
           </div>
 
           <div className="oto-bento-section">
-            <h3>What's included in your Lifetime License:</h3>
+            <h3>What&apos;s included in your Lifetime License:</h3>
             <div className="oto-bento-grid">
               <div className="oto-bento-card">
                 <div className="oto-bento-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg></div>
@@ -160,7 +160,7 @@ export default function UpsellContent() {
             </div>
             <div className="founder-text">
               <strong>A note from Kathleen:</strong>
-              <p>"I'm offering this Lifetime Deal because our highest-performing agency partners are the ones who don't have to stress about recurring overhead. You get full access to the Glow Social Boutique plan, giving you everything you need to run a high-margin boutique agency—and any feature we add to it in the future, you get it automatically."</p>
+              <p>&quot;I&apos;m offering this Lifetime Deal because our highest-performing agency partners are the ones who don&apos;t have to stress about recurring overhead. You get full access to the Glow Social Boutique plan, giving you everything you need to run a high-margin boutique agency—and any feature we add to it in the future, you get it automatically.&quot;</p>
             </div>
           </div>
         </div>
@@ -195,7 +195,7 @@ export default function UpsellContent() {
           {error && <p className="oto-error">{error}</p>}
 
           <button className="oto-btn-no" onClick={handleDecline}>
-            No thanks. I'll stick to paying monthly software fees and hacking together my own tech stack. Let me access the blueprint now.
+            No thanks. I&apos;ll stick to paying monthly software fees and hacking together my own tech stack. Let me access the blueprint now.
           </button>
         </div>
       </div>
