@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import Stripe from "stripe";
 import { PRICES } from "@/lib/stripe";
 
 export async function POST(req) {
@@ -10,12 +11,19 @@ export async function POST(req) {
       return NextResponse.json({ error: "Stripe not configured" }, { status: 500 });
     }
 
+    // Instantiate Stripe INSIDE the function (not at module level)
+    // This avoids the StripeConnectionError caused by cold-start connection pooling on Vercel
+    const stripe = new Stripe(stripeKey, {
+      apiVersion: "2024-12-18.acacia",
+      httpClient: Stripe.createFetchHttpClient(), // Use fetch instead of Node http — works on edge/serverless
+    });
+
     let includeBump = false;
     try {
       const body = await req.json();
       includeBump = body.includeBump === true;
     } catch {
-      // No body sent — that's fine
+      // No body — fine
     }
 
     const line_items = [
@@ -23,51 +31,23 @@ export async function POST(req) {
       ...(includeBump ? [{ price: PRICES.BUMP, quantity: 1 }] : []),
     ];
 
-    // Build body manually — URLSearchParams would encode {} in {CHECKOUT_SESSION_ID}
-    const returnUrl = `${siteUrl}/agency-blueprint/upsell/?session_id={CHECKOUT_SESSION_ID}`;
-    const encodedReturnUrl = returnUrl
-      .replace(/\?/g, "%3F")
-      .replace(/=/g, "%3D")
-      .replace(/&/g, "%26")
-      .replace(/ /g, "%20");
-
-    const bodyParts = [
-      `mode=payment`,
-      `ui_mode=embedded`,
-      `payment_intent_data[setup_future_usage]=off_session`,
-      `return_url=${encodedReturnUrl}`,
-      `customer_creation=always`,
-      ...line_items.flatMap((item, i) => [
-        `line_items[${i}][price]=${encodeURIComponent(item.price)}`,
-        `line_items[${i}][quantity]=${item.quantity}`,
-      ]),
-    ];
-
-    const response = await fetch("https://api.stripe.com/v1/checkout/sessions", {
-      method: "POST",
-      headers: {
-        Authorization: `Bearer ${stripeKey}`,
-        "Content-Type": "application/x-www-form-urlencoded",
+    const session = await stripe.checkout.sessions.create({
+      mode: "payment",
+      ui_mode: "embedded",
+      line_items,
+      payment_intent_data: {
+        setup_future_usage: "off_session",
       },
-      body: bodyParts.join("&"),
+      return_url: `${siteUrl}/agency-blueprint/upsell/?session_id={CHECKOUT_SESSION_ID}`,
+      customer_creation: "always",
     });
-
-    const session = await response.json();
-
-    if (!response.ok) {
-      console.error("Stripe API error:", session?.error);
-      return NextResponse.json(
-        { error: "Failed to create checkout session", detail: session?.error?.message },
-        { status: 500 }
-      );
-    }
 
     return NextResponse.json({ clientSecret: session.client_secret });
 
   } catch (err) {
-    console.error("Checkout route error:", err?.message);
+    console.error("Checkout error:", err?.message, err?.type);
     return NextResponse.json(
-      { error: "Failed to create checkout session", detail: err?.message },
+      { error: "Failed to create checkout session", detail: err?.message, type: err?.type },
       { status: 500 }
     );
   }
