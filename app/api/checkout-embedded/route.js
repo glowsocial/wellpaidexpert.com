@@ -23,18 +23,19 @@ export async function POST(req) {
       ...(includeBump ? [{ price: PRICES.BUMP, quantity: 1 }] : []),
     ];
 
-    // Use native fetch instead of Stripe SDK to avoid StripeConnectionError on Vercel
-    const params = new URLSearchParams();
-    params.append("mode", "payment");
-    params.append("ui_mode", "embedded");
-    params.append("payment_intent_data[setup_future_usage]", "off_session");
-    params.append("return_url", `${siteUrl}/agency-blueprint/upsell/?session_id={CHECKOUT_SESSION_ID}`);
-    params.append("customer_creation", "always");
-
-    line_items.forEach((item, i) => {
-      params.append(`line_items[${i}][price]`, item.price);
-      params.append(`line_items[${i}][quantity]`, String(item.quantity));
-    });
+    // Build body manually — URLSearchParams would encode {} in {CHECKOUT_SESSION_ID}
+    const returnUrl = `${siteUrl}/agency-blueprint/upsell/?session_id={CHECKOUT_SESSION_ID}`;
+    const bodyParts = [
+      `mode=payment`,
+      `ui_mode=embedded`,
+      `payment_intent_data[setup_future_usage]=off_session`,
+      `return_url=${encodeURIComponent(returnUrl).replace(/%7B/g, "{").replace(/%7D/g, "}")}`,
+      `customer_creation=always`,
+      ...line_items.flatMap((item, i) => [
+        `line_items[${i}][price]=${encodeURIComponent(item.price)}`,
+        `line_items[${i}][quantity]=${item.quantity}`,
+      ]),
+    ];
 
     const response = await fetch("https://api.stripe.com/v1/checkout/sessions", {
       method: "POST",
@@ -42,7 +43,7 @@ export async function POST(req) {
         Authorization: `Bearer ${stripeKey}`,
         "Content-Type": "application/x-www-form-urlencoded",
       },
-      body: params.toString(),
+      body: bodyParts.join("&"),
     });
 
     const session = await response.json();
