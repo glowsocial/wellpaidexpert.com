@@ -64,6 +64,12 @@ const nextConfig = {
         destination: "/about",
         permanent: true,
       },
+      // Slug renames — 301s preserve link equity from indexed URLs
+      {
+        source: "/3-leadership-statement-examples-that-actually-convey-vision-and-purpose",
+        destination: "/leadership-statement-examples",
+        permanent: true,
+      },
       // Old landing pages → articles (or homepage)
       ...[
         "100kcasestudy-2", "100kcasestudy",

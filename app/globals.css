@@ -581,3 +581,114 @@ h2 {
   margin-bottom: 20px;
   font-size: 1rem;
 }
+
+/* Related posts internal linking */
+.related-posts {
+  border-top: 1px solid var(--card-border);
+  border-bottom: 1px solid var(--card-border);
+  padding: 40px 0;
+  margin: 48px 0;
+}
+
+.related-posts h3 {
+  font-family: var(--font-nav);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 20px;
+}
+
+.related-posts-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.related-posts-list li {
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--card-border);
+}
+
+.related-posts-list li:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.related-posts-list a {
+  font-family: var(--font-heading);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.35;
+  transition: color var(--transition);
+}
+
+.related-posts-list a:hover {
+  color: var(--maroon);
+}
+
+.related-post-desc {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-top: 4px;
+  line-height: 1.5;
+}
+
+/* Table styles for blog content */
+.blog-post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 32px 0;
+  font-size: 0.95rem;
+}
+
+.blog-post-content th {
+  background: var(--cream-dark);
+  font-family: var(--font-nav);
+  font-weight: 700;
+  font-size: 0.78rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 2px solid var(--card-border);
+}
+
+.blog-post-content td {
+  padding: 11px 16px;
+  border-bottom: 1px solid var(--card-border);
+  vertical-align: top;
+}
+
+.blog-post-content tr:last-child td {
+  border-bottom: none;
+}
+
+.blog-post-content code {
+  background: var(--cream-dark);
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 0.88em;
+  font-family: 'Courier New', monospace;
+}
+
+.blog-post-content pre {
+  background: var(--navy);
+  color: rgba(255,255,255,0.9);
+  padding: 24px;
+  border-radius: 4px;
+  overflow-x: auto;
+  margin: 32px 0;
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+
+.blog-post-content pre code {
+  background: none;
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+}

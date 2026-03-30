@@ -1,10 +1,11 @@
 ---
-title: "Why Claude.AI Powers My Writing Projects"
-description: "Discover why I choose Claude.AI for my writing projects, enhancing creativity and efficiency in content creation."
+title: "Claude AI for Writing: Is It Actually Good? (An Honest Assessment)"
+description: "Is Claude AI good for writing? After using it daily for professional content, here's an honest breakdown of Claude's strengths, limitations, and how it compares to ChatGPT."
 slug: "why-i-am-doing-most-of-my-writing-projects-with-claude-ai"
 source_url: "https://thewellpaidexpert.com/why-i-am-doing-most-of-my-writing-projects-with-claude-ai/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240719153906"
+tags: ["ai-tools", "content-creation", "solopreneur"]
 ---
 
 Picking the perfect gear really matters when you’re diving into making content. That’s exactly why I’ve turned to Claude.AI for most of my writing endeavors. This isn’t just about jumping on a new trend; it’s about harnessing an AI tool that truly transforms how we craft stories, develop characters, and bring ideas to life.

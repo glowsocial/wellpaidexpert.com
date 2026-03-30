@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
-import { getAllSlugs, getPostBySlug } from "@/lib/posts";
+import { getAllSlugs, getPostBySlug, getAllBlogPosts } from "@/lib/posts";
 import { markdownToHtml } from "@/lib/markdown";
 
 export async function generateStaticParams() {
@@ -31,6 +31,89 @@ export async function generateMetadata({ params }) {
   };
 }
 
+function buildArticleSchema(post) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: post.title,
+    description: post.description || post.title,
+    datePublished: post.date || new Date().toISOString(),
+    dateModified: post.date || new Date().toISOString(),
+    author: {
+      "@type": "Person",
+      name: "Kathleen Celmins",
+      url: "https://thewellpaidexpert.com/about/",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "The Well-Paid Expert",
+      url: "https://thewellpaidexpert.com",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://thewellpaidexpert.com/favicon.ico",
+      },
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `https://thewellpaidexpert.com/${post.slug}/`,
+    },
+    ...(post.image && {
+      image: {
+        "@type": "ImageObject",
+        url: post.image,
+      },
+    }),
+  };
+}
+
+function buildFaqSchema(faq) {
+  if (!faq || !Array.isArray(faq) || faq.length === 0) return null;
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faq.map((item) => ({
+      "@type": "Question",
+      name: item.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: item.answer,
+      },
+    })),
+  };
+}
+
+function buildHowToSchema(post) {
+  // Only for HowTo schema_type — extracts steps from H3 headings
+  if (post.schema_type !== "HowTo") return null;
+  return {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    name: post.title,
+    description: post.description || post.title,
+    author: {
+      "@type": "Person",
+      name: "Kathleen Celmins",
+    },
+  };
+}
+
+function getRelatedPosts(currentPost, allPosts, limit = 3) {
+  if (!currentPost.tags || currentPost.tags.length === 0) return [];
+
+  const currentTags = new Set(currentPost.tags);
+
+  return allPosts
+    .filter((p) => p.slug !== currentPost.slug)
+    .map((p) => {
+      const sharedTags = (p.tags || []).filter((t) => currentTags.has(t));
+      return { post: p, score: sharedTags.length };
+    })
+    .filter((item) => item.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, limit)
+    .map((item) => item.post);
+}
+
 export default async function BlogPost({ params }) {
   const { slug } = await params;
   const post = getPostBySlug("blog", slug);
@@ -38,44 +121,77 @@ export default async function BlogPost({ params }) {
   if (!post) notFound();
 
   const contentHtml = markdownToHtml(post.content);
+  const allPosts = getAllBlogPosts();
+  const relatedPosts = getRelatedPosts(post, allPosts);
+
+  const articleSchema = buildArticleSchema(post);
+  const faqSchema = buildFaqSchema(post.faq);
+  const howToSchema = buildHowToSchema(post);
+
+  const schemas = [articleSchema, faqSchema, howToSchema].filter(Boolean);
 
   return (
-    <article className="blog-post">
-      <div className="blog-post-header">
-        {post.image && (
-          <div className="blog-post-image">
-            <Image
-              src={post.image}
-              alt={post.title}
-              width={960}
-              height={540}
-              priority
-              style={{ width: "100%", height: "auto", borderRadius: "12px" }}
-            />
+    <>
+      {schemas.map((schema, i) => (
+        <script
+          key={i}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+        />
+      ))}
+
+      <article className="blog-post">
+        <div className="blog-post-header">
+          {post.image && (
+            <div className="blog-post-image">
+              <Image
+                src={post.image}
+                alt={post.title}
+                width={960}
+                height={540}
+                priority
+                style={{ width: "100%", height: "auto", borderRadius: "12px" }}
+              />
+            </div>
+          )}
+          <h1>{post.title}</h1>
+          <div className="blog-post-meta">
+            <span>{post.readingTime}</span>
+          </div>
+        </div>
+
+        <div
+          className="blog-post-content"
+          dangerouslySetInnerHTML={{ __html: contentHtml }}
+        />
+
+        {relatedPosts.length > 0 && (
+          <div className="related-posts">
+            <h3>Keep reading</h3>
+            <ul className="related-posts-list">
+              {relatedPosts.map((rp) => (
+                <li key={rp.slug}>
+                  <Link href={`/${rp.slug}/`}>{rp.title}</Link>
+                  {rp.description && (
+                    <p className="related-post-desc">{rp.description}</p>
+                  )}
+                </li>
+              ))}
+            </ul>
           </div>
         )}
-        <h1>{post.title}</h1>
-        <div className="blog-post-meta">
-          <span>{post.readingTime}</span>
+
+        <div className="post-cta-box">
+          <h3>Want to build a $4,300/mo social media agency?</h3>
+          <p>
+            Get the exact scripts, AI tools, pricing structure, and client
+            acquisition system used in a working agency — for $27.
+          </p>
+          <Link href="/agency-blueprint/" className="btn btn--primary">
+            Get the Agency Blueprint
+          </Link>
         </div>
-      </div>
-
-      <div
-        className="blog-post-content"
-        dangerouslySetInnerHTML={{ __html: contentHtml }}
-      />
-
-      <div className="post-cta-box">
-        <h3>Want more expert insights?</h3>
-        <p>
-          Explore more articles on building a profitable online business from
-          your expertise.
-        </p>
-        <Link href="/articles" className="btn btn--primary">
-          Browse All Articles
-        </Link>
-      </div>
-    </article>
+      </article>
+    </>
   );
 }
-

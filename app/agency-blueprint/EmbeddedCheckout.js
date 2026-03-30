@@ -13,7 +13,7 @@ const stripePromise = loadStripe(
 
 export default function EmbeddedCheckoutForm() {
   const fetchClientSecret = useCallback(async () => {
-    const res = await fetch("/api/checkout-embedded", { method: "POST" });
+    const res = await fetch("/api/checkout-embedded/", { method: "POST" });
     const data = await res.json();
     return data.clientSecret;
   }, []);

@@ -21,7 +21,7 @@ export default function SalesPageClient() {
     const fetchSession = async () => {
       setLoading(true);
       try {
-        const res = await fetch("/api/checkout-embedded", {
+        const res = await fetch("/api/checkout-embedded/", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ includeBump }),

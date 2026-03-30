@@ -1,10 +1,11 @@
 ---
-title: "Maximize Impact: How to Name Your Offer Effectively"
-description: "Unearth secrets on how to name your offer, tap into customer understanding, and leverage word power for business success. Click to learn more!"
+title: "How to Name Your Offer: The Strategy Behind Names That Sell"
+description: "The wrong offer name kills conversions before anyone reads a word. Here's the framework for naming digital products, programs, and services so buyers immediately understand the value."
 slug: "how-to-name-your-offer"
 source_url: "https://thewellpaidexpert.com/how-to-name-your-offer/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223093755"
+tags: ["offer-creation", "agency-business", "solopreneur"]
 ---
 
 Ever felt like you’re on a wild goose chase trying to figure out how to name your offer? I can relate to that struggle – it ain’t no walk in the park. But here’s the thing – finding that perfect name is not about luck; it’s about strategy.

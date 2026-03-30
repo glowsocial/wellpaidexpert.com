@@ -20,7 +20,7 @@ export default function UpsellContent() {
     setLoading(true);
     setError(false);
     try {
-      const res = await fetch("/api/upsell", {
+      const res = await fetch("/api/upsell/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ sessionId }),

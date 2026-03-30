@@ -8,7 +8,7 @@ export default function CheckoutButton({ children, className }) {
   const handleCheckout = async () => {
     setLoading(true);
     try {
-      const res = await fetch("/api/checkout", { method: "POST" });
+      const res = await fetch("/api/checkout/", { method: "POST" });
       const data = await res.json();
       if (data.url) {
         window.location.href = data.url;
