@@ -29,6 +29,10 @@ export default function SalesPageClient() {
         const data = await res.json();
         if (active) {
           setClientSecret(data.clientSecret);
+          // Store session ID so the upsell page can retrieve it (avoids {CHECKOUT_SESSION_ID} URL template)
+          if (data.sessionId) {
+            sessionStorage.setItem("blueprintSessionId", data.sessionId);
+          }
           setLoading(false);
         }
       } catch (e) {

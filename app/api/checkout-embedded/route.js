@@ -11,10 +11,10 @@ export async function POST(req) {
       return NextResponse.json({ error: "Stripe not configured" }, { status: 500 });
     }
 
-    // Instantiate Stripe INSIDE the function (not at module level)
-    // This avoids the StripeConnectionError caused by cold-start connection pooling on Vercel
+    // Lazy instantiation + fetch client to avoid StripeConnectionError on Vercel cold starts
     const stripe = new Stripe(stripeKey, {
       apiVersion: "2024-12-18.acacia",
+      httpClient: Stripe.createFetchHttpClient(),
     });
 
     let includeBump = false;
@@ -30,6 +30,9 @@ export async function POST(req) {
       ...(includeBump ? [{ price: PRICES.BUMP, quantity: 1 }] : []),
     ];
 
+    // NOTE: We use a plain return_url without {CHECKOUT_SESSION_ID}.
+    // The session ID is returned to the client via clientSecret and stored in sessionStorage.
+    // The UpsellContent component reads the sessionId from sessionStorage on load.
     const session = await stripe.checkout.sessions.create({
       mode: "payment",
       ui_mode: "embedded",
@@ -37,11 +40,15 @@ export async function POST(req) {
       payment_intent_data: {
         setup_future_usage: "off_session",
       },
-      return_url: `${siteUrl}/agency-blueprint/upsell/?session_id={CHECKOUT_SESSION_ID}`,
+      return_url: `${siteUrl}/agency-blueprint/upsell/`,
       customer_creation: "always",
     });
 
-    return NextResponse.json({ clientSecret: session.client_secret });
+    // Return both the clientSecret (for embedded checkout) and session ID (for the upsell)
+    return NextResponse.json({
+      clientSecret: session.client_secret,
+      sessionId: session.id,
+    });
 
   } catch (err) {
     console.error("Checkout error:", err?.message, err?.type);

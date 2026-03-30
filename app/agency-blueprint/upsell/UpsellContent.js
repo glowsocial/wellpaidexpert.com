@@ -7,14 +7,23 @@ import "./upsell.css";
 export default function UpsellContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
-  const sessionId = searchParams.get("session_id");
+  // Session ID can come from URL param (old approach) or sessionStorage (new approach)
+  const sessionIdFromUrl = searchParams.get("session_id");
+  const [sessionId, setSessionId] = useState(sessionIdFromUrl);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
 
-  // Redirect if no session
+  // Resolve sessionId from sessionStorage if not in URL
   useEffect(() => {
-    if (!sessionId) router.replace("/agency-blueprint");
-  }, [sessionId, router]);
+    if (!sessionIdFromUrl) {
+      const stored = sessionStorage.getItem("blueprintSessionId");
+      if (stored) {
+        setSessionId(stored);
+      } else {
+        router.replace("/agency-blueprint");
+      }
+    }
+  }, [sessionIdFromUrl, router]);
 
   const handleUpsell = async () => {
     setLoading(true);
