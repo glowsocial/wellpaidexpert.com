@@ -4,7 +4,8 @@ import { PRICES } from "@/lib/stripe";
 
 export async function POST(req) {
   try {
-    const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://thewellpaidexpert.com";
+    // Hardcoded to avoid env var encoding issues (NEXT_PUBLIC_SITE_URL may contain newline)
+    const siteUrl = "https://thewellpaidexpert.com";
     const stripeKey = process.env.STRIPE_SECRET_KEY;
 
     if (!stripeKey) {
