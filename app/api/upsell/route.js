@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
-import { stripe, PRICES } from "@/lib/stripe";
+import Stripe from "stripe";
+import { PRICES } from "@/lib/stripe";
 
 export async function POST(request) {
   try {
@@ -11,6 +12,12 @@ export async function POST(request) {
         { status: 400 }
       );
     }
+
+    // Lazy init + fetch client to avoid StripeConnectionError on Vercel cold starts
+    const stripe = new Stripe(process.env.STRIPE_SECRET_KEY, {
+      apiVersion: "2024-12-18.acacia",
+      httpClient: Stripe.createFetchHttpClient(),
+    });
 
     // 1. Retrieve the original checkout session to get the customer + saved payment method
     const session = await stripe.checkout.sessions.retrieve(sessionId, {
@@ -69,7 +76,7 @@ export async function POST(request) {
     });
 
   } catch (err) {
-    console.error("Upsell error:", err);
+    console.error("Upsell error:", err?.message, err?.type);
 
     if (err.type === "StripeCardError" || err.code === "card_declined") {
       return NextResponse.json(
@@ -79,7 +86,7 @@ export async function POST(request) {
     }
 
     return NextResponse.json(
-      { error: "Failed to process upsell" },
+      { error: "Failed to process upsell", detail: err?.message },
       { status: 500 }
     );
   }
