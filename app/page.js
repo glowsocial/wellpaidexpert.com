@@ -7,17 +7,19 @@ export default function HomePage() {
 
   return (
     <>
-      {/* Hero — centered card on muted background, like the original */}
+      {/* Hero — Centered card selling the vision of the Blueprint */}
       <section className="hero">
         <div className="hero-bg"></div>
         <div className="container">
           <div className="hero-card">
-            <h1>
-              Helping experts add $100,000 with what they already have,{" "}
-              <em>annually</em>.
+            <h1 style={{ fontSize: "clamp(2.2rem, 4vw, 3rem)", marginBottom: "20px" }}>
+              Start Your Own $100k/year Boutique Social Media Agency.
             </h1>
-            <Link href="/articles" className="btn btn--primary btn--lg">
-              Teach Me How
+            <p className="hero-sub" style={{ fontSize: "1.15rem", lineHeight: 1.6, color: "var(--text-mid)", marginBottom: "32px" }}>
+              Get the exact step-by-step blueprint we use to sign clients, fulfill without burnout, and scale a lean, highly profitable online business.
+            </p>
+            <Link href="/agency-blueprint" className="btn btn--primary btn--lg">
+              Get the $27 Blueprint &rarr;
             </Link>
           </div>
         </div>
@@ -35,28 +37,46 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Mission statement */}
-      <section className="mission">
+      {/* The Gap / Pitch Section */}
+      <section className="the-gap" style={{ padding: '100px 0', background: 'var(--white)' }}>
         <div className="container">
-          <div className="mission-content">
-            <h2>
-              You deserve to be paid <em>more</em> for your expertise.
-            </h2>
-            <p>
-              It&apos;s not enough to know something. You need to be paid, and
-              paid well, for knowing what you know.
+          <div style={{ maxWidth: 880, margin: '0 auto', textAlign: 'center' }}>
+            <h2 style={{ fontSize: 'clamp(2rem, 4vw, 2.6rem)', marginBottom: 24 }}>You don't need more followers. You need a <em>system</em>.</h2>
+            <p style={{ fontSize: '1.2rem', color: 'var(--text-mid)', marginBottom: 64, lineHeight: 1.6, maxWidth: 640, margin: '0 auto 64px auto' }}>
+              Most experts spend hours a day on LinkedIn or Instagram, hoping for inbound leads. We built a system that actively creates high-margin recurring revenue—without you dancing on TikTok.
             </p>
+            
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: 32, textAlign: 'left' }}>
+              <div style={{ background: 'var(--cream)', padding: 40, borderTop: '4px solid var(--text)' }}>
+                <h3 style={{ marginBottom: 16, fontSize: '1.4rem' }}>The Blueprint</h3>
+                <p style={{ color: 'var(--text-mid)', lineHeight: 1.6 }}>The exact 6-chapter, step-by-step playbook to operationalize your expertise and sell it as a recurring productized service.</p>
+              </div>
+              <div style={{ background: 'var(--cream)', padding: 40, borderTop: '4px solid var(--text)' }}>
+                <h3 style={{ marginBottom: 16, fontSize: '1.4rem' }}>Client Acquisition</h3>
+                <p style={{ color: 'var(--text-mid)', lineHeight: 1.6 }}>How to close $1,000+/mo retainers using a simple, friction-free sales pitch that positions you as the prize.</p>
+              </div>
+              <div style={{ background: 'var(--cream)', padding: 40, borderTop: '4px solid var(--text)' }}>
+                <h3 style={{ marginBottom: 16, fontSize: '1.4rem' }}>Profitable Fulfillment</h3>
+                <p style={{ color: 'var(--text-mid)', lineHeight: 1.6 }}>How to actually do the work in 1/10th the time by utilizing the right tech stack and eliminating client bottleneck.</p>
+              </div>
+            </div>
+            
+            <div style={{ marginTop: 64 }}>
+              <Link href="/agency-blueprint" className="btn btn--primary btn--lg">
+                View the Full Syllabus
+              </Link>
+            </div>
           </div>
         </div>
       </section>
 
-      {/* Latest Articles */}
+      {/* Latest Articles (SEO & Nurture) */}
       {posts.length > 0 && (
-        <section className="latest-articles">
+        <section className="latest-articles" style={{ background: 'var(--cream-dark)' }}>
           <div className="container">
-            <h2>Latest Articles</h2>
+            <h2>Latest Marketing Insights</h2>
             <p className="section-sub">
-              Actionable insights to help you monetize your expertise
+              Free strategies to help you monetize your expertise before you buy.
             </p>
             <div className="blog-grid">
               {posts.map((post) => (
@@ -81,27 +101,21 @@ export default function HomePage() {
                 </Link>
               ))}
             </div>
-            <div style={{ textAlign: "center", marginTop: "40px" }}>
-              <Link href="/articles" className="btn btn--outline">
-                View All Articles
-              </Link>
-            </div>
           </div>
         </section>
       )}
 
-      {/* Bottom CTA */}
-      <section className="bottom-cta">
+      {/* Bottom CTA to funnel */}
+      <section className="bottom-cta" style={{ background: 'var(--white)' }}>
         <div className="container">
           <div className="cta-card">
-            <h2>Ready to become a well-paid expert?</h2>
+            <h2>Ready to build your boutique agency?</h2>
             <p>
-              Stop undervaluing your expertise. Learn the strategies that help
-              freelancers, consultants, and solopreneurs build six-figure
-              revenue streams from what they already know.
+              Stop giving your expertise away for free. Learn the strategies that help
+              solopreneurs build six-figure recurring revenue streams from what they already know.
             </p>
-            <Link href="/articles" className="btn btn--primary btn--lg">
-              Start Reading &rarr;
+            <Link href="/agency-blueprint" className="btn btn--primary btn--lg">
+              Get the $27 Blueprint &rarr;
             </Link>
           </div>
         </div>
