@@ -25,11 +25,17 @@ export async function POST(req) {
 
     // Build body manually — URLSearchParams would encode {} in {CHECKOUT_SESSION_ID}
     const returnUrl = `${siteUrl}/agency-blueprint/upsell/?session_id={CHECKOUT_SESSION_ID}`;
+    const encodedReturnUrl = returnUrl
+      .replace(/\?/g, "%3F")
+      .replace(/=/g, "%3D")
+      .replace(/&/g, "%26")
+      .replace(/ /g, "%20");
+
     const bodyParts = [
       `mode=payment`,
       `ui_mode=embedded`,
       `payment_intent_data[setup_future_usage]=off_session`,
-      `return_url=${encodeURIComponent(returnUrl).replace(/%7B/g, "{").replace(/%7D/g, "}")}`,
+      `return_url=${encodedReturnUrl}`,
       `customer_creation=always`,
       ...line_items.flatMap((item, i) => [
         `line_items[${i}][price]=${encodeURIComponent(item.price)}`,
