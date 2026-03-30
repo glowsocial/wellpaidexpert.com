@@ -41,9 +41,9 @@ export async function POST(req) {
 
     return NextResponse.json({ clientSecret: session.client_secret });
   } catch (err) {
-    console.error("Embedded checkout error:", err);
+    console.error("Embedded checkout error:", err?.message, err?.type, err?.code);
     return NextResponse.json(
-      { error: "Failed to create checkout session" },
+      { error: "Failed to create checkout session", detail: err?.message, type: err?.type },
       { status: 500 }
     );
   }
