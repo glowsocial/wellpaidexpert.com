@@ -40,7 +40,7 @@ export async function POST(req) {
       payment_intent_data: {
         setup_future_usage: "off_session",
       },
-      return_url: `${siteUrl}/agency-blueprint/upsell/`,
+      return_url: "https://thewellpaidexpert.com/agency-blueprint/upsell/",
       customer_creation: "always",
     });
 
