@@ -213,9 +213,3 @@ We work on these inside The Well-Paid Expert Mastermind, a 12-week live group ex
 It’s intense, because in just 12 weeks, we’re going to build a mechanism to get your passive income rolling.
 
 Don’t miss it!
-
-#### Case study:
-
-## 3 Steps to $100K on a digital product
-
-Get the three things that made the most difference when we marketed a digital course and it earned $100,000 in just 12 months.

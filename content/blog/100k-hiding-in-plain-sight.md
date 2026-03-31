@@ -177,9 +177,3 @@ Trust me, it’s all so much easier than you think.
 And once you commit to building something that divorces you from the time-for-money exchange, your life will get markedly better.
 
 Let me know if I can help.
-
-#### Case study:
-
-## 3 Steps to $100K on a digital product
-
-Get the three things that made the most difference when we marketed a digital course and it earned $100,000 in just 12 months.

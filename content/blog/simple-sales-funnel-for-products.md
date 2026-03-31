@@ -7,22 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20230331062150"
 ---
 
-Organization:
-Archive Team
-
-History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
-
-The main site for Archive Team is at
-archiveteam.org
-and contains up to the date information on various projects, manifestos, plans and walkthroughs.
-
-This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the, providing a path back to lost websites and work.
-
-The Archive Team Panic Downloads
-are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures.
-
-Archive Team: URLs
-
 Here’s the thing: the term “
 sales funnels
 ” is pretty loaded. If you’re familiar with it, it makes you feel pretty gross given the level of bro marketing around the idea of setting up a sales funnel. If you aren’t familiar with it, it’s completely nonsensical.
@@ -127,65 +111,3 @@ To continuously improve your digital product sales funnel, you should track and 
 By creating a simple sales funnel for your digital product and optimizing its performance, you can drive conversions, increase revenue, and build a loyal customer base.
 
 Use the strategies and tactics outlined in this article to create a funnel that resonates with your audience and delivers results.
-
-## We'll help you create, package, position, launch, and
-## sell
-## your digital offer in just 90 days... guaranteed.
-
-This is the exact strategy we use to generate infoproducts seemingly out of thin air and turn them into lucrative revenue streams.
-
-### Create & Launch a lucrative info product... guaranteed!
-
-### Payment Plan
-
-coupon invalid
-
-Discount Applied!
-
-Your first name
-*
-
-Your best email
-*
-
-Your phone number
-*
-
-### Order Summary
-
-Subtotal
-
-Amount Due
-
-YES! SHOW ME
-
-Your information is 100% secure
-
-Learn more
-
-### Create & Launch a lucrative info product... guaranteed!
-
-### Payment Plan
-
-coupon invalid
-
-Discount Applied!
-
-Your first name
-*
-
-Your best email
-*
-
-Your phone number
-*
-
-### Order Summary
-
-Subtotal
-
-Amount Due
-
-YES! SHOW ME
-
-Your information is 100% secure

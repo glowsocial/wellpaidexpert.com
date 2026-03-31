@@ -63,4 +63,3 @@ Instead, look to the points above and let them help you. Delegate to those aroun
 And most of all, bad customer service experiences happen to everyone! You’re doing your best otherwise to ensure your clients always get the right experience from you, but that will occasionally fall through.
 
 Look to feedback to see what people really want from you, make sure you trust your team, and don’t feel you have to be in charge 24/7. You’ll still be in business tomorrow, and you’ll still be working toward your long term goals.
-

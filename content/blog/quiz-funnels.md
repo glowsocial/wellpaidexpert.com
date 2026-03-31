@@ -7,23 +7,6 @@ recovered_from: "wayback_machine"
 wayback_timestamp: "20230926062942"
 ---
 
-## Not a subscriber?
-
-Learn how to become a well-paid expert by creating a six-figure
-
-productized income stream using your existing knowledge and experience.
-
-Your first name
-
-!
-
-Your email
-
-!
-
-SHOW ME HOW
-
-Something went wrong. Please check your entries and try again.
 
 Raise your hand if you’ve ever taken an online quiz before. If your hand is raised, you’ve been on the other side of quiz funnels. But did you know that they’re an easy way to explode your email list? I’ve seen their power firsthand.
 
@@ -270,23 +253,3 @@ Do you have any other questions on strategically designing high-performing quizz
 Now you have everything you need to implement this growth strategy.
 
 Give your audience an interactive, personalized experience – then watch those opt-ins and sales skyrocket!
-
-### Fill your list with eager subscribers who are ready to buy
-
-When you become a quizillionaire today
-
-Learn more
-
-### Create a six-figure productized income stream from your client work in just 90 days
-
-...and start building your passive income streams!
-
-!
-
-!
-
-Watch the Training Now
-
-Your information is 100% secure. Unsubscribe at any time.
-
-Something went wrong. Please check your entries and try again.
