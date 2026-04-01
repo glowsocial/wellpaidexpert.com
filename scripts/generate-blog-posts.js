@@ -2,18 +2,16 @@
 /**
  * AI Blog Post Generator — thewellpaidexpert.com
  *
- * Generates SEO + AEO-optimized markdown posts using Gemini.
+ * Generates SEO + AEO-optimized markdown posts using Claude Haiku.
  *
  * ONE-TIME SETUP:
- *   1. Get your free Gemini key: https://aistudio.google.com/apikey
- *   2. Add to wellpaidexpert-site/.env.local:  GEMINI_API_KEY=AIza...
+ *   Add ANTHROPIC_API_KEY as a GitHub Actions secret (repo Settings → Secrets → Actions)
+ *   Key available at: https://console.anthropic.com/settings/keys
  *
  * Usage:
- *   GEMINI_API_KEY=AIza... node scripts/generate-blog-posts.js
- *   GEMINI_API_KEY=AIza... node scripts/generate-blog-posts.js --count 5
- *   GEMINI_API_KEY=AIza... node scripts/generate-blog-posts.js --keyword "how to price consulting services"
- *
- *   Or add to .env.local and run: node -r dotenv/config scripts/generate-blog-posts.js
+ *   ANTHROPIC_API_KEY=sk-ant-... node scripts/generate-blog-posts.js
+ *   ANTHROPIC_API_KEY=sk-ant-... node scripts/generate-blog-posts.js --count 5
+ *   ANTHROPIC_API_KEY=sk-ant-... node scripts/generate-blog-posts.js --keyword "how to price consulting services"
  *
  * Posts land in content/blog/ ready to commit and deploy.
  */
@@ -22,15 +20,14 @@ const fs   = require('fs');
 const path = require('path');
 
 const BLOG_DIR        = path.resolve(__dirname, '..', 'content', 'blog');
-const API_KEY         = process.env.GEMINI_API_KEY;
-const MODEL           = 'gemini-2.0-flash';
+const API_KEY         = process.env.ANTHROPIC_API_KEY;
+const MODEL           = 'claude-haiku-4-5';
 const DEFAULT_COUNT   = 10;
 const DELAY_MS        = 1500;
 
 if (!API_KEY) {
-  console.error('❌  Set GEMINI_API_KEY environment variable.');
-  console.error('   Get one free at: https://aistudio.google.com/apikey');
-  console.error('   Then: GEMINI_API_KEY=AIza... node scripts/generate-blog-posts.js');
+  console.error('❌  Set ANTHROPIC_API_KEY environment variable.');
+  console.error('   Get your key at: https://console.anthropic.com/settings/keys');
   process.exit(1);
 }
 
@@ -123,25 +120,29 @@ function today() {
   return new Date().toISOString().split('T')[0];
 }
 
-async function callGemini(prompt) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`;
-  const res = await fetch(url, {
+async function callClaude(prompt) {
+  const res = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
-    headers: { 'content-type': 'application/json' },
+    headers: {
+      'x-api-key': API_KEY,
+      'anthropic-version': '2023-06-01',
+      'content-type': 'application/json',
+    },
     body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: { maxOutputTokens: 4096, temperature: 0.7 },
+      model: MODEL,
+      max_tokens: 4096,
+      messages: [{ role: 'user', content: prompt }],
     }),
   });
 
   if (!res.ok) {
     const err = await res.text();
-    throw new Error(`Gemini API error ${res.status}: ${err}`);
+    throw new Error(`Anthropic API error ${res.status}: ${err}`);
   }
 
   const data = await res.json();
-  const text = data.candidates?.[0]?.content?.parts?.[0]?.text;
-  if (!text) throw new Error('Empty response from Gemini');
+  const text = data.content?.[0]?.text;
+  if (!text) throw new Error('Empty response from Claude');
   return text.replace(/^```(?:markdown)?\n?/, '').replace(/\n?```$/, '');
 }
 
@@ -229,7 +230,7 @@ async function main() {
     process.stdout.write(`✍️   "${keyword}" ... `);
 
     try {
-      const content = await callGemini(buildPrompt(keyword));
+      const content = await callClaude(buildPrompt(keyword));
 
       if (!content.trim().startsWith('---')) {
         throw new Error('Response did not start with frontmatter');
