@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { getAllSlugs, getPostBySlug, getAllBlogPosts } from "@/lib/posts";
 import { markdownToHtml } from "@/lib/markdown";
+import LeadMagnetBar from "@/app/components/LeadMagnetBar";
 
 export async function generateStaticParams() {
   const slugs = getAllSlugs("blog");
@@ -180,6 +181,8 @@ export default async function BlogPost({ params }) {
             </ul>
           </div>
         )}
+
+        <LeadMagnetBar variant="article" />
 
         <div className="post-cta-box">
           <h3>Want to build a $4,300/mo social media agency?</h3>

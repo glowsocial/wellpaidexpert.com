@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getAllBlogPosts } from "@/lib/posts";
+import LeadMagnetBar from "@/app/components/LeadMagnetBar";
 import "./home.css";
 
 export default function HomePage() {
@@ -104,6 +105,13 @@ export default function HomePage() {
           </div>
         </section>
       )}
+
+      {/* Email Capture — Lead Magnet */}
+      <section style={{ background: 'var(--cream-dark, #ede9e1)', padding: '0 0' }}>
+        <div className="container">
+          <LeadMagnetBar variant="homepage" />
+        </div>
+      </section>
 
       {/* Bottom CTA to funnel */}
       <section className="bottom-cta" style={{ background: 'var(--white)' }}>

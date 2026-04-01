@@ -25,8 +25,8 @@ export default function Header() {
         </nav>
 
         <div className="header-ctas">
-          <Link href="/articles" className="btn btn--primary">
-            Read the Blog
+          <Link href="/agency-blueprint" className="btn btn--primary">
+            Get the Blueprint →
           </Link>
         </div>
 
@@ -49,11 +49,11 @@ export default function Header() {
           About
         </Link>
         <Link
-          href="/articles"
+          href="/agency-blueprint"
           className="btn btn--primary"
           onClick={() => setMenuOpen(false)}
         >
-          Read the Blog
+          Get the Blueprint →
         </Link>
       </nav>
     </header>

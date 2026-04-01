@@ -16,7 +16,7 @@ export default function ThankYouContent() {
       <p className="thankyou-subtitle">
         {upgraded
           ? "You purchased two things. Access both of them below — no email required."
-          : "Your Agency Blueprint is ready to access right now. No email needed — it lives here."
+          : "Your Agency Blueprint is ready right now. No login needed — it lives here."
         }
       </p>
 
@@ -33,6 +33,25 @@ export default function ThankYouContent() {
         <p className="thankyou-bookmark">
           📌 Bookmark this page — this is how you come back to your blueprint later.
         </p>
+      </div>
+
+      {/* What to do next — for all buyers */}
+      <div className="thankyou-steps">
+        <h3>Your next 3 moves:</h3>
+        <ol>
+          <li>
+            <strong>Read the Niche Selection Framework first</strong> — it&apos;s
+            Chapter 1 and it determines everything else.
+          </li>
+          <li>
+            <strong>Pick one cold outreach script</strong> and send it to 5
+            prospects this week. Don&apos;t wait until you&apos;ve read the whole blueprint.
+          </li>
+          <li>
+            <strong>Bookmark this page</strong> so you can come back to your
+            blueprint any time — no login required.
+          </li>
+        </ol>
       </div>
 
       {upgraded && (
@@ -55,19 +74,23 @@ export default function ThankYouContent() {
       )}
 
       {!upgraded && (
-        <div className="thankyou-reminder">
+        <div className="thankyou-upgrade-reminder">
+          <p className="thankyou-upgrade-eyebrow">ONE-TIME OFFER — Still Available</p>
+          <h3>Want software to run the whole system on autopilot?</h3>
           <p>
-            <strong>Want to run the whole system on autopilot?</strong>{" "}
-            The Blueprint works best when Glow Social handles the content
-            creation for your clients.{" "}
-            <a
-              href="https://glowsocial.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learn about Glow Social →
-            </a>
+            The Blueprint works best when Glow Social handles content creation
+            for your clients. Skip the 5-tool tech stack — get lifetime access
+            to Glow Social (you + 5 client brands) for a single $997 payment.
+            No monthly fees. Ever.
           </p>
+          <a
+            href="https://glowsocial.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="thankyou-upgrade-link"
+          >
+            Learn about Glow Social lifetime access →
+          </a>
         </div>
       )}
     </div>
