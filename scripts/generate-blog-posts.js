@@ -32,20 +32,39 @@ if (!API_KEY) {
 }
 
 // ─── Target keyword bank ─────────────────────────────────────────────────────
+// Sources: GSC query data (April 2026) — striking distance queries + confirmed clusters
 const KEYWORDS = [
-  // Pricing & packaging
+  // ── GSC striking distance: pos 5–30, high impressions ───────────────────────
+  // These are queries TWE already ranks for — one good post can push to page 1
+  "why Claude AI is better at writing than most people expect",
+  "why Instagram carousel posts get higher engagement than single images",
+  "case studies vs success stories what is the difference",
+  "leadership statement examples that convey vision and purpose",
+  "solopreneur marketing strategy that actually generates revenue",
+  "how to use quiz funnels to grow your email list",
+  "how to collect case studies and success stories from clients",
+  "writing with AI tools as a professional consultant or expert",
+
+  // ── GSC query clusters: long-tail questions driving impressions ──────────────
+  "is claude good at writing compared to other AI tools",
+  "why do carousel posts perform better on instagram and linkedin",
+  "difference between a case study and a success story",
+  "short leadership statement examples with templates",
+  "leadership purpose statement examples for executives",
+  "how to write a personal leadership statement",
+  "solopreneur marketing ideas that work without a team",
+  "what is a quiz funnel and how does it work",
+
+  // ── Pricing & packaging ──────────────────────────────────────────────────────
   "how to price consulting services as an expert",
-  "how to charge more for your services without losing clients",
   "value-based pricing for consultants and coaches",
   "how to package your expertise into a productized service",
-  "pricing strategy for solopreneurs who want to earn more",
   "how to raise your rates without losing clients",
   "what to charge for a one-hour consultation",
   "how to stop trading time for money as a consultant",
   "retainer pricing model for consultants",
-  "how to create recurring revenue as a solopreneur",
 
-  // Offers & funnels
+  // ── Offers & funnels ─────────────────────────────────────────────────────────
   "how to create a digital product from your expertise",
   "how to sell an online course without a big audience",
   "best lead magnets for consultants and coaches 2026",
@@ -53,43 +72,27 @@ const KEYWORDS = [
   "how to get consulting clients without cold calling",
   "how to write a sales page for a high-ticket offer",
   "how to validate a digital product idea before building it",
-  "how to launch your first online course as an expert",
-  "how to sell consulting services online",
   "email sequence for selling a digital product",
 
-  // Authority & positioning
+  // ── Authority & positioning ──────────────────────────────────────────────────
   "how to position yourself as an expert in your niche",
   "how to become a recognized expert and get paid for it",
   "how to build authority online as a consultant",
   "personal brand strategy for solopreneurs",
   "how to get speaking engagements as a consultant",
-  "how to get press coverage as a solopreneur",
-  "how to build a thought leadership platform from scratch",
   "LinkedIn strategy for consultants who want more clients",
-  "how to use content marketing to attract consulting clients",
   "podcast guesting strategy for growing your expert brand",
 
-  // Client acquisition
+  // ── Client acquisition ───────────────────────────────────────────────────────
   "how to get your first consulting client",
   "how to find high-ticket clients online",
   "referral strategy for consultants and coaches",
   "how to use LinkedIn to generate consulting leads",
-  "cold email strategy for consultants",
   "how to attract dream clients who pay premium prices",
-  "how to close consulting deals without being pushy",
   "discovery call script for consultants",
-  "how to follow up with potential consulting clients",
   "how to niche down and attract better clients",
 
-  // Systems & scale
-  "how to scale a consulting business without hiring",
-  "how solopreneurs manage multiple clients without burning out",
-  "best tools for running a one-person consulting business",
-  "how to automate your consulting business",
-  "time management for solopreneurs with multiple revenue streams",
-  "how to systematize your expert business",
-
-  // AI for experts
+  // ── AI for experts ───────────────────────────────────────────────────────────
   "how solopreneurs use AI to create more content in less time",
   "best AI tools for consultants and coaches 2026",
   "how to use AI to write your newsletter as an expert",
