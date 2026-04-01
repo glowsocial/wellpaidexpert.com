@@ -1,10 +1,21 @@
 ---
-title: "Collecting Case Studies and Success Stories: A Guide"
-description: "Unlock the power of customer experiences by collecting case studies and success stories to boost your brand's credibility and growth."
+title: "Case Studies vs Success Stories: The Difference (And How to Collect Both)"
+description: "Case studies and success stories serve different sales conversations. Here's the actual difference — and how to collect them systematically with templates and outreach scripts."
 slug: "collecting-case-studies-and-success-stories"
 source_url: "https://thewellpaidexpert.com/collecting-case-studies-and-success-stories/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240523223514"
+date: "2024-05-23"
+tags: ["marketing", "social-proof", "sales"]
+faqs:
+  - q: "What is the difference between a case study and a success story?"
+    a: "A case study is a structured, data-rich document that details the problem, process, and measurable results of working with a client. A success story is a shorter, more narrative format that highlights the outcome and emotional transformation. Case studies are used in B2B sales cycles; success stories work well on landing pages and social media."
+  - q: "How do you ask a client for a case study?"
+    a: "The most effective approach is a brief email after a positive result: acknowledge their win, explain that sharing their story helps others in similar situations, and offer to do all the writing work yourself — they just review and approve. Keep the ask small. A 15-minute call or a few email questions is all you need."
+  - q: "What should a case study include?"
+    a: "A strong case study includes: (1) the client's situation before working with you, (2) the specific challenge or goal, (3) what you did together, (4) measurable results (numbers, percentages, revenue), and (5) a direct quote from the client. Aim for 500–1,000 words with a summary stat in the headline."
+  - q: "How many case studies do you need to sell your expertise?"
+    a: "Three to five strong case studies covering different client types or outcomes is enough to close most sales conversations. One compelling case study in the same niche as your prospect is more persuasive than ten generic ones."
 ---
 
 Imagine your brand’s story, vivid and victorious, etched into the annals of business triumphs. That’s the power you harness when collecting case studies and success stories. They’re not just a pat on the back for a job well done; they’re proof that what you offer hits home with customers.
