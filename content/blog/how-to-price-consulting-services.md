@@ -1,86 +1,80 @@
 ---
-title: "How to Price Your Consulting Services (Without Undercharging)"
-description: "Most consultants underprice by 40–60% because they anchor to hours instead of outcomes. Here's the framework for setting rates that reflect the actual value you deliver."
+title: "How to Price Consulting Services: The Value-Based Framework That Gets You Paid What You're Worth"
+description: "Stop leaving money on the table with hourly rates. Here's the pricing framework that expert consultants use to charge more, get hired faster, and work with better clients."
 slug: "how-to-price-consulting-services"
-date: "2024-07-15"
-tags: ["offer-creation", "solopreneur", "agency-business"]
-schema_type: "FAQPage"
+date: "2026-04-01"
+tags: ["consulting-pricing", "solopreneur", "expert-business"]
 faq:
-  - question: "How do you price consulting services?"
-    answer: "Price consulting services based on the value of the outcome, not the time it takes to deliver. Research what the client would pay to hire this skill in-house, what the result is worth to them financially or strategically, and what your closest competitors charge. Then set your price at the intersection of what the market will support and what you can confidently defend."
-  - question: "What is a good consulting rate per hour?"
-    answer: "Hourly consulting rates vary widely by industry and expertise: $75–$150/hour for generalist marketing consultants, $150–$300/hour for specialists with proven results, $300–$600/hour for C-suite advisors and fractional executives. However, hourly billing is generally inferior to retainer or project pricing for both income stability and client relationships."
-  - question: "Should consultants charge hourly or by project?"
-    answer: "Project pricing or monthly retainers are almost always better than hourly for established consultants. Hourly pricing punishes efficiency, caps income, and encourages clients to micromanage time. Project and retainer pricing ties payment to outcomes and allows your income to grow as you get faster and better."
-  - question: "How do I raise my consulting rates without losing clients?"
-    answer: "Raise rates for new clients first, not existing ones. This lets you test the new price point without risking current relationships. After 60–90 days of successfully closing at the new rate, give existing clients advance notice (60–90 days) of a rate increase at renewal. Frame it as reflecting market rates and your expanded capabilities."
+  - q: "What is the best way to price consulting services without undercharging or scaring clients away?"
+    a: "The best framework is value-based pricing: anchor your rate to the outcome you deliver, not the hours you spend. Before quoting, ask the client what solving this problem is worth to their business. If your work helps them close a $200K contract, a $15K consulting fee is a bargain. If you quote based on your hourly rate instead, you'll always leave money on the table and attract clients who are buying your cheapest option instead of your best outcome."
+  - q: "How do you tell a client your consulting rate without apologizing or over-explaining?"
+    a: "State your fee directly, then go quiet. 'My project fee for this engagement is $12,000.' Full stop. The impulse to immediately justify, discount, or apologize after stating a price is what communicates insecurity — and that communicates that the price might be negotiable. If they ask why, you explain the scope and outcome. If they push back on price, you either hold firm or offer a smaller scope, not a discount on the same work."
+  - q: "Should consultants charge an hourly rate, a project fee, or a monthly retainer?"
+    a: "Project fees are almost always better than hourly rates for consultants — they let you capture the value of your speed and expertise rather than penalizing you for being good. Retainers are the highest-leverage model: predictable monthly income, deeper client relationships, and no recurring pitch cycle. The ideal is to start with a project, deliver excellent results, then transition the client to a retainer. Hourly billing works for very early-stage consultants building confidence; phase it out as quickly as possible."
+  - q: "How do you raise your consulting rates with existing clients without losing them?"
+    a: "Give 60 days notice, explain the new rate is effective at the start of next quarter, and frame it as a reflection of your expanded expertise and market value — not an arbitrary increase. Most clients who value you will absorb a 20-30% increase without issue. Those who balk were often undervaluing you anyway and may not be the right long-term fit. Raising rates is also one of the most reliable ways to shift your client mix toward higher-quality engagements."
+  - q: "What is a reasonable consulting rate for an expert with 10 or more years of industry experience?"
+    a: "Experienced consultants with 10+ years of specialized expertise typically charge $150 to $500+ per hour depending on industry and niche — or equivalent project fees. Strategy consultants, executive coaches, and specialized technical consultants often work in the $300 to $500/hour equivalent range. The right rate is whatever the market will bear for your specific expertise, and the market will tell you: if you're fully booked, your rate is too low."
 ---
 
-Most consultants undercharge — not because they lack confidence, but because they're anchoring to the wrong number. They calculate how many hours the work will take and multiply by a rate that feels fair — without ever asking what the work is actually worth to the client.
+# How to Price Consulting Services: The Value-Based Framework That Gets You Paid What You're Worth
 
-Here's how to price consulting services that reflect the value you deliver.
+Most consultants price themselves wrong — not because they don't know their value, but because they don't know how to communicate it in a way that justifies the number in their head.
 
-## Why Hourly Rates Are a Trap
+If you've ever quoted a rate that felt too low after you said it, if you've ever given a discount you didn't want to give, or if a client has ever said "you're too expensive" and you believed them — this is for you.
 
-When you charge by the hour, you're inviting the client to manage your time. Every meeting, every revision, every follow-up becomes a negotiation about whether it's "worth it."
+## Why Hourly Rates Are Quietly Destroying Your Business
 
-Worse: hourly pricing creates a perverse incentive. The better you get at your work — the faster and more precisely you solve problems — the less you earn per project. The consultant who solves a problem in two hours gets paid less than the one who takes eight.
+The hourly rate model sounds logical: you work X hours, you charge Y per hour, you get paid Z. The problem is that this model fundamentally misaligns incentives.
 
-Retainer and project pricing solve this. Once you and the client agree on scope and price, you're paid for the outcome, not the clock.
+When you bill hourly, your client is paying for your time. But your client doesn't actually want your time — they want the result your time produces. And the better you get at your work, the faster you produce that result, which means the less you get paid for it. Expertise penalizes you. That's backwards.
+
+Value-based pricing fixes this by anchoring your fee to the outcome, not the input.
 
 ## The Value-Based Pricing Framework
 
-Price consulting by working backwards from the client's outcome:
+### Step 1: Understand what the problem is worth
 
-**Step 1: Identify the measurable value**
-What's the client trying to achieve? More revenue, lower costs, reduced risk, faster growth? Quantify it where possible.
+Before you quote anything, ask the client directly: "What does solving this problem mean for your business?" or "If we get this right, what does that look like in concrete terms?"
 
-"We help this client generate 20 more qualified leads/month" is worth more or less depending on their close rate and average client value. If each client is worth $5,000 and they close 1 in 5 leads, those 20 leads are worth $20,000/month in revenue.
+A marketing consultant helping a B2B company increase their close rate by 10% might be worth $500K in additional revenue annually. A business attorney helping a founder structure an acquisition properly might prevent $2M in future disputes. A leadership coach helping a CEO build a management layer might free up 20 hours per week of the CEO's time — worth far more than a retainer fee.
 
-**Step 2: Price at 10–25% of the annual value**
-A rough rule: charge 10–25% of the annual value you generate. In the example above, $20,000/month × 12 months = $240,000 in annual revenue. Charging $2,000–$6,000/month is defensible.
+Get the number on the table. That's your anchor.
 
-**Step 3: Anchor to their alternatives**
-What would it cost them to hire someone in-house? To solve this problem with another vendor? What have they already spent trying to fix it?
+### Step 2: Price at 10-20% of value delivered
 
-If in-house would cost $8,000/month loaded (salary + benefits + management overhead), your $2,500/month retainer is a bargain — and you should say so.
+A common heuristic: charge somewhere between 10% and 20% of the quantifiable value you create. If your work drives $100K in additional revenue, a $10K to $20K fee is defensible and feels like a good deal to the client.
 
-## Common Pricing Mistakes
+You don't have to share this math. But having it in your head makes you far more confident when you state your number.
 
-**Charging what feels "fair" rather than what creates value.** Fairness to yourself means pricing at sustainable margins. Fairness to the client means pricing relative to what they get. These are not the same number.
+### Step 3: Present the outcome, not the deliverables
 
-**Starting with a low rate and trying to raise it later.** It's far easier to lower a rate (which rarely happens) than to raise one with an existing client. Start where you want to be.
+Weak framing: "I'll do 3 strategy sessions, a brand audit, and a 20-page report — that's $5,000."
 
-**Discounting to close.** Discounting teaches the client that your price is negotiable and that waiting pays off. Offer to reduce scope instead of rate.
+Strong framing: "The outcome of this engagement is clear messaging that helps your sales team cut the deal cycle from 90 days to 45 days. My fee for this is $12,000."
 
-**Not raising rates annually.** If your rates are the same as three years ago, you're working for less every year in real terms.
+The first version invites the client to evaluate whether the deliverables justify the price. The second version invites them to evaluate whether the outcome is worth the investment. These are very different conversations.
 
-## Retainer vs. Project Pricing
+## How to Handle the "You're Too Expensive" Objection
 
-Both work; the right choice depends on the service.
+First, slow down. "Too expensive" usually means one of three things:
 
-**Use retainers when:**
-- The work is ongoing (monthly content, social media, reporting, strategy calls)
-- The client needs consistent access to your thinking, not just deliverables
-- You want predictable income
+1. **They don't see enough value yet** — connect the outcome to their specific situation more concretely
+2. **It's not a priority right now** — no amount of discounting will fix a decision not to invest
+3. **They're not your client** — some buyers optimize for the lowest fee; that's fine
 
-**Use project pricing when:**
-- The scope is clear and bounded (a launch, a content migration, a strategy document)
-- The work has a definable start and end
-- Ongoing relationship is not the goal
+What doesn't work: discounting the same scope. If you cave on price without changing scope, you've trained this client that your rates are negotiable, and you've started the relationship by disrespecting your own value.
 
-## The Positioning Premium
+What works: reduce the scope to hit their budget, or let them pass.
 
-Specialists always earn more than generalists. A "marketing consultant" can justify $100/hour. A "LinkedIn lead generation consultant for B2B SaaS companies" can justify $300/hour — same category, different specificity.
+## The Retainer Transition
 
-The narrower your positioning, the fewer competitors you have, and the more authority your price carries.
+Once you've delivered results on a project, the smartest next move is a retainer offer. Retainers give you predictable income and deeper client relationships. They let you do your best work without the anxiety of constant new business development. Moving even two or three clients to retainers can transform the stability of your business.
 
-## Agency Services as a Scalable Alternative
+## What To Do Right Now
 
-One reason experts move toward the agency model is that retainer-based services scale better than pure consulting. With AI tools, a one-person agency can serve 5–8 clients simultaneously at retainer rates that would be impossible to maintain through 1:1 consulting hours.
+If you haven't raised your rates in the last 12 months, raise them. Set a date — first of next quarter — tell your existing clients, and hold firm.
 
-The [Agency Blueprint](/agency-blueprint/) shows how to structure this — moving from selling expertise to selling a systematized, deliverables-based service that doesn't require you to show up live for every hour.
+If you want a complete framework for packaging, pricing, and selling your expertise — including the scripts, the proposal templates, and the exact positioning language that makes clients say yes — that's exactly what the [Agency Blueprint](https://thewellpaidexpert.com/agency-blueprint) covers. $27.
 
----
-
-**Ready to build a consulting model that actually scales?** The [Agency Blueprint](/agency-blueprint/) is $27 and shows you the retainer structure that turns one person's expertise into a $4,300/month recurring revenue system.
+Your expertise is worth more than you're charging. Start there.
