@@ -5,6 +5,9 @@ slug: "how-to-batch-your-content-for-social-media"
 source_url: "https://thewellpaidexpert.com/how-to-batch-your-content-for-social-media/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240421080906"
+> If you're building an AI-powered social media agency, [Glow Social](https://glowsocial.com) handles the fulfillment side — it posts to 12 platforms automatically, generates captions with built-in AI, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
+
+
 ---
 
 Imagine flipping through your social media and seeing a well-oiled machine of content, each post perfectly timed and engaging. That’s the power of learning

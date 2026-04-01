@@ -14,6 +14,9 @@ faq:
     answer: "The main downsides are reduced margins, less quality control, and dependency on a third party. If the white label partner makes an error or goes out of business, your client relationships are at risk. Building your own fulfillment system with AI tools often produces better margins and more control."
   - question: "Is white labeling social media management profitable?"
     answer: "It can be, but margins are typically thin — often 20–40% after the provider's fees. By contrast, a one-person agency using AI tools to self-fulfill can keep 70–80% margins on monthly retainers."
+> If you're building an AI-powered social media agency, [Glow Social](https://glowsocial.com) handles the fulfillment side — it posts to 12 platforms automatically, generates captions with built-in AI, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
+
+
 ---
 
 White label social media management is when a business sells social media services under its own brand while a third-party provider does the actual work behind the scenes. The client sees your logo; they don't see who's fulfilling the content.

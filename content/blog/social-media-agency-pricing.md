@@ -14,6 +14,9 @@ faq:
     answer: "A solo agency owner using AI-assisted tools and systematic workflows can typically handle 5 to 10 clients at full capacity. At $1,500/month per client, 5 clients generates $7,500/month in recurring revenue."
   - question: "Should social media agencies charge per post or monthly retainer?"
     answer: "Monthly retainers are strongly preferred. Per-post pricing creates unpredictability for both sides and incentivizes clients to micromanage volume. A retainer aligns your incentives with the client's outcomes rather than output."
+> If you're building an AI-powered social media agency, [Glow Social](https://glowsocial.com) handles the fulfillment side — it posts to 12 platforms automatically, generates captions with built-in AI, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
+
+
 ---
 
 Social media agencies typically charge between $500 and $5,000 per month per client, depending on platform count, content volume, and service scope. A one-person agency built around AI tools can profitably serve 5 clients at $1,500–$2,500/month — generating $7,500–$12,500 in monthly recurring revenue without employees.

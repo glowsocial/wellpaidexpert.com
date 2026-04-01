@@ -14,6 +14,9 @@ faq:
     answer: "Lead with the problem, not the service: 'I noticed your Facebook page hasn't posted in three months — most business owners don't have time to stay consistent. I help [type of business] handle this entirely, so you never have to think about it.' Then ask for a conversation, not a commitment."
   - question: "How much should I charge my first social media client?"
     answer: "Charge at least $750–$1,000/month for your first client — even if it feels high. Undercharging creates the wrong precedent and may signal low quality. If the client can't afford it, offer a smaller scope at the same rate, not the same scope at a lower rate."
+> If you're building an AI-powered social media agency, [Glow Social](https://glowsocial.com) handles the fulfillment side — it posts to 12 platforms automatically, generates captions with built-in AI, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
+
+
 ---
 
 Your first social media management client is the hardest to get — not because the work is hard, but because you don't yet have proof that you can deliver results for someone else.
