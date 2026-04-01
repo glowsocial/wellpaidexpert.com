@@ -143,24 +143,31 @@ export default function UpsellContent() {
           </div>
         </div>
 
-        {/* ===== THE MATH & FOUNDER ===== */}
+        {/* ===== OWNERSHIP FRAMING & FOUNDER ===== */}
         <div className="oto-roi-founder-wrapper">
           <div className="oto-math-card">
-            <h3>Visualizing the ROI</h3>
+            <h3>What You&apos;re Actually Buying</h3>
             <div className="oto-math-comparison">
-              <div className="oto-math-monthly">
-                <span className="math-label">The Standard Way</span>
-                <span className="math-cost">$199<span className="math-period">/mo</span></span>
-                <span className="math-total">Total: $11,940 over 5 years</span>
-              </div>
-              <div className="oto-math-vs">VS</div>
-              <div className="oto-math-lifetime">
-                <span className="math-label">Your Lifetime Deal</span>
-                <span className="math-cost">$997<span className="math-period">/once</span></span>
-                <span className="math-total">Total: $997 forever</span>
+              <div className="oto-ownership-items">
+                <div className="oto-ownership-item">
+                  <span className="ownership-icon">∞</span>
+                  <span className="ownership-label">Unlimited access, forever</span>
+                </div>
+                <div className="oto-ownership-item">
+                  <span className="ownership-icon">✗</span>
+                  <span className="ownership-label">No billing cycle to manage</span>
+                </div>
+                <div className="oto-ownership-item">
+                  <span className="ownership-icon">✗</span>
+                  <span className="ownership-label">No subscription eating into agency margins</span>
+                </div>
+                <div className="oto-ownership-item">
+                  <span className="ownership-icon">✓</span>
+                  <span className="ownership-label">Every future feature update, automatically yours</span>
+                </div>
               </div>
             </div>
-            <p className="oto-math-breaker">You break even in exactly 5 months. After that, 100% of your software cost stays in your pocket as agency profit.</p>
+            <p className="oto-math-breaker">$997. One payment. You own it. Nothing else to think about.</p>
           </div>
 
           <div className="oto-founder-note">

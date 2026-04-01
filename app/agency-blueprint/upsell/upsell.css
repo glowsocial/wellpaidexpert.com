@@ -367,85 +367,51 @@
 }
 
 .oto-math-comparison {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 32px;
   margin-bottom: 40px;
 }
 
-.oto-math-monthly, .oto-math-lifetime {
-  display: flex;
-  flex-direction: column;
-  padding: 24px;
-  border-radius: 16px;
-  flex: 1;
-  max-width: 280px;
+.oto-ownership-items {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-bottom: 8px;
 }
 
-.oto-math-monthly {
+.oto-ownership-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
   background: #f8fafc;
   border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 18px 20px;
+  text-align: left;
 }
 
-.oto-math-lifetime {
-  background: #f0fdf4;
-  border: 1px solid #bbf7d0;
-  box-shadow: 0 4px 6px -1px rgba(22, 163, 74, 0.1);
-}
-
-.math-label {
-  font-size: 0.85rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #64748b;
+.ownership-icon {
+  font-size: 1.3rem;
   font-weight: 700;
-  margin-bottom: 12px;
-}
-
-.oto-math-lifetime .math-label {
-  color: #15803d;
-}
-
-.math-cost {
-  font-family: var(--font-heading);
-  font-size: 2.5rem;
-  font-weight: 800;
   color: #0f172a;
-  line-height: 1;
-  margin-bottom: 12px;
+  flex-shrink: 0;
+  width: 28px;
+  text-align: center;
 }
 
-.oto-math-lifetime .math-cost {
-  color: #16a34a;
-}
-
-.math-period {
-  font-size: 1rem;
-  color: #64748b;
-  font-weight: 600;
-}
-
-.math-total {
-  font-size: 0.9rem;
-  color: #475569;
+.ownership-label {
+  font-size: 0.95rem;
   font-weight: 500;
-}
-
-.oto-math-vs {
-  font-family: var(--font-heading);
-  font-weight: 800;
-  color: #cbd5e1;
-  font-size: 1.25rem;
+  color: #334155;
+  line-height: 1.4;
 }
 
 .oto-math-breaker {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   line-height: 1.6;
-  color: #334155;
+  color: #0f172a;
   max-width: 600px;
-  margin: 0 auto;
-  font-weight: 500;
+  margin: 32px auto 0;
+  font-weight: 700;
+  letter-spacing: -0.3px;
 }
 
 .oto-founder-note {
@@ -650,19 +616,9 @@
   .oto-math-card {
     padding: 32px 24px;
   }
-  
-  .oto-math-comparison {
-    flex-direction: column;
-    gap: 16px;
-  }
-  
-  .oto-math-vs {
-    display: none;
-  }
 
-  .oto-math-monthly, .oto-math-lifetime {
-    max-width: 100%;
-    width: 100%;
+  .oto-ownership-items {
+    grid-template-columns: 1fr;
   }
   
   .oto-founder-note {

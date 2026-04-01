@@ -1,6 +1,8 @@
 import { NextResponse } from "next/server";
 import Stripe from "stripe";
 import { PRICES } from "@/lib/stripe";
+import { sendUpsellConfirmation } from "@/lib/email";
+
 
 export async function POST(request) {
   try {
@@ -67,6 +69,21 @@ export async function POST(request) {
         { error: "Payment did not complete. Please try again." },
         { status: 402 }
       );
+    }
+
+    // Send upsell confirmation email
+    try {
+      const customer = await stripe.customers.retrieve(customerId);
+      const email = customer.email;
+      const name = customer.name;
+      if (email) {
+        const { error: emailError } = await sendUpsellConfirmation({ email, name });
+        if (emailError) console.error("Upsell email error:", emailError);
+        else console.log("Upsell confirmation sent to", email);
+      }
+    } catch (emailErr) {
+      console.error("Failed to send upsell email:", emailErr);
+      // Don't fail the request — payment succeeded, email is best-effort
     }
 
     return NextResponse.json({
