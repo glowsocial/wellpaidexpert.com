@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "generate": "node scripts/generate-blog-posts.js",
+    "generate:one": "node scripts/generate-blog-posts.js --count 1"
   },
   "dependencies": {
     "@stripe/react-stripe-js": "^6.0.0",
