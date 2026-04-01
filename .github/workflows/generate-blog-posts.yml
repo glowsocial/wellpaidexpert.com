@@ -1,0 +1,77 @@
+name: Generate Blog Posts
+
+on:
+  # Runs every Tuesday and Friday at 8am UTC (1am PT / 4am ET)
+  schedule:
+    - cron: '0 8 * * 2'  # Tuesday
+    - cron: '0 8 * * 5'  # Friday
+
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'Number of posts to generate'
+        required: false
+        default: '5'
+      keyword:
+        description: 'Optional: single specific keyword to generate'
+        required: false
+        default: ''
+
+jobs:
+  generate-posts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate blog posts
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          COUNT="${{ github.event.inputs.count || '5' }}"
+          KEYWORD="${{ github.event.inputs.keyword }}"
+
+          if [ -n "$KEYWORD" ]; then
+            node scripts/generate-blog-posts.js --count 1 --keyword "$KEYWORD"
+          else
+            node scripts/generate-blog-posts.js --count $COUNT
+          fi
+
+      - name: Check for new posts
+        id: check_changes
+        run: |
+          if git diff --quiet HEAD -- content/blog/; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            NEW_COUNT=$(git status --short content/blog/ | grep "^?" | wc -l | tr -d ' ')
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "new_count=$NEW_COUNT" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push new posts
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/blog/
+          git commit -m "content: auto-generated ${{ steps.check_changes.outputs.new_count }} new SEO blog post(s) [skip ci]"
+          git push
+
+      - name: Summary
+        run: |
+          if [ "${{ steps.check_changes.outputs.has_changes }}" == "true" ]; then
+            echo "✅ Published ${{ steps.check_changes.outputs.new_count }} new post(s)"
+          else
+            echo "ℹ️ No new posts — all keywords in the bank already have posts"
+          fi
