@@ -74,10 +74,11 @@ function buildFaqSchema(faq) {
     "@type": "FAQPage",
     mainEntity: faq.map((item) => ({
       "@type": "Question",
-      name: item.question,
+      // Support both {question, answer} and {q, a} key formats
+      name: item.question || item.q,
       acceptedAnswer: {
         "@type": "Answer",
-        text: item.answer,
+        text: item.answer || item.a,
       },
     })),
   };
@@ -126,7 +127,7 @@ export default async function BlogPost({ params }) {
   const relatedPosts = getRelatedPosts(post, allPosts);
 
   const articleSchema = buildArticleSchema(post);
-  const faqSchema = buildFaqSchema(post.faq);
+  const faqSchema = buildFaqSchema(post.faq || post.faqs);
   const howToSchema = buildHowToSchema(post);
 
   const schemas = [articleSchema, faqSchema, howToSchema].filter(Boolean);
