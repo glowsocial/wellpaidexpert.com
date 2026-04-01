@@ -5,6 +5,17 @@ slug: "why-your-offer-is-not-converting"
 source_url: "https://thewellpaidexpert.com/why-your-offer-is-not-converting/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208190914"
+faq:
+  - q: "Why is my digital product or online course offer getting traffic but not converting into sales?"
+    a: "Traffic without conversion usually points to one of three issues: the wrong audience is landing on your page, your offer messaging doesn't match their language, or there isn't enough trust established before the ask. Review where your traffic comes from and whether those visitors match your ideal customer. Then audit your sales page for specificity — vague benefit statements underperform concrete, outcome-focused language every time."
+  - q: "What are the most common reasons an expert's consulting or coaching offer doesn't convert despite promotion?"
+    a: "The most common conversion killers for expert offers are: pricing misaligned with perceived value, an audience that isn't ready to buy or doesn't have budget, too-long sales cycles with no trust-building nurture, and sales pages that talk about features instead of transformations. Experts also frequently launch to cold audiences without warming them up through content or case studies first."
+  - q: "How do you fix a low conversion rate on a high-ticket coaching or consulting offer?"
+    a: "For high-ticket offers, the fix is almost always improving the qualification and trust stage — not the close. Add a discovery call funnel, use video testimonials or case studies on your sales page, and nurture prospects with specific email sequences before pitching. High-ticket buyers need to feel certain about the outcome, certain about you, and certain the timing is right. Removing friction and adding social proof addresses all three."
+  - q: "How many times does someone need to see an offer before converting into a paying customer?"
+    a: "Research suggests most buyers need 7 to 12 touchpoints before making a purchase decision, especially for premium offers over $500. This is why consistent email nurture, retargeting ads, and regular content publishing matter — they keep your offer top of mind through the full consideration cycle. Don't judge an offer as failed after one launch; sustained visibility compounds over time."
+  - q: "Should I lower my price if my offer isn't converting, or is there a better approach?"
+    a: "Lowering price is rarely the right first move. Most non-conversions are trust or relevance problems, not price objections. Before discounting, test adding a payment plan, strengthening your guarantee, improving the sales copy to speak more directly to pain points, or repositioning who the offer is for. If you've tested those and price remains the objection, consider a lower-entry product that leads into your core offer rather than discounting the flagship."
 ---
 
 ## Should you build a quiz for your business?

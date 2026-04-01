@@ -5,6 +5,15 @@ slug: "what-to-do-when-nobodys-buying-your-offer"
 source_url: "https://thewellpaidexpert.com/what-to-do-when-nobodys-buying-your-offer/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20221221075217"
+faq:
+  - q: "What should you do when you launch a digital product or course and nobody buys it?"
+    a: "First, don't abandon the launch prematurely. Research consistently shows that a significant percentage of buyers convert in the final 24 to 48 hours of a campaign. If nobody is buying mid-launch, the instinct to go silent is the worst thing you can do — it eliminates everyone who was going to buy before the deadline. Keep showing up, refine your messaging, and give yourself the full launch window."
+  - q: "Is it normal for experts and consultants to launch a new offer and get zero sales on the first attempt?"
+    a: "Completely normal — and far more common than people admit. Most successful online experts report launching offers that initially flopped before they found the right messaging, audience, or timing. A launch with zero sales is not evidence your offer is bad; it's data. Study what you said, who you said it to, how many people saw it, and what stopped them from buying. That information makes the next launch better."
+  - q: "How do you keep going with marketing when your offer isn't getting traction and you feel like giving up?"
+    a: "Reframe consistency as the product. The internal commitment required to keep marketing after visible failure is exactly the skill that separates experts who eventually break through from those who quit. Detach from individual launch outcomes and focus on the behavior: did you show up every day, practice your message, and invite people to buy? Momentum compounds. Sales follow volume of attempts — not perfection of any single one."
+  - q: "How many times do you need to promote an offer before it starts converting into consistent sales?"
+    a: "Most buyers need to see an offer referenced multiple times across multiple touchpoints before acting. For a new offer to a warm audience, expect 7 to 10 exposures before meaningful conversion happens. For a cold audience, significantly more. This is why single-launch windows often underperform — if you build ongoing visibility around your offer through email, social media, and content, conversion compounds over time rather than requiring a perfect launch each time."
 ---
 
 Have you ever ditched a launch or felt like a failure because nobody is signing up to your offer?
