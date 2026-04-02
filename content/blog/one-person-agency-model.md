@@ -14,10 +14,11 @@ faq:
     answer: "Services that benefit from consistency over time and are difficult for clients to do themselves work best: social media management, content marketing, email marketing, SEO, bookkeeping, PR, and fractional executive roles. The ideal service has a clear monthly deliverable that can be systematized."
   - question: "How do you start a one-person agency with no clients?"
     answer: "Start with one client in your network — someone you can do great work for when you have time to focus. Get a testimonial. Use that as the foundation for outreach to your second and third clients. Most one-person agency owners land their first 3 clients through direct outreach to their existing LinkedIn connections, not cold prospecting."
+---
+
 > If you're building an AI-powered social media agency, [Glow Social](https://glowsocial.com) handles the fulfillment side — it posts to 12 platforms automatically, generates captions with built-in AI, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
 
 
----
 
 The one-person agency is a specific business model: one skilled operator, multiple retainer clients, systematized service delivery, no employees. It generates $5,000–$15,000/month in recurring revenue with lower overhead than almost any other business structure.
 
