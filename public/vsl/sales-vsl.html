@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Agency Blueprint — How It Works</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@400;500;600;700&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #0e0e12;
+      color: #fff;
+      font-family: 'Inter', sans-serif;
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #progress-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      height: 4px;
+      background: #7c2d3e;
+      width: 0%;
+      z-index: 100;
+    }
+
+    #stage {
+      width: 1280px;
+      max-width: 100vw;
+      height: 720px;
+      max-height: 100vh;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .slide {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 80px;
+      text-align: center;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.5s ease;
+    }
+    .slide.active { opacity: 1; pointer-events: all; }
+
+    .slide-dark   { background: #0e0e12; }
+    .slide-cream  { background: #f5f0e8; color: #1a1a2e; }
+    .slide-maroon { background: #7c2d3e; }
+    .slide-navy   { background: #1a1a2e; }
+
+    .eyebrow {
+      font-size: 12px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: #c8b89a;
+      margin-bottom: 20px;
+      font-weight: 600;
+    }
+    .slide-cream .eyebrow { color: #8b7355; }
+
+    .headline {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(2.4rem, 5vw, 4.2rem);
+      line-height: 1.15;
+      font-weight: 700;
+      margin-bottom: 24px;
+    }
+    .headline em { color: #c8b89a; font-style: italic; }
+    .slide-cream .headline { color: #1a1a2e; }
+    .slide-cream .headline em { color: #7c2d3e; }
+
+    .body {
+      font-size: clamp(1rem, 2vw, 1.35rem);
+      line-height: 1.7;
+      color: rgba(255,255,255,0.8);
+      max-width: 760px;
+    }
+    .slide-cream .body { color: #4b5563; }
+
+    .stat {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(3rem, 8vw, 6rem);
+      font-weight: 700;
+      color: #c8b89a;
+      line-height: 1;
+      margin-bottom: 12px;
+    }
+
+    .divider {
+      width: 48px;
+      height: 3px;
+      background: #7c2d3e;
+      margin: 24px auto;
+    }
+    .slide-maroon .divider { background: rgba(255,255,255,0.3); }
+    .slide-cream  .divider { background: #7c2d3e; }
+    .slide-navy   .divider { background: #c8b89a; }
+
+    .bullet-list {
+      list-style: none;
+      text-align: left;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      max-width: 680px;
+      width: 100%;
+    }
+    .bullet-list li {
+      font-size: 1.1rem;
+      line-height: 1.5;
+      color: rgba(255,255,255,0.85);
+      display: flex;
+      gap: 14px;
+      align-items: flex-start;
+    }
+    .bullet-list li::before {
+      content: '✓';
+      color: #c8b89a;
+      font-weight: 700;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    .price {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(4rem, 10vw, 8rem);
+      font-weight: 700;
+      color: #fff;
+      line-height: 1;
+    }
+    .price-note {
+      font-size: 1rem;
+      color: rgba(255,255,255,0.55);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-top: 12px;
+    }
+
+    .logo-mark {
+      font-size: 11px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.3);
+      position: fixed;
+      bottom: 18px;
+      right: 28px;
+    }
+
+    /* Start overlay */
+    #start-overlay {
+      position: fixed;
+      inset: 0;
+      background: #0e0e12;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 200;
+      gap: 20px;
+      cursor: pointer;
+    }
+    #start-overlay h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 2rem;
+      color: #fff;
+    }
+    #start-overlay p {
+      color: rgba(255,255,255,0.5);
+      font-size: 0.95rem;
+    }
+    #start-btn {
+      background: #7c2d3e;
+      color: #fff;
+      border: none;
+      padding: 18px 48px;
+      font-size: 1rem;
+      font-family: 'Inter', sans-serif;
+      font-weight: 600;
+      letter-spacing: 1px;
+      cursor: pointer;
+      margin-top: 8px;
+    }
+    #start-btn:hover { background: #9a3a4e; }
+  </style>
+</head>
+<body>
+
+<!-- Start overlay (needed so browser allows audio autoplay) -->
+<div id="start-overlay">
+  <h2>Agency Blueprint VSL</h2>
+  <p>134 seconds · 9 slides · audio-synced</p>
+  <button id="start-btn">▶ Play</button>
+</div>
+
+<div id="stage">
+  <!-- Slide 0 — Hook -->
+  <div class="slide slide-dark active" data-cue="0">
+    <p class="eyebrow">Most SMMA courses teach you this</p>
+    <h1 class="headline">How to <em>create content.</em></h1>
+    <div class="divider"></div>
+    <p class="body">Design graphics. Write captions. Come up with ideas. Every single week.</p>
+  </div>
+
+  <!-- Slide 1 — Reframe -->
+  <div class="slide slide-maroon" data-cue="1">
+    <h1 class="headline">That's not an agency.</h1>
+    <div class="divider"></div>
+    <p class="body">That's a full-time job with demanding bosses who pay you by the hour.</p>
+  </div>
+
+  <!-- Slide 2 — The question -->
+  <div class="slide slide-dark" data-cue="2">
+    <p class="eyebrow">There's a better model</p>
+    <h1 class="headline">What if you ran the <em>business</em> — and automated the rest?</h1>
+  </div>
+
+  <!-- Slide 3 — Social proof / stat -->
+  <div class="slide slide-navy" data-cue="3">
+    <div class="stat">6</div>
+    <p style="letter-spacing:2px;text-transform:uppercase;font-size:.85rem;color:rgba(255,255,255,.5);margin-bottom:24px;">Active clients</p>
+    <div class="divider"></div>
+    <p class="body">15 minutes per client, per week.<br/>Not 15 hours. 15 <strong>minutes.</strong></p>
+  </div>
+
+  <!-- Slide 4 — How -->
+  <div class="slide slide-dark" data-cue="4">
+    <p class="eyebrow">The fulfillment engine</p>
+    <h1 class="headline">AI handles the content.<br/>You handle the <em>clients.</em></h1>
+  </div>
+
+  <!-- Slide 5 — What's inside -->
+  <div class="slide slide-cream" data-cue="5">
+    <p class="eyebrow">The Agency Blueprint — what's inside</p>
+    <ul class="bullet-list">
+      <li>Niche selection — 5 industries that pay the most and churn the least</li>
+      <li>9 copy-paste cold outreach scripts for LinkedIn and email</li>
+      <li>The 60-Second Close — generate a sample feed for any prospect on the spot</li>
+      <li>AI Proposal Generator — professional proposal in under a minute</li>
+      <li>Pricing strategy and anchoring guide</li>
+      <li>The fulfillment engine — how to run 6+ clients without a team</li>
+    </ul>
+  </div>
+
+  <!-- Slide 6 — The math -->
+  <div class="slide slide-dark" data-cue="6">
+    <p class="eyebrow">The math</p>
+    <h1 class="headline">$750/mo × 6 clients<br/>= <em>$4,300/mo profit.</em></h1>
+    <div class="divider"></div>
+    <p class="body">No employees. No office. No Canva.</p>
+  </div>
+
+  <!-- Slide 7 — Price reveal -->
+  <div class="slide slide-maroon" data-cue="7">
+    <p class="eyebrow">What it costs</p>
+    <div class="price">$27</div>
+    <div class="price-note">One-time. Instant access.</div>
+    <div class="divider"></div>
+    <p class="body">No subscription. No upsell to "the real training." This is it.</p>
+  </div>
+
+  <!-- Slide 8 — CTA -->
+  <div class="slide slide-dark" data-cue="8">
+    <p class="eyebrow">The Well-Paid Expert</p>
+    <h1 class="headline">The most useful <em>$27</em><br/>you'll spend on this.</h1>
+    <div class="divider"></div>
+    <p class="body">The checkout is right here. Let's go.</p>
+  </div>
+</div>
+
+<div id="progress-bar"></div>
+<div class="logo-mark">The Well-Paid Expert</div>
+
+<audio id="vsl-audio" src="sales-vsl.mp3" preload="auto"></audio>
+
+<script>
+  // Slide start times from ElevenLabs (seconds)
+  const SLIDE_CUES = {
+    0: 0.000,
+    1: 12.342,
+    2: 18.251,
+    3: 34.076,
+    4: 54.150,
+    5: 58.167,
+    6: 95.957,
+    7: 113.860,
+    8: 134.026,
+  };
+
+  const TOTAL_DURATION = 134.769;
+
+  const audio  = document.getElementById('vsl-audio');
+  const bar    = document.getElementById('progress-bar');
+  const slides = Array.from(document.querySelectorAll('.slide'));
+  const overlay = document.getElementById('start-overlay');
+  const startBtn = document.getElementById('start-btn');
+
+  let currentSlide = 0;
+
+  function updateSlide(idx) {
+    if (idx === currentSlide) return;
+    slides[currentSlide].classList.remove('active');
+    slides[idx].classList.add('active');
+    currentSlide = idx;
+  }
+
+  function tick() {
+    if (audio.paused) return;
+    const t = audio.currentTime;
+
+    // Update progress bar
+    bar.style.width = Math.min((t / TOTAL_DURATION) * 100, 100) + '%';
+
+    // Find which slide should be active
+    const cues = Object.entries(SLIDE_CUES).sort((a, b) => a[1] - b[1]);
+    let targetSlide = 0;
+    for (const [idx, startTime] of cues) {
+      if (t >= startTime) targetSlide = parseInt(idx, 10);
+    }
+    updateSlide(targetSlide);
+
+    requestAnimationFrame(tick);
+  }
+
+  startBtn.addEventListener('click', () => {
+    overlay.style.display = 'none';
+    audio.play().then(() => {
+      requestAnimationFrame(tick);
+    });
+  });
+
+  // Keyboard controls
+  document.addEventListener('keydown', (e) => {
+    if (e.key === ' ') {
+      e.preventDefault();
+      audio.paused ? audio.play().then(() => requestAnimationFrame(tick)) : audio.pause();
+    }
+    if (e.key === 'ArrowRight') {
+      const next = currentSlide + 1;
+      if (next < slides.length && SLIDE_CUES[next] !== undefined) {
+        audio.currentTime = SLIDE_CUES[next];
+      }
+    }
+    if (e.key === 'ArrowLeft') {
+      const prev = Math.max(0, currentSlide - 1);
+      if (SLIDE_CUES[prev] !== undefined) {
+        audio.currentTime = SLIDE_CUES[prev];
+      }
+    }
+    if (e.key === 'r') {
+      audio.currentTime = 0;
+      if (audio.paused) audio.play().then(() => requestAnimationFrame(tick));
+    }
+  });
+</script>
+</body>
+</html>

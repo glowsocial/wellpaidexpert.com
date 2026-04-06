@@ -38,6 +38,8 @@ Switching to energy-efficient lighting, appliances, and heating systems is one o
 
 Better yet, tell customers about it! “Our lights are 100% LED” might not sound groundbreaking, but you’d be surprised how many people appreciate a company that does its part. Even better, display it in your store or office so customers know you’re cutting down on waste in every way possible. They’ll walk away thinking, “This business is smart and eco-conscious.”
 
+As a bonus, it could be that if you're saving money on your energy, you can now consider [commercial aircon](https://www.auscool.net.au/commercial-air-conditioning-sydney.html), ensuring that your employees are comfortable and happy. Basically, everyone wins.
+
 ## 5. Support Local Suppliers Because Keeping It Close to Home Saves Resources
 
 Want a sustainable business? Support other sustainable businesses.
