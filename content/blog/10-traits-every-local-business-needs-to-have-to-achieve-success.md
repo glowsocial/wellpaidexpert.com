@@ -64,4 +64,8 @@ first employee, or you’re scoping out a new manager for your local store, you 
 
 Patience, determination and tenacity as a small, local business owner. So many small companies close too quickly because there isn’t enough time and research dedicated to keeping it up and running. With the correct strategies and mindset your local business will thrive for years to come!
 
+## Bonus: Attractive Premises
+
+If you run a local business and customers and clients are going to visit that business, then you need to make sure that the premises look good because first impressions count and they can make the difference between customers popping in and not. So hiring good [commercial painting services](https://www.platinumedgegroup.com.au/painting-services/commercial-painting) and buying the best fixtures and fittings will really help your local company to thrive.
+
 As you can see, all of these traits will prove to be incredibly useful when it comes to growing your business and reaching your goals. Whether you’re looking into the best local marketing methods, or you’re improving your website to align it with the preferences of your ideal audience, there is so much you can do to find your own version of success. Work you way through each of these ideas, and hopefully you’ll soon see all of the lucrative rewards that go hand in hand with each and every one of them!
