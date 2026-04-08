@@ -232,7 +232,11 @@ No one said it was easy—but remember: “The less generic your answer, the mor
 
 In our fast-paced world where knowledge gets outdated quickly (looking at you computer science.), continuous learning becomes critical—not only does it keep us updated but also makes ourselves referable within our networks because of up-to-date knowledge.
 
-Don’t be scared to pick up new material, such as books, classes or online seminars. As experts recommend: “Surround yourself with books and don’t be afraid to abandon them.” Learning isn’t about hoarding information—it’s about acquiring relevant skills and insights that make you a better expert.
+Don't be scared to pick up new material, such as books, classes or online seminars. As experts recommend: "Surround yourself with books and don't be afraid to abandon them." Learning isn't about hoarding information—it's about acquiring relevant skills and insights that make you a better expert.
+
+### Guidance from a Mentor
+
+Establishing a meaningful mentor-mentee relationship can be transformative on your path towards prosperity and becoming a well-paid expert. Mentors like [Jennifer Zimbroff](https://ogc.stanford.edu/) offer invaluable experience, tailored advice, and constructive feedback that can help avoid common pitfalls while speeding your progress forward. Mentors offer access to unique industry insights, connections, and support services that may otherwise be difficult to come by on your own. By learning from their successes and challenges, you can develop clearer professional goals as well as the steps required to meet them. Building this kind of relationship forms growth and confidence and expands understanding.
 
 ### In Conclusion
 
