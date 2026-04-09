@@ -56,4 +56,8 @@ Patience, determination and tenacity as a small, local business owner. So many s
 
 If you run a local business and customers and clients are going to visit that business, then you need to make sure that the premises look good because first impressions count and they can make the difference between customers popping in and not. So hiring good [commercial painting services](https://www.platinumedgegroup.com.au/painting-services/commercial-painting) and buying the best fixtures and fittings will really help your local company to thrive.
 
+## Certification
+
+Although you can learn a lot on the go when you run a business, and you can undoubtedly get to wherever you want to be by grinding your way to the top, sometimes you need to make sure that you are taking a step back as well. Taking a training course or getting certified is one of the best things you can do. In some sectors, and especially if you work with food, you may find that you need to take a course to become certified. [Food certification courses](https://www.hsedocs.com/courses/all-food-courses/) can be done online, and when you do, you will find it easier to get your business off to a good start.
+
 As you can see, all of these traits will prove to be incredibly useful when it comes to growing your business and reaching your goals. Whether you're looking into the best local marketing methods, or you're improving your website to align it with the preferences of your ideal audience, there is so much you can do to find your own version of success. Work your way through each of these ideas, and hopefully you'll soon see all of the lucrative rewards that go hand in hand with each and every one of them!
