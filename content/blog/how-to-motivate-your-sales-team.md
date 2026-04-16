@@ -26,7 +26,7 @@ Invest heavily in trading and development. The best sales teams never stop learn
 
 Create a positive team culture. A strong team culture makes all the difference. Encourage collaboration instead of competition so that you can show that when sales people support each other and share ideas, it creates a sense of belonging. It’s all about those team wins, and as a leader, your attitude is going to set the tone for them. You can keep the environment positive and open and allow team members to share challenges without the fear of criticism. When people feel safe and valued, they’re more willing to take risks and go after the bigger fish.
 
-Give them the right tools. Even the most motivated of salespeople need the right tools for success. Unclear processes and outdated systems can slow them down, and that leads to frustration in their work. When they feel supported and equipped to do their best work, motivation will naturally follow.
+Give them the right tools. Even the most motivated of salespeople need the right tools for success. Unclear processes and outdated systems can slow them down, and that leads to frustration in their work. When they feel supported and equipped to do their best work, motivation will naturally follow. For that reason, it's highly valuable to provide them with a sales operating system like [RepCard](https://repcard.com/), so they have everything they need in one place to empower their position.
 
 Posted in
 Sales Strategies
