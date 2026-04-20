@@ -27,7 +27,7 @@ This is where AI has the biggest impact. Content generation tools draft captions
 
 | Tool | Best for | Cost |
 |------|---------|------|
-| Glow Social | Agency owners managing multiple clients with platform-specific content | $49–$199/mo |
+| Glow Social | Agency owners managing multiple clients with platform-specific content | $99–$199/mo |
 | Claude (Anthropic) | Long-form content drafts, nuanced brand voice | $20/mo |
 | ChatGPT Plus | General content ideation and drafting | $20/mo |
 

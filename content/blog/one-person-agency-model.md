@@ -65,7 +65,7 @@ A one-person social media agency delivering for 5 clients needs:
 
 | Tool | Purpose | Approx. monthly cost |
 |------|---------|---------------------|
-| AI content tool (e.g., Glow Social) | Content creation + scheduling | $49–$199 |
+| AI content tool (e.g., Glow Social) | Content creation + scheduling | $99–$199 |
 | Canva Pro | Graphics and carousels | $13 |
 | Analytics/reporting tool | Client reports | $0–$50 |
 | Simple CRM or spreadsheet | Client tracking | $0–$20 |
