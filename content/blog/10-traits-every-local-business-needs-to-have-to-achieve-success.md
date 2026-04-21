@@ -48,6 +48,8 @@ Your website needs to be streamlined, easy to navigate and relevant to your idea
 
 Whether you're hiring your very first employee, or you're scoping out a new manager for your local store, you need to have a small, but mighty team of exceptional employees on your side. As a small, local business the service that your employees provide is a true reflection of your brand reputation, so you need to have confidence that they can deliver this exceptional service every single day.
 
+This also applies to companies who provide a service for your business or subcontractors. Even though they aren't your employees, the quality of their work will reflect on your business as well as theirs. For example, when hiring an IT service provider to help you manage your IT systems and infrastructure, aim for a specialist service like [Ascendant Technologies](https://ascendantusa.com/industries-served/it-support-for-construction-companies/) that can work according to your industry standards and specific needs as a business.
+
 ## 10. Patience and Tenacity
 
 Patience, determination and tenacity as a small, local business owner. So many small companies close too quickly because there isn't enough time and research dedicated to keeping it up and running. With the correct strategies and mindset your local business will thrive for years to come!
