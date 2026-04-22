@@ -1,11 +1,14 @@
 ---
 title: "12 Ways to Ensure Your Business is Sustainable (And Desirable)"
-description: "You might be inclined to think that sustainability is just a passing trend in business, but if you take some time to sit down and really think about it, you"
+description: "You might be inclined to think that sustainability is just a passing trend in business, but if you take some time to sit down and really think about it, you will see that it is anything but."
 slug: "12-ways-to-ensure-your-business-is-sustainable-and-desirable"
+date: "2024-11-15"
+image: "/12-ways-to-ensure-your-business-is-sustainable-and-desirable.png"
 source_url: "https://thewellpaidexpert.com/12-ways-to-ensure-your-business-is-sustainable-and-desirable/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241206190552"
 ---
+![Sustainable business office with plants and eco-friendly materials](/12-ways-to-ensure-your-business-is-sustainable-and-desirable.png)
 
 You might be inclined to think that sustainability is just a passing trend in business, but if you take some time to sit down and really think about it, you will see that it is anything but. Climate change is not going away and more and more customers are coming to understand these issues every day. So, it is fair to say, that ensuring your business is as sustainable as possible is a smart way to bring in more customers, but it is always smart for business too. Here’s why:
 
@@ -50,7 +53,7 @@ Customers love to know they’re supporting a brand that supports the community.
 
 ## 6. Encourage Sustainable Commuting
 
-This one’s for those of you with teams. Encourage your employees to opt for greener commuting options, whether it’s biking, carpooling, or using public transportation. Offer incentives, like bike storage or preferred parking for carpoolers, to make the switch more appealing. Or consider work-from-home days, which not only saves on commuting emissions but is wildly popular among employees.
+This one’s for those of you with teams. Encourage your employees to opt for greener commuting options, whether it’s biking, carpooling, or using public transportation. Offer incentives, like bike storage or preferred parking for carpoolers, to make the switch more appealing. Or consider work-from-home days, which not only saves on commuting emissions but is wildly popular among employees. This kind of [employee engagement](https://www.haiilo.com/use-cases/employee-engagement) shows that you are actively taking on board the concerns of the workforce and acting upon them, which is excellent for retention while outlining support for the wider environment.
 
 A team that’s excited to work sustainably is great for business. Customers love to see businesses treating their employees right and thinking beyond their own walls. Make green commuting part of your company culture, and share it with your customers – they’ll love knowing that your eco-friendly values are a team effort.
 
