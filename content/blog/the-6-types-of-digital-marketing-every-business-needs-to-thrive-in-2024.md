@@ -11,11 +11,9 @@ Online marketing continues to evolve and if you want your business to thrive in 
 
 Content Marketing
 
-Content marketing is a clever way of getting your business and product in front of the right people. The idea is that you provide valuable content to them for free, and that draws them to visit your site. Additionally, by creating content in your niche you can build up authority and trust, so when it does come time for them to make a purchase they will already have your business in mind.
+Content marketing is a clever way of getting your business and product in front of the right people. The idea is that you provide valuable content to them for free, and that draws them to visit your site. Additionally, by creating content in your niche you can build up authority and trust, so when it does come time for them to make a purchase they will already have your business in mind. You don't have to handle this on your own, either. There is the option of a [digital marketing agency](https://www.8throw.com/), too, because you can always learn from and lean on marketing experts for help. Your website and your business do not have to suffer, especially when you want to keep on top of your content marketing strategy.
 
-Just like all other forms of marketing, content marketing needs to
-be specifically targeted
-to the people you are trying to reach. This means you will not only have to define who your market is but also what their main interests and pain points are so you can create effective content that covers and solves their issues.
+Just like all other forms of marketing, content marketing needs to be specifically targeted to the people you are trying to reach. This means you will not only have to define who your market is but also what their main interests and pain points are so you can create effective content that covers and solves their issues.
 
 Search Engine Optimisation (SEO)
 
