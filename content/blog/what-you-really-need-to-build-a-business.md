@@ -23,9 +23,9 @@ Then we have your brand. When it comes to getting your business off the ground, 
 
 ## 3. The Right Equipment
 
-It’s also important for you to make sure that you have the right equipment in place. Depending on the kind of business you have, you may even rely on this to operate every single day. So make sure that you source the best. If you need cooking equipment and a
-bar fridge
-for your restaurant, invest in the best. If you need computers and camera equipment for your creative agency, get them in place. This could be the difference between doing an average job and seeing the success you want.
+It's also important for you to make sure that you have the right equipment in place. Depending on the kind of business you have, you may even rely on this to operate every single day. So make sure that you source the best. If you need cooking equipment and a bar fridge for your restaurant, invest in the best. If you need computers and camera equipment for your creative agency, get them in place. This could be the difference between doing an average job and seeing the success you want.
+
+It could even just be having the right IT equipment in place. This is important for pretty much any business out there. For this, you should make sure that you not only have the right equipment, but also that you make use of something like the [Always Beyond IT Services](https://www.alwaysbeyond.com/) team. That way, you are able to make use of that tech in the most appropriate way as well. This could prove to be hugely important.
 
 ## 4. Customers
 
