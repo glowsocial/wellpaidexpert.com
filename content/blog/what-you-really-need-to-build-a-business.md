@@ -1,13 +1,14 @@
 ---
 title: "What You Really Need to Build a Business"
-description: "Source"
+description: "Discover the five essential building blocks every new business needs — from a viable idea and strong brand to the right equipment, customers, and grit."
 slug: "what-you-really-need-to-build-a-business"
 source_url: "https://thewellpaidexpert.com/what-you-really-need-to-build-a-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427110325"
+image: "/what-you-really-need-to-build-a-business.png"
 ---
 
-Source
+![What you really need to build a business](/what-you-really-need-to-build-a-business.png)
 
 When you first get into business, it’s not always easy to know what you should be focusing on.
 Starting a business
