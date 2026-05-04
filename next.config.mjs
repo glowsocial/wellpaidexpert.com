@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   trailingSlash: true,
+  skipTrailingSlashRedirect: true,
   async redirects() {
     return [
       // Old category pages → articles listing
