@@ -37,9 +37,7 @@ to push the person to take the next step. Again, drill into what drives them: yo
 
 ## 3. Leverage the Skills of the Professionals
 
-At this point, you can start to think about what sort of form your marketing campaign is going to take, and it could ultimately comprise many elements. Video is incredibly important these days, so that may be a good place to begin. Approach
-video production companies
-to discover how they can help you develop your idea for both the big and small screen.
+At this point, you can start to think about what sort of form your marketing campaign is going to take, and it could ultimately comprise many elements. Video is incredibly important these days, so that may be a good place to begin. Approach [video production companies](https://www.froth-fur.com/new-york-video-production-company) to discover how they can help you develop your idea for both the big and small screen.
 
 Having created a great video advertisement, the beauty is that you can then use stills to further embellish the campaign: you can take the images to social media marketers to reconfigure them into visually
 appealing graphics
