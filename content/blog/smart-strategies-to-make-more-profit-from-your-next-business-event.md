@@ -44,6 +44,10 @@ Offering event-exclusive merchandise is a great way to increase profits while gi
 
 Custom merchandise isn’t the only way to boost your sales. Bundling products together at a discount or offering special deals just for event attendees can encourage people to spend more. Giving customers extra value for their money at your event increases both sales and customer satisfaction.
 
+Giving away small gifts or samples can also be a powerful way to drive engagement and future sales. Freebies create a positive impression and give attendees a chance to experience your product or service without commitment. This can be especially effective if you're launching something new or trying to reach a wider audience. Even simple items like branded samples or trial versions can spark interest and lead to purchases later on.
+
+You can take this a step further by offering [personalized corporate gift ideas](https://customjoy.com/collections/office) that feel thoughtful and unique. Customized items, such as engraved products or tailored gift packs, can leave a lasting impression and strengthen your brand identity. When people feel valued, they're more likely to remember your business and come back for more.
+
 Source:
 
 (CC0)
