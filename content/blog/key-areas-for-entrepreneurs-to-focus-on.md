@@ -1,6 +1,6 @@
 ---
 title: "Key Areas For Entrepreneurs to Focus On"
-description: "Image Credit: Christiann Koepke from Unsplash."
+description: "Three key areas entrepreneurs should focus on to build a stronger business: sustainable growth, marketing, and cybersecurity."
 slug: "key-areas-for-entrepreneurs-to-focus-on"
 source_url: "https://thewellpaidexpert.com/key-areas-for-entrepreneurs-to-focus-on/"
 recovered_from: "wayback_machine"
