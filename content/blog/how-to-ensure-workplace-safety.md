@@ -1,16 +1,14 @@
 ---
 title: "How to Ensure Workplace Safety"
-description: "Image by Yerson Retamal from Pixabay"
+description: "Protect your employees and your business by keeping workplace safety training, equipment, signage, and systems up to date."
 slug: "how-to-ensure-workplace-safety"
+image: "/how-to-ensure-workplace-safety.png"
 source_url: "https://thewellpaidexpert.com/how-to-ensure-workplace-safety/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427101732"
 ---
 
-Image by
-Yerson Retamal
-from
-Pixabay
+![Workplace safety equipment in an organized industrial workspace](/how-to-ensure-workplace-safety.png)
 
 Workplace safety is something that you can never afford to take for granted. It is a critical part of your business. When employees are injured there can be financial burdens and legal complications for your business.
 
@@ -54,3 +52,7 @@ providing protective equipment
 for your employees because this plays a vital role in preventing injuries in certain work environments.
 
 The industry you are in will determine the most important type of protective care. In general though, safety glasses, non-slip footwear, helmets and gloves are some basics that employees may need, so make sure that you provide these for them. When you do this you are not only protecting them you are also protecting your business.
+
+## Ensure your systems work properly
+
+As well as all of the training and communication, you need to make sure that the actual systems that you have in place work as they should. Sometimes, they can be general, such as fire alarms. Other workplaces will need something more specific like [kitchen suppression systems](https://www.pyrotec.co.uk/passive-fire-protection/kitchen-suppression/ansul/).
