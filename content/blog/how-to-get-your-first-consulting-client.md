@@ -3,6 +3,7 @@ title: "How to Get Your First Consulting Client (Without Cold Calling or a Big F
 description: "Getting your first paying consulting client is simpler than the gurus make it sound. Here's the exact approach that works — no ads, no cold DMs, no social media required."
 slug: "how-to-get-your-first-consulting-client"
 date: "2026-04-01"
+image: "/how-to-get-your-first-consulting-client.png"
 tags: ["consulting-clients", "solopreneur", "expert-business"]
 faq:
   - q: "What is the fastest way to get your first consulting client when you are just starting out?"
@@ -17,11 +18,13 @@ faq:
     a: "Most consultants who systematically work their network and have a clear offer find their first client within 30 to 90 days. The wide range depends on network size, niche specificity, and how actively they pursue the work. Consultants who wait for inbound leads without outbound effort often wait 6 to 12 months or give up. Active, targeted outreach to warm contacts — even just 5 to 10 messages per week — dramatically compresses the timeline."
 ---
 
+![Consultant workspace with business planning materials](/how-to-get-your-first-consulting-client.png)
+
 # How to Get Your First Consulting Client (Without Cold Calling or a Big Following)
 
 The first client is the hardest. After that, referrals build momentum, your confidence goes up, and the next engagement is easier to close. But that first one — where you're essentially asking someone to trust an unproven version of your professional self — is where most aspiring consultants stall out.
 
-Here's the thing: you're probably not starting from zero. You're starting from somewhere most people in the advice-giving industry never acknowledge.
+Here's the thing: you're probably not starting from zero. You're starting from somewhere most people in the advice-giving industry never acknowledge. You could try [asking for help](https://www.frontlinesourcegroup.com/plano.html) sometimes, too. Most self-employed individuals don't remember that they have the available resources there to hire someone to assist them. Going it alone may not be the best option, but you can bet that you'll find it easier to get a client when it's not just you working for it.
 
 ## You Already Have a Network
 
