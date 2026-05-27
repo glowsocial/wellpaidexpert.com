@@ -1,7 +1,12 @@
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
-import { getAllSlugs, getPostBySlug, getAllBlogPosts } from "@/lib/posts";
+import {
+  formatPostDate,
+  getAllSlugs,
+  getPostBySlug,
+  getAllBlogPosts,
+} from "@/lib/posts";
 import { markdownToHtml } from "@/lib/markdown";
 import LeadMagnetBar from "@/app/components/LeadMagnetBar";
 
@@ -129,6 +134,7 @@ export default async function BlogPost({ params }) {
   const articleSchema = buildArticleSchema(post);
   const faqSchema = buildFaqSchema(post.faq || post.faqs);
   const howToSchema = buildHowToSchema(post);
+  const publishedDate = formatPostDate(post.date);
 
   const schemas = [articleSchema, faqSchema, howToSchema].filter(Boolean);
 
@@ -158,6 +164,9 @@ export default async function BlogPost({ params }) {
           )}
           <h1>{post.title}</h1>
           <div className="blog-post-meta">
+            {publishedDate && (
+              <time dateTime={post.date}>Published {publishedDate}</time>
+            )}
             <span>{post.readingTime}</span>
           </div>
         </div>

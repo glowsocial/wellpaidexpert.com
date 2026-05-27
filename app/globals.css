@@ -499,7 +499,7 @@ h2 {
   letter-spacing: 0.3px;
 }
 
-.blog-post-meta span + span::before {
+.blog-post-meta > * + *::before {
   content: '·';
   margin: 0 10px;
 }
