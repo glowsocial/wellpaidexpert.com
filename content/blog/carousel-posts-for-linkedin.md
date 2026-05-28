@@ -19,10 +19,6 @@ Delving into this article, you’re set to uncover the transformative power of c
 
 By the end of this read, creating high-performing LinkedIn carousel posts will feel less like guesswork and more like second nature—equipping you with yet another powerful tool in your digital marketing arsenal.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## The Power of Carousel Posts on LinkedIn
 
 The Power of Carousel Posts on LinkedIn
@@ -264,7 +260,3 @@ Face obstacles by thinking outside the box. Use what you’ve learned here to st
 Focus on making a significant splash rather than just stirring the waters with numerous ripples. A single powerful carousel can do more for your brand than dozens of less thoughtful posts.
 
 You’ve got this—start creating!
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

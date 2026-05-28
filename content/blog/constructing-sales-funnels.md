@@ -14,10 +14,6 @@ constructing sales funnels, you’re about to uncover the art of guiding prospec
 
 This article packs actionable insights on leveraging email marketing campaigns for nurturing leads and employing analytics for performance tracking—you’ll walk away with more than just theory. Stick around because mastering these tactics could be the game-changer your online business needs.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## Understanding Sales Funnels and Their Evolution
 
 Understanding Sales Funnels and Their Evolution
@@ -372,7 +368,3 @@ Embrace evolution, from funnel to flywheel, and keep those emails targeted—per
 Analytics light up the path forward while retention strategies ensure customers circle back for more treasures.
 
 Nail these fundamentals and watch prospects convert with each strategic step you craft in your online business adventure.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

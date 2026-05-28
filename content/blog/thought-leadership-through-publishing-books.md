@@ -26,10 +26,6 @@ In this piece, we’ll dive deep into how crafting and sharing your big ideas ca
 
 We’re setting sail on an exploration of turning ink into influence. By the end, expect to have gathered treasure troves of knowledge on leveraging published works for building trust, opening doors to new opportunities, and creating streams of income that flow long after the book hits the shelves.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## Establishing Thought Leadership Through Book Publishing
 
 Establishing Thought Leadership Through Book Publishing
@@ -249,7 +245,3 @@ Ebooks have changed the game, making thought leadership more accessible than eve
 Income follows impact. From book sales to speaking engagements, your published work can create streams of revenue that reflect your growing influence.
 
 To sum up: Write passionately about what you know best. Promote wisely across platforms that matter most to your audience. Monetize smartly by leveraging every opportunity for growth and recognition that comes your way.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

@@ -25,10 +25,6 @@ turns satisfied clients into your most persuasive advocates. As we unfold this n
 
 You’ll get insights on structuring narratives for impact, leveraging social media smarts for data gathering while tickling audience engagement, plus integrating these gems seamlessly into SEO strategies—all aimed at fueling conversions and bolstering sales figures.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## The Importance of Collecting Case Studies and Success Stories
 
 The Importance of Collecting Case Studies and Success Stories
@@ -324,7 +320,3 @@ Lean into visuals that captivate; they’re not just eye candy but powerful tool
 Weave customer successes into every marketing fiber—from social media buzz to SEO mastery—to drive home results that matter: conversions and growth.
 
 Gauge the impact, refine the approach, and keep honing those stories. They are your pathfinders to future glory, lighting up possibilities with every shared experience.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

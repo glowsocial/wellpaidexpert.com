@@ -15,10 +15,6 @@ By sticking with me through this article, you’ll uncover why every dollar inve
 Building an email list
 isn’t rocket science, but doing it well? That can launch your business into orbit faster than you’d believe.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## Table Of Contents:
 
 Understanding the Importance of Building an Email List
@@ -346,7 +342,3 @@ A/B testing isn’t busywork; it sharpens your message until it cuts through the
 Stay trustworthy with permission-based marketing, and get smart with segmentation to keep that connection strong as you scale up.
 
 And remember: The future’s bright for those who adapt—keep learning, keep optimizing, keep growing that list!
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

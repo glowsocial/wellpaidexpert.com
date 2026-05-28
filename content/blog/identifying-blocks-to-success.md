@@ -15,10 +15,6 @@ We’ll explore how habitual thought patterns and fixed mindsets might be keepin
 
 By understanding the power of commitment and learning to foster positive relationships, you’re setting yourself up for unstoppable success. Get ready to transform roadblocks into stepping stones on your path forward.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## Table Of Contents:
 
 Understanding Habitual Thought Patterns
@@ -254,7 +250,3 @@ Focus and discipline emerged as game changers, showing us how crucial they are f
 Nurturing positive relationships fosters an environment ripe for achievement. Remember, the journey from victim to victor mentality is one of choice—your choice.
 
 To break through, shift your focus, cultivate discipline, embrace growth mindsets, commit fully, and build supportive networks. Let these strategies be your guide forward.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

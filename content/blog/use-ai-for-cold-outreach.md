@@ -22,10 +22,6 @@ Imagine a world where your inbox isn’t just full of potential leads but bursti
 
 The landscape is teeming with businesses vying for attention, each one shouting into the void, hoping to be heard. So, how do you stand out? How do you ensure that your message doesn’t just reach its destination but also resonates? The answer lies in leveraging artificial intelligence to tailor your communication so precisely that recipients feel compelled to engage.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## Table Of Contents:
 
 Understanding the Benefits of AI for Cold Outreach

@@ -18,10 +18,6 @@ But let’s not stop there. Managing finances wisely? Check. Sales tactics that 
 
 This isn’t about quick fixes—it’s about building something lasting with hard work and smarts—a successful online empire awaits!
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## Crafting Your $10K Month Blueprint
 
 Crafting Your 10K Month Blueprint
@@ -334,7 +330,3 @@ Sell smartly—understand needs, tailor proposals, close deals. Repeat this mant
 Remember customer loyalty—it builds the stable base from which empires rise. And don’t forget referrals—they’re goldmines waiting to be tapped into by satisfied clients singing your praises far and wide.
 
 Last but not least: scale wisely; up-selling can push earnings beyond expectations if done right!
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

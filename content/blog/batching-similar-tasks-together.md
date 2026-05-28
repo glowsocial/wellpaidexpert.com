@@ -14,10 +14,6 @@ In this exploration, we’ll dive deep into why batching is more than a buzzword
 
 We also tackle common challenges head-on because let’s face it: adopting new habits takes effort. But by the end of our journey together, you’ll see how embracing task batching can transform not just your workday but potentially every aspect of how you manage time and attention.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## The Fundamentals of Task Batching
 
 The Fundamentals of Task Batching
@@ -242,7 +238,3 @@ To boost efficiency, embrace tools designed for task batching. They’re not jus
 Tackling interruptions head-on ensures your focus remains unbroken. It’s about creating a fortress around your concentration zone.
 
 So start small but think big. Implement these strategies gradually to see profound changes in how you work and live.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

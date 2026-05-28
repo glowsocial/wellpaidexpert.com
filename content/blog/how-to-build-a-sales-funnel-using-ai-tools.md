@@ -14,10 +14,6 @@ how to build a sales funnel using AI tools, you’re in the right spot. From enh
 
 Why does it matter? With reports highlighting an average 3800% ROI on email marketing investments, thanks mainly to savvy strategies like personalized email campaigns powered by AI, there’s no denying that adopting these technologies could propel your business forward significantly.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## What Is a Sales Funnel and Why Use AI to Create One?
 
 What Is a Sales Funnel and Why Use AI to Create One?

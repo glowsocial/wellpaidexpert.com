@@ -101,4 +101,4 @@ At $99/month, it's the clearest time-for-money trade in the solopreneur toolkit.
 
 ---
 
-*Kathleen Celmins is the founder of [Glow Social](https://glowsocial.com) and the author of "Become a Well-Paid Expert." She writes at [The Well-Paid Expert](https://thewellpaidexpert.com) about building expert businesses that scale without adding more hours.*
+*Kathleen Celmins is the founder of [Glow Social](https://glowsocial.com). She writes at [The Well-Paid Expert](https://thewellpaidexpert.com) about building expert businesses that scale without adding more hours.*

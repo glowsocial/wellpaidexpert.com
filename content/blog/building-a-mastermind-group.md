@@ -13,10 +13,6 @@ This guide lays out the essentials: from cherry-picking individuals who mesh int
 
 Get ready because we’re about to unlock strategies used by successful people everywhere – so buckle up!
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## Understanding the Mastermind Group Concept
 
 Understanding the Mastermind Group Concept
@@ -324,7 +320,3 @@ Foster trust; it’s the glue that holds your team together. Use tools like Migh
 Keep growing, learning from books recommended by those who’ve been there. Stay committed, listen actively and balance every goal with precision.
 
 Above all else, remember this: A true mastermind is more than just business savvy—it’s about forming bonds that forge success beyond boardrooms.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

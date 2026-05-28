@@ -21,10 +21,6 @@ Ready? Time to kick things off and see how we can transform subscribers into pro
 ConvertKit’s
 nifty automation gadgets.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## Setting Up Your ConvertKit Account
 
 Setting Up Your ConvertKit Account
@@ -240,7 +236,3 @@ Leverage automation and personalization to make each subscriber feel special. Al
 Email deliverability? Make it top-notch to ensure your message always lands right where it should: in the inbox.
 
 With these tools, patience, and strategy at hand, you’re ready to build an engaged audience ConvertKit helps flourish over time.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

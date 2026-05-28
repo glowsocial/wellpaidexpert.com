@@ -22,10 +22,6 @@ Picking the perfect gear really matters when you’re diving into making content
 
 Claude.AI doesn’t just dazzle us by whipping up content; it actually throws a whole lot of sparkle into the mix, making our creative journeys even more exciting. It’s like having a co-writer whose sole purpose is to ensure your narrative shines.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## What Is Claude AI?
 
 What Is Claude AI?

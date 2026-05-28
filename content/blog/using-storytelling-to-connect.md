@@ -14,10 +14,6 @@ In this piece, we’ll dive into how stories not only entertain but also serve a
 
 Ready for a journey through the artistry behind brand storytelling or exploring community development through shared narratives? Let’s start connecting dots you never knew existed.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## The Power of Storytelling in Enhancing Human Connections
 
 The Power of Storytelling in Enhancing Human Connections
@@ -241,7 +237,3 @@ Embrace narrative power in your talks. Whether you’re teaching a class or pres
 This isn’t just theory; it’s practice proven by science and success stories alike. Harness this tool to turn strangers into allies, information into inspiration.
 
 Ready to make an impact? Start weaving stories today. After all, every connection begins with a single thread—a story waiting to be told.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

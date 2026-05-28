@@ -14,10 +14,6 @@ In this piece, we’ll peel back the layers on crafting irresistible hooks that 
 
 Concluding, you’ll be adept at not only understanding the effectiveness of this strategy but also implementing it through various channels like sales pages, emails, and social media for unparalleled influence. Let’s start building those customer connections today.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## The Fundamentals of Hook Story Offer
 
 The Fundamentals of Hook Story Offer
@@ -249,7 +245,3 @@ Keep it simple but impactful. Apply these strategies across all platforms – sa
 With the tools in hand, you’re on the brink of turning fleeting visitors into devoted patrons. Start building those connections today.
 
 If you’re ready for skyrocketing conversions and forging deep ties with your audience, put hook story offer into action. Let’s make marketing magic happen together.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

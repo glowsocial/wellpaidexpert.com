@@ -18,10 +18,6 @@ In this manual, you’ll embark on a journey to tailor a batching routine that f
 
 Let this be the first step towards transforming how you manage your digital presence – efficiently and effectively.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## What Is Content Batching?
 
 What Is Content Batching?
@@ -254,7 +250,3 @@ Scheduling is not just planning; it’s ensuring you’re always there, consiste
 Analyze, then tweak and refine. Use what worked before to shine even brighter moving forward.
 
 Embarking on this path to master batching is not solely focused on time efficiency; it’s about forging deeper relationships by weaving compelling narratives across all platforms you touch.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

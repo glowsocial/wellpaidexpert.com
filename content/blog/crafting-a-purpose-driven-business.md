@@ -13,10 +13,6 @@ Today’s leaders are weaving purpose into their company’s DNA because they kn
 
 You’re about to dive deep into how companies forge an identity based on values and vision—and why this matters now more than ever. Get ready for real talk on aligning your brand with its true north and creating ripples of positive change across communities and industries.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## The Essence of a Purpose-Driven Business
 
 The Essence of a Purpose-Driven Business
@@ -299,7 +295,3 @@ Remember, strong cultures aren’t built overnight but they’re worth every eff
 You’ve seen why looking beyond the balance sheet matters. Long-term success isn’t only about today’s profits but also about sustainable growth tomorrow.
 
 In essence, when you craft a business driven by purpose, you create value that resonates on multiple levels. Let this be your blueprint as you build not just a great company but also one with lasting impact in our ever-changing world.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

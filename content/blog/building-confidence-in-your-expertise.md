@@ -13,10 +13,6 @@ You’re not alone if you’ve felt like an impostor in the spotlight or doubted
 
 In this read, we’ll unpack ways to connect with your core values for a sturdy foundation, turn negative chatter into positive fuel, and create goals that are within reach yet stretch you further than before—all crucial steps on the journey to feel confident at any level.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## Embracing Your Unique Value to Build Confidence
 
 Embracing Your Unique Value to Build Confidence
@@ -249,7 +245,3 @@ Foster professional relationships; they’re your sounding board, offering inval
 And never forget: mental health is the bedrock of workplace assurance. Take care of it, nurture resilience, and watch your confidence soar.
 
 In essence, be patient with yourself but stay persistent. Keep learning, keep growing—because building real confidence is all about continuous improvement and leveraging every experience as an opportunity for growth.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

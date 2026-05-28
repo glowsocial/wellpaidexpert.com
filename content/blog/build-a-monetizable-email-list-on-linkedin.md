@@ -11,10 +11,6 @@ Ever thought about turning LinkedIn into an email list goldmine? Well, you’re 
 
 This guide isn’t about fluff; it’s about actionable steps that move the needle. Building a monetizable email list on LinkedIn doesn’t have to be daunting if you know where to start and what moves to make.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## 10 Steps to Build a Targeted Email List Using LinkedIn
 
 10 Steps to Build a Targeted Email List Using LinkedIn

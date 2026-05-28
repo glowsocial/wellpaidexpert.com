@@ -28,10 +28,6 @@ Email marketing? It’s been around, sure, but its power is often underestimated
 
 The truth is simple yet profound: In our digital age, connecting directly with your audience through valuable content can turn your subscriber list from numbers on a screen into a thriving community—and yes, even a lucrative revenue stream.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## The Rise of the Newsletter Market
 
 The Rise of the Newsletter Market

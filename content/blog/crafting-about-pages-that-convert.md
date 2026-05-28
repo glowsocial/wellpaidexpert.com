@@ -14,10 +14,6 @@ You’re here because you know the stakes. A well-crafted ‘About’ page can b
 
 By the end of this read, you’ll have actionable insights to transform your ‘About’ page from mere biography to conversion powerhouse. So let’s start shaping those first impressions into lasting connections.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## Crafting Compelling Copy for About Pages
 
 Crafting Compelling Copy for About Pages
@@ -251,7 +247,3 @@ Remember: Address pain points head-on. Keep designs clean and focused. Track wha
 Your ‘About’ page should now be more than just facts—it’s your pitch, story, heart all in one place.
 
 So start shaping those first impressions into lasting connections today.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.

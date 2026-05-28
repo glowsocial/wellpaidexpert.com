@@ -14,10 +14,6 @@ Guiding you in selecting the perfect instruments that streamline this endeavor w
 
 Embark on a journey to revolutionize your marketing strategy, whether it’s for an acclaimed novel or a premium product. Let’s start transforming potential customers into loyal fans together.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 ## Understanding the Power of Book Funnels in Marketing
 
 Understanding the Power of Book Funnels in Marketing
@@ -408,7 +404,3 @@ Leverage tools designed for optimization and security. Tailor content that speak
 Lastly, maintain interaction through programmed emails and re-engagement advertisements to captivate attention continuously. These strategies ensure you’re always in front of potential readers without overwhelming them.
 
 In short: mastering how to build a book funnel with AI means connecting deeply, converting efficiently, and creating fans who stay loyal over time.
-
-Tired of trading time for money? Ready to get paid for what you know?
-Become a Well-Paid Expert
-shows you how. Get the step-by-step blueprint for turning your passion and skills into profits now. See how.
