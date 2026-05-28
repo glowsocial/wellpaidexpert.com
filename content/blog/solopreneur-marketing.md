@@ -25,10 +25,6 @@ Stepping into the world of solopreneurship means wearing many hats. Yet, amidst 
 
 The landscape for solo entrepreneurs today is bustling with opportunity if you know where to look. The right approach can transform the way potential clients see you, turning casual browsers into loyal customers.
 
-Tired of trading time for money? Learn the shortcut to getting paid for what you know in Kathleen Celmins’ book “Become a Well-Paid Expert.”
-
-Get your copy here.
-
 A solopreneur is someone who sets up and runs a business all by themselves. Loads of
 small businesses
 start out as solopreneurs. And even as they experience business growth, many entrepreneurs prefer to just do it alone and keep the business a one-person operation.
