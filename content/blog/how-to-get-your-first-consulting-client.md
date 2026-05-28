@@ -24,8 +24,6 @@ faq:
 
 The first client is the hardest. After that, referrals build momentum, your confidence goes up, and the next engagement is easier to close. But that first one — where you're essentially asking someone to trust an unproven version of your professional self — is where most aspiring consultants stall out.
 
-Here's the thing: you're probably not starting from zero. You're starting from somewhere most people in the advice-giving industry never acknowledge. You could try [asking for help](https://www.frontlinesourcegroup.com/plano.html) sometimes, too. Most self-employed individuals don't remember that they have the available resources there to hire someone to assist them. Going it alone may not be the best option, but you can bet that you'll find it easier to get a client when it's not just you working for it.
-
 ## You Already Have a Network
 
 Not a social media following. Not a list of strangers who've opted into your newsletter. A network — people who actually know you, have seen your work, and have some baseline of trust in your capabilities.
