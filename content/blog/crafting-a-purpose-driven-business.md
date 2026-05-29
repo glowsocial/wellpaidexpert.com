@@ -2,6 +2,7 @@
 title: "Crafting a Purpose-Driven Business: A Blueprint for Success"
 description: "Discover the blueprint for crafting a purpose-driven business that aligns values with success, fosters strong culture, and boosts long-term growth."
 slug: "crafting-a-purpose-driven-business"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/crafting-a-purpose-driven-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223091543"

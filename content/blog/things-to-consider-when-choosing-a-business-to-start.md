@@ -2,6 +2,7 @@
 title: "Things to Consider When Choosing a Business to Start"
 description: "Things to Consider When Choosing a Business to Start "
 slug: "things-to-consider-when-choosing-a-business-to-start"
+date: "2024-10-05"
 source_url: "https://thewellpaidexpert.com/things-to-consider-when-choosing-a-business-to-start/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241005043907"

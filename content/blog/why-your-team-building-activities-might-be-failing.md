@@ -2,6 +2,7 @@
 title: "Why Your Team Building Activities Might Be Failing"
 description: "Image credit"
 slug: "why-your-team-building-activities-might-be-failing"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/why-your-team-building-activities-might-be-failing/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427095111"

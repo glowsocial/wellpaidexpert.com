@@ -2,6 +2,7 @@
 title: "Escape Hustle Culture, Still Make Money: A Blueprint"
 description: "Learn to unsubscribe from hustle culture and still make money, balancing work with well-being for a healthier, happier lifestyle."
 slug: "escape-hustle-culture-make-more-money"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/escape-hustle-culture-make-more-money/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223100945"

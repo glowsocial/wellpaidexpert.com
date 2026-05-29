@@ -2,6 +2,7 @@
 title: "These Tips will Help you to Effectively Manage your Business Finances"
 description: "Do you feel as though your finances are out of control? Maybe you know that you need to make a positive change with your cash flow but you just have no idea"
 slug: "these-tips-will-help-you-to-effectively-manage-your-business-finances"
+date: "2024-09-15"
 source_url: "https://thewellpaidexpert.com/these-tips-will-help-you-to-effectively-manage-your-business-finances/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240915012134"

@@ -2,6 +2,7 @@
 title: "How to Use Online Quizzes to Build Your Email List and Grow Your Business"
 description: "In order to have a thriving business, you need to build your email list. Luckily for you, creating an online quiz is one of the fastest ways to grow it!"
 slug: "build-your-email-list-quizzes"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/build-your-email-list-quizzes/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208181256"

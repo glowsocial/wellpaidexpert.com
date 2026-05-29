@@ -2,6 +2,7 @@
 title: "Planning Ahead for 3 Challenges as a Business Owner"
 description: "Business owners have a lot to juggle. Planning for challenges before they happen helps you feel more in control. Here are three key areas to prepare for."
 slug: "planning-ahead-for-3-challenges-as-a-business-owner"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/planning-ahead-for-3-challenges-as-a-business-owner/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427110822"

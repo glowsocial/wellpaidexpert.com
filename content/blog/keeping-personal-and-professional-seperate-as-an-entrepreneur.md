@@ -2,6 +2,7 @@
 title: "Keeping Personal and Professional Seperate As An Entrepreneur"
 description: "Image credit"
 slug: "keeping-personal-and-professional-seperate-as-an-entrepreneur"
+date: "2024-12-06"
 source_url: "https://thewellpaidexpert.com/keeping-personal-and-professional-seperate-as-an-entrepreneur/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241206194003"

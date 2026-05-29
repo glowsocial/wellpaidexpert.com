@@ -2,6 +2,7 @@
 title: "Practical Ways To Beat The Odds As A Novice Entrepreneur"
 description: "It’s well-documented that a high percentage of new businesses fail. Depending on which articles and reports you read, up to 90% of startups fold within the"
 slug: "practical-ways-to-beat-the-odds-as-a-novice-entrepreneur"
+date: "2024-11-06"
 source_url: "https://thewellpaidexpert.com/practical-ways-to-beat-the-odds-as-a-novice-entrepreneur/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241106210421"

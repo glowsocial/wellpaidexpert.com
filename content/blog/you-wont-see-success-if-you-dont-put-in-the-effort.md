@@ -2,6 +2,7 @@
 title: "You Won't See Success If You Don't Put In The Effort"
 description: "The survival of your business, or whether your business is able to start up, is determined by the effort that you put in. If you are not giving your business"
 slug: "you-wont-see-success-if-you-dont-put-in-the-effort"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/you-wont-see-success-if-you-dont-put-in-the-effort/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216202758"

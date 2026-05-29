@@ -2,6 +2,7 @@
 title: "5 Vital Considerations To Make Before Choosing A New Career Path"
 description: "Choosing a new career path can be a tricky and complicated thing. After all, there are so many different aspects that you will need to properly consider to"
 slug: "5-vital-considerations-to-make-before-choosing-a-new-career-path"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/5-vital-considerations-to-make-before-choosing-a-new-career-path/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216204927"

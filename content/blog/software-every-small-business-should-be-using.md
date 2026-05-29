@@ -2,6 +2,7 @@
 title: "Software every small business should be using"
 description: "When you are a small business, the more productive and efficient you are, the better your revenue will be. As you can imagine, the more revenue you bring in,"
 slug: "software-every-small-business-should-be-using"
+date: "2024-11-06"
 source_url: "https://thewellpaidexpert.com/software-every-small-business-should-be-using/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241106213927"

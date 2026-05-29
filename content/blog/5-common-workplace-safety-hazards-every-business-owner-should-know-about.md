@@ -2,6 +2,7 @@
 title: "5 Common Workplace Safety Hazards Every Business Owner Should Know About"
 description: "Workplace safety is an important concern for business owners, as it helps protect employees and ensures smooth operations. Many workplace hazards pose"
 slug: "5-common-workplace-safety-hazards-every-business-owner-should-know-about"
+date: "2025-02-15"
 source_url: "https://thewellpaidexpert.com/5-common-workplace-safety-hazards-every-business-owner-should-know-about/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250215160140"

@@ -2,6 +2,7 @@
 title: "Building the Future: The Pride in Being a Construction Worker"
 description: "There's an inherent poetic beauty in hard hats and steel-toe boots. Not every profession allows one to point at a bridge, office tower or family home and say"
 slug: "building-the-future-the-pride-in-being-a-construction-worker"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/building-the-future-the-pride-in-being-a-construction-worker/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427092637"

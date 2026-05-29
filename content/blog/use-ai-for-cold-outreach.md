@@ -2,6 +2,7 @@
 title: "Boost Your Outreach with AI: A Guide for Cold Email Success"
 description: "Discover how to use AI for cold outreach effectively. Increase engagement and responses with personalized, AI-powered emails."
 slug: "use-ai-for-cold-outreach"
+date: "2024-05-30"
 source_url: "https://thewellpaidexpert.com/use-ai-for-cold-outreach/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240530230518"

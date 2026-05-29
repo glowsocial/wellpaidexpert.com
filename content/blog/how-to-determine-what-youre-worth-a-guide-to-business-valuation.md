@@ -2,6 +2,7 @@
 title: "How to Determine What You're Worth: A Guide to Business Valuation"
 description: "If you own a business, understanding its value is important for a number of key reasons. Having figures for overall value provides insight into the company’s"
 slug: "how-to-determine-what-youre-worth-a-guide-to-business-valuation"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/how-to-determine-what-youre-worth-a-guide-to-business-valuation/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427110359"

@@ -2,6 +2,7 @@
 title: "How to Make Growing Your Email List a Fun Task"
 description: "Hate the idea of sending emails to your list? It's time for a reframe! Here's how to make growing your email list a fun task instead of a chore."
 slug: "growing-your-email-list-2"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/growing-your-email-list-2/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208200543"

@@ -2,6 +2,7 @@
 title: "Effectively Write Five Emails Per Week for Business Growth"
 description: "Boost your business growth by learning to write five emails per week. Unleash the power of effective email marketing, engagement, and automation."
 slug: "write-five-emails-per-week"
+date: "2024-06-13"
 source_url: "https://thewellpaidexpert.com/write-five-emails-per-week/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240613170325"

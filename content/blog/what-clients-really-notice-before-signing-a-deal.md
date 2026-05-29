@@ -2,6 +2,7 @@
 title: "What Clients Really Notice Before Signing a Deal"
 description: "Clients really notice pretty much everything when you speak with them, invite them to the business or make changes to services. You only get one chance to"
 slug: "what-clients-really-notice-before-signing-a-deal"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/what-clients-really-notice-before-signing-a-deal/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427092512"

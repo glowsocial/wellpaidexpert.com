@@ -2,6 +2,7 @@
 title: "Digital Marketing Business Model: Pathways to Profitability"
 description: "Explore various digital marketing business models. Learn from real-world examples and strategies that drive success in the digital age."
 slug: "digital-marketing-business-model"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/digital-marketing-business-model/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223102234"

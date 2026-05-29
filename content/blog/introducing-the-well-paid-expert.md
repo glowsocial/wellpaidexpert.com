@@ -2,6 +2,7 @@
 title: "Introducing: The Well-Paid Expert"
 description: "If you're an expert and you haven't quite mastered the well-paid part, The Well-Paid Expert is for you. I'm glad you're here."
 slug: "introducing-the-well-paid-expert"
+date: "2022-12-01"
 source_url: "https://thewellpaidexpert.com/introducing-the-well-paid-expert/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20221201024707"

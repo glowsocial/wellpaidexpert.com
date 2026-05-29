@@ -2,6 +2,7 @@
 title: "How to Use AI to Write a LinkedIn Post That Engages"
 description: "Discover how to use AI to write a LinkedIn post that engages, boosts your visibility, and grows your professional network efficiently."
 slug: "use-ai-to-write-a-linkedin-post"
+date: "2024-04-21"
 source_url: "https://thewellpaidexpert.com/use-ai-to-write-a-linkedin-post/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240421083408"

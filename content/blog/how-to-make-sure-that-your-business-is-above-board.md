@@ -2,6 +2,7 @@
 title: "How to Make Sure That Your Business Is Above Board"
 description: "First things first, what do we mean about being above board? In this case, it means making sure that your business keeps on the right side of legal issues and"
 slug: "how-to-make-sure-that-your-business-is-above-board"
+date: "2024-12-06"
 source_url: "https://thewellpaidexpert.com/how-to-make-sure-that-your-business-is-above-board/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241206204019"

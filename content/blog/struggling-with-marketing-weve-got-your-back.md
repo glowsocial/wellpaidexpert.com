@@ -2,6 +2,7 @@
 title: "Struggling With Marketing? We've Got Your Back"
 description: "Credit Source - CC0 License"
 slug: "struggling-with-marketing-weve-got-your-back"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/struggling-with-marketing-weve-got-your-back/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216213543"

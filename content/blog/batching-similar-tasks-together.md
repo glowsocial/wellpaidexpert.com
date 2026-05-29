@@ -2,6 +2,7 @@
 title: "Boost Your Productivity by Batching Similar Tasks Together"
 description: "Discover how batching similar tasks together can skyrocket your productivity. Learn actionable strategies to work smarter, not harder!"
 slug: "batching-similar-tasks-together"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/batching-similar-tasks-together/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223095003"

@@ -2,6 +2,7 @@
 title: "How To Use Tech To Boost Your Biz"
 description: "Are you thinking about using tech to boost your business? If so, then there are lots of different avenues that you can explore. Here are some of the"
 slug: "how-to-use-tech-to-boost-your-biz"
+date: "2024-11-06"
 source_url: "https://thewellpaidexpert.com/how-to-use-tech-to-boost-your-biz/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241106214531"

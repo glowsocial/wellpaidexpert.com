@@ -2,6 +2,7 @@
 title: "Should you build a quiz to grow your email list?"
 description: "Quizzes are, by far, my favorite way to grow an email list full of eager subscribers who are ready to buy. But maybe it's not the right time for you to lean into the quiz-building project."
 slug: "web-stories/should-you-build-a-quiz-to-grow-your-email-list"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/web-stories/should-you-build-a-quiz-to-grow-your-email-list/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208195206"

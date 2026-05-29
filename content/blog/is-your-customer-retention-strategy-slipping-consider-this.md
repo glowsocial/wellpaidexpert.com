@@ -2,6 +2,7 @@
 title: "Is Your Customer Retention Strategy Slipping? Consider This"
 description: "Photo by Nataliya Vaitkevich: https://www.pexels.com/photo/woman-in-white-dress-standing-in-front-of-white-wooden-desk-8939806/"
 slug: "is-your-customer-retention-strategy-slipping-consider-this"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/is-your-customer-retention-strategy-slipping-consider-this/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216203046"

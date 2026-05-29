@@ -2,6 +2,7 @@
 title: "In 2025, How Proficient In Technical IT Management Should A New Business Be?"
 description: "Photo by Peter Olexa: https://www.pexels.com/photo/person-using-black-and-silver-laptop-computer-4012966/"
 slug: "in-2025-how-proficient-in-technical-it-management-should-a-new-business-be"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/in-2025-how-proficient-in-technical-it-management-should-a-new-business-be/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216212541"

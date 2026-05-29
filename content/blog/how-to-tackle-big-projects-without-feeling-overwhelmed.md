@@ -2,6 +2,7 @@
 title: "How To Tackle Big Projects Without Feeling Overwhelmed"
 description: "Big projects can feel exciting, but they can also feel (and actually be) overwhelming, and it doesn’t matter what it is, from renovating your home to taking"
 slug: "how-to-tackle-big-projects-without-feeling-overwhelmed"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/how-to-tackle-big-projects-without-feeling-overwhelmed/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427105950"

@@ -2,6 +2,7 @@
 title: "Top Tips to Buy Your Dream Home Without the Stress"
 description: "Image Credit: Brendan Stephens from Unsplash."
 slug: "top-tips-to-buy-your-dream-home-without-the-stress"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/top-tips-to-buy-your-dream-home-without-the-stress/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427100209"

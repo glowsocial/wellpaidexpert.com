@@ -2,6 +2,7 @@
 title: "Should Forklift Training Be A Fixed Feature In Your Warehouse?"
 description: "Warehouse management is rarely a walk in the park. Here, your team members regularly have to handle dangerous heavy equipment, and work shifts that run well"
 slug: "should-forklift-training-be-a-fixed-feature-in-your-warehouse"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/should-forklift-training-be-a-fixed-feature-in-your-warehouse/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427104751"

@@ -2,6 +2,7 @@
 title: "How to Find the Right Billing System for Your Business"
 description: "Image by rawpixel from Pixabay"
 slug: "how-to-find-the-right-billing-system-for-your-business"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/how-to-find-the-right-billing-system-for-your-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427100542"

@@ -2,6 +2,7 @@
 title: "Avoiding Delays: Smarter Construction Project Management Strategies"
 description: "Ask any company, regardless of the sector, and they will tell you delays are one of the costliest issues and challenges they face. For construction companies,"
 slug: "avoiding-delays-smarter-construction-project-management-strategies"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/avoiding-delays-smarter-construction-project-management-strategies/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216213840"

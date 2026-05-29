@@ -2,6 +2,7 @@
 title: "Jumpstart Your Journey: Start Selling Products Online Today!"
 description: "Jumpstart your ecommerce journey! Learn how to start selling products online with our comprehensive guide for success."
 slug: "start-selling-products-online"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/start-selling-products-online/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223094534"

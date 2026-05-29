@@ -2,6 +2,7 @@
 title: "Balancing Work and Life: Designing Spaces That Inspire"
 description: "Balancing work and life while working at home is no cakewalk. It’s all too simple to glance at that next e-mail while you’re relaxing or working on the sofa"
 slug: "balancing-work-and-life-designing-spaces-that-inspire"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/balancing-work-and-life-designing-spaces-that-inspire/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427091135"

@@ -2,6 +2,7 @@
 title: "Mastering Sales Funnels: Boost Your Online Business Revenue"
 description: "Mastering sales funnels to optimize your online business. Learn proven strategies for lead generation and boosting conversion rates!"
 slug: "mastering-sales-funnels"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/mastering-sales-funnels/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223092104"

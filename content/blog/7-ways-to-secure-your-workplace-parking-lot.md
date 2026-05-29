@@ -2,6 +2,7 @@
 title: "7 Ways To Secure Your Workplace Parking Lot"
 description: "Pexels. CCO Licensed."
 slug: "7-ways-to-secure-your-workplace-parking-lot"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/7-ways-to-secure-your-workplace-parking-lot/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427105508"

@@ -2,6 +2,7 @@
 title: "8 Ways to Reduce Employee Absenteeism"
 description: "Employee absenteeism is not just a human resource issue, but a business problem. Whether it's because of disengagement, illness, or external stresses,"
 slug: "8-ways-to-reduce-employee-absenteeism"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/8-ways-to-reduce-employee-absenteeism/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216205917"

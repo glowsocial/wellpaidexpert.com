@@ -2,6 +2,7 @@
 title: "Building an Email List: 10 Proven Growth Tactics"
 description: "Discover the secrets to building an email list with our expert tactics designed for entrepreneurs eager to boost engagement and drive sales."
 slug: "building-an-email-list"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/building-an-email-list/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223092337"

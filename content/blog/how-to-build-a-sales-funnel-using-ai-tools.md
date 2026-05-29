@@ -2,6 +2,7 @@
 title: "Build a Sales Funnel with AI Tools - Easy Guide"
 description: "Learn how to build a sales funnel using AI tools effectively. Boost your marketing strategy and see significant ROI growth."
 slug: "how-to-build-a-sales-funnel-using-ai-tools"
+date: "2024-07-19"
 source_url: "https://thewellpaidexpert.com/how-to-build-a-sales-funnel-using-ai-tools/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240719152339"

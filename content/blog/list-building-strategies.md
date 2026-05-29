@@ -2,6 +2,7 @@
 title: "List-Building Strategies: Key to Entrepreneurial Success"
 description: "Uncover effective list-building strategies to elevate your business. Learn how to attract, engage, and convert leads into loyal customers."
 slug: "list-building-strategies"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/list-building-strategies/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208194445"

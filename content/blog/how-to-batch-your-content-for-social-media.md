@@ -2,6 +2,7 @@
 title: "How to Batch Your Content for Social Media: A Guide"
 description: "Discover the ultimate guide on how to batch your content for social media, saving time and boosting engagement effortlessly."
 slug: "how-to-batch-your-content-for-social-media"
+date: "2024-04-21"
 source_url: "https://thewellpaidexpert.com/how-to-batch-your-content-for-social-media/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240421080906"

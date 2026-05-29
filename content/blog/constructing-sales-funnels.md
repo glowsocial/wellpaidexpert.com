@@ -2,6 +2,7 @@
 title: "Constructing Sales Funnels: A Step-by-Step Guide for Growth"
 description: "Master the art of constructing sales funnels with our step-by-step guide and elevate your business growth for unparalleled success."
 slug: "constructing-sales-funnels"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/constructing-sales-funnels/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223092248"

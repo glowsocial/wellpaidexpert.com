@@ -2,6 +2,7 @@
 title: "Is 'earn more passive income' on your to-do list for 2023?"
 description: "If you're hoping to earn more passive income in the upcoming year, read on. You have at least $100,000 of unrecognized income sitting on your shelf."
 slug: "earn-more-passive-income-2023"
+date: "2022-12-07"
 source_url: "https://thewellpaidexpert.com/earn-more-passive-income-2023/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20221207052920"

@@ -2,6 +2,7 @@
 title: "If Your Business Is Circling The Drain, You've Got To Bring It Back"
 description: "Is your business currently struggling to the point that you’re concerned you’re going to lose it? It’s happened to other companies before and it’s going to"
 slug: "if-your-business-is-circling-the-drain-youve-got-to-bring-it-back"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/if-your-business-is-circling-the-drain-youve-got-to-bring-it-back/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427110106"

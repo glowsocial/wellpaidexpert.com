@@ -2,6 +2,7 @@
 title: "Crafting About Pages That Convert: A Step-by-Step Guide"
 description: "Discover the secrets to crafting about pages that convert with our step-by-step guide. Boost your conversion rates and engage more visitors today!"
 slug: "crafting-about-pages-that-convert"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/crafting-about-pages-that-convert/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223103403"

@@ -2,6 +2,7 @@
 title: "Throwing Office Parties That Employees Will Actually Enjoy"
 description: "Whether you’re looking ot boost morale, to show some appreciation, or to simply help your team let off some steam after a big project, an office party can be"
 slug: "throwing-office-parties-that-employees-will-actually-enjoy"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/throwing-office-parties-that-employees-will-actually-enjoy/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427110140"

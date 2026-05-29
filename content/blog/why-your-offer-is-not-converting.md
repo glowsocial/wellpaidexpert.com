@@ -2,6 +2,7 @@
 title: "Why Your Offer is Not Converting: Boosting Conversion Rates"
 description: "Uncover why your offer isn't converting. Boost conversion rates by targeting the right audience, building trust, and refining strategies."
 slug: "why-your-offer-is-not-converting"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/why-your-offer-is-not-converting/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208190914"

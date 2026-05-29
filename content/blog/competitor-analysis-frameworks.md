@@ -2,6 +2,7 @@
 title: "Boost Your Business with Competitor Analysis Frameworks"
 description: "Unlock business growth with our guide on competitor analysis frameworks, essential for strategic insights and market leadership."
 slug: "competitor-analysis-frameworks"
+date: "2024-05-30"
 source_url: "https://thewellpaidexpert.com/competitor-analysis-frameworks/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240530230020"

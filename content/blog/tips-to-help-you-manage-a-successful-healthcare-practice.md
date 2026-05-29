@@ -2,6 +2,7 @@
 title: "Tips To Help You Manage A Successful Healthcare Practice"
 description: "Pexels"
 slug: "tips-to-help-you-manage-a-successful-healthcare-practice"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/tips-to-help-you-manage-a-successful-healthcare-practice/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216202352"

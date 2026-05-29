@@ -2,6 +2,7 @@
 title: "The World Is Your Business Oyster, But What Waters Would Be Best For Your Expansion?"
 description: "The term international business makes it sound like, once your company is established in one country, you'll be able to take on the entire world in one foul"
 slug: "the-world-is-your-business-oyster-but-what-waters-would-be-best-for-your-expansion"
+date: "2024-09-15"
 source_url: "https://thewellpaidexpert.com/the-world-is-your-business-oyster-but-what-waters-would-be-best-for-your-expansion/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240915012527"

@@ -2,6 +2,7 @@
 title: "4 Ways To Reduce Turnover in Retail"
 description: "Image credit"
 slug: "4-ways-to-reduce-turnover-in-retail"
+date: "2024-08-07"
 source_url: "https://thewellpaidexpert.com/4-ways-to-reduce-turnover-in-retail/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240807094955"

@@ -2,6 +2,7 @@
 title: "Freelancing? Here's What A Website Can Do For You"
 description: "Fancy freelancing as a career? Then you’re going to need a website! Freelancing was made a lot easier thanks to the popular uptake of the internet, and"
 slug: "freelancing-heres-what-a-website-can-do-for-you"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/freelancing-heres-what-a-website-can-do-for-you/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427093843"

@@ -2,6 +2,7 @@
 title: "Smarter Ways to Spend Less in Business"
 description: "Pexels - CCO Licence"
 slug: "smarter-ways-to-spend-less-in-business"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/smarter-ways-to-spend-less-in-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427093806"

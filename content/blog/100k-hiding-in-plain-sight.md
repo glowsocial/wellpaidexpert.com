@@ -2,6 +2,7 @@
 title: "There’s $100K hiding in plain sight in your business"
 description: "Sounds crazy, right? But I bet you that there's at least $100K hiding in plain sight in your business. And there's a really easy way to find it."
 slug: "100k-hiding-in-plain-sight"
+date: "2022-12-03"
 source_url: "https://thewellpaidexpert.com/100k-hiding-in-plain-sight/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20221203004440"

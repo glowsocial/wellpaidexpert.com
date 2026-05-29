@@ -2,6 +2,7 @@
 title: "Hook Your Audience with Quiz Funnels for 1000% More Opt-Ins"
 description: "Want to explode your email list? Nothing works like quiz funnels, and they're not going out of style anytime soon."
 slug: "quiz-funnels-more-opt-ins"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/quiz-funnels-more-opt-ins/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208195336"

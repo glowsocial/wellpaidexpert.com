@@ -2,6 +2,7 @@
 title: "Sure Signs You're Letting New Employees Down"
 description: "Pexels Image: CC0 License"
 slug: "sure-signs-youre-letting-new-employees-down"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/sure-signs-youre-letting-new-employees-down/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427104458"

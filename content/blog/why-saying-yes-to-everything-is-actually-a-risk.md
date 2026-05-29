@@ -2,6 +2,7 @@
 title: "Why Saying Yes to Everything Is Actually a Risk"
 description: "You're a born helper if you're a coach or a consultant. You want to be the person your customer can reliably count on, the maven able to come up with creative"
 slug: "why-saying-yes-to-everything-is-actually-a-risk"
+date: "2025-10-18"
 source_url: "https://thewellpaidexpert.com/why-saying-yes-to-everything-is-actually-a-risk/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251018111723"

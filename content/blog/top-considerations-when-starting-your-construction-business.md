@@ -2,6 +2,7 @@
 title: "Top Considerations When Starting Your Construction Business"
 description: "Pexels"
 slug: "top-considerations-when-starting-your-construction-business"
+date: "2025-10-18"
 source_url: "https://thewellpaidexpert.com/top-considerations-when-starting-your-construction-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251018094136"

@@ -2,6 +2,7 @@
 title: "Maximize Conversions with the Best Sales Page Templates"
 description: "Discover the best sales page templates to boost conversions. Learn about design, optimization tips, and compelling CTAs for business growth."
 slug: "best-sales-page-templates"
+date: "2024-05-25"
 source_url: "https://thewellpaidexpert.com/best-sales-page-templates/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240525183427"

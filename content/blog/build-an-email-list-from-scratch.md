@@ -2,6 +2,7 @@
 title: "From Zero to Hero: How to Build an Email List from Scratch with Confidence"
 description: "If you want to build an email list from scratch, you might find yourself overwhelmed. But you don't have to be! Read this guide and buid with confidence."
 slug: "build-an-email-list-from-scratch"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/build-an-email-list-from-scratch/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208193623"

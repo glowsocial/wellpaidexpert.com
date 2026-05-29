@@ -2,6 +2,7 @@
 title: "Creating A Simple Sales Funnel for Your Digital Product"
 description: "You created an amazing digital product that can change people's lives, but no one is buying it! What went wrong? You probably forgot to create a simple sales funnel. Fear not. Follow these tips to create a sales funnel that will make your product fly off the virtual shelves."
 slug: "simple-sales-funnel-for-products"
+date: "2023-03-31"
 source_url: "https://thewellpaidexpert.com/simple-sales-funnel-for-products/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20230331062150"

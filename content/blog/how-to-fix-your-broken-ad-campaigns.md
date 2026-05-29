@@ -2,6 +2,7 @@
 title: "How To Fix Your Broken Ad Campaigns"
 description: "Pexels - CC0 License "
 slug: "how-to-fix-your-broken-ad-campaigns"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/how-to-fix-your-broken-ad-campaigns/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216204520"

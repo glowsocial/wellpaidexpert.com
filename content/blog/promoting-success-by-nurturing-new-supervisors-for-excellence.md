@@ -2,6 +2,7 @@
 title: "Promoting Success By Nurturing New Supervisors for Excellence"
 description: "One of the most important decisions business owners face is choosing and promoting someone into a supervisor role. Not only can this decision have a big"
 slug: "promoting-success-by-nurturing-new-supervisors-for-excellence"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/promoting-success-by-nurturing-new-supervisors-for-excellence/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427091318"

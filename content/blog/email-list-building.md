@@ -2,6 +2,7 @@
 title: "Boost Your Business: Essential Email List Building Tactics"
 description: "Unleash the power of email list building! Explore top strategies to grow your subscriber base and boost business success. Don't miss out, click now!"
 slug: "email-list-building"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/email-list-building/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223094745"

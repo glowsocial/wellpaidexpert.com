@@ -2,6 +2,7 @@
 title: "Your photography business should consider stickers. Here's why."
 description: "As a small photography business, finding low-cost marketing methods is vital to helping you stretch your funds and make a more significant impact on your"
 slug: "your-photography-business-should-consider-stickers-heres-why"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/your-photography-business-should-consider-stickers-heres-why/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427103758"

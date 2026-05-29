@@ -2,6 +2,7 @@
 title: "Marketing Experimentation: 3 Powerful Takeaways from a Campaign Failure"
 description: "Discover the lessons I learned from a marketing campaign that failed. This post explores 3 powerful takeaways the crucial role of marketing experimentation."
 slug: "marketing-experimentation-3-powerful-takeaways-from-a-campaign-failure"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/marketing-experimentation-3-powerful-takeaways-from-a-campaign-failure/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223091336"

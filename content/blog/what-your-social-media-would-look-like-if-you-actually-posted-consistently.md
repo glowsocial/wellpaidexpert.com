@@ -2,6 +2,7 @@
 title: "What Your Social Media Would Look Like If You Actually Posted Consistently"
 description: "Most business owners know they should post on social media. Few actually do it. Here's what consistent posting looks like in practice — and a free tool to see it for yourself."
 slug: "what-your-social-media-would-look-like-if-you-actually-posted-consistently"
+date: "2026-03-28"
 ---
 
 You already know you should be posting on social media. You don't need another article telling you it's important. You need to see what it would actually look like if you did it.

@@ -2,6 +2,7 @@
 title: "Feeling Like A Control Freak Business Owner? Here's How To Let Go Without Costing Yourself Anything"
 description: "Wanting to maintain control over your business isn’t a bad thing. You’re clearly someone who cares what happens, who pays attention to the details, and wants"
 slug: "feeling-like-a-control-freak-business-owner-heres-how-to-let-go-without-costing-yourself-anything"
+date: "2025-07-16"
 source_url: "https://thewellpaidexpert.com/feeling-like-a-control-freak-business-owner-heres-how-to-let-go-without-costing-yourself-anything/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250716015350"

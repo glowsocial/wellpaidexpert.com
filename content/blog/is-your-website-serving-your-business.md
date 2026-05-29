@@ -2,6 +2,7 @@
 title: "Is Your Website Serving Your Business?"
 description: "If you want your business to succeed, it’s likely that you are going to need to have a website. And you will obviously want to make sure that this website is"
 slug: "is-your-website-serving-your-business"
+date: "2025-01-19"
 source_url: "https://thewellpaidexpert.com/is-your-website-serving-your-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250119073120"

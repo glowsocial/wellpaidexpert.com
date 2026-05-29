@@ -2,6 +2,7 @@
 title: "Quiz Funnels: The Genius Hack For Getting 1,000% More Opt-Ins"
 description: "Implementing quiz funnels in your business could be exactly the growth hack your one-person business needs."
 slug: "quiz-funnels"
+date: "2023-09-26"
 source_url: "https://thewellpaidexpert.com/quiz-funnels/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20230926062942"

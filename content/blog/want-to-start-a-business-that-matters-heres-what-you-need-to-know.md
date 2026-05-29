@@ -2,6 +2,7 @@
 title: "Want To Start A Business That Matters? Here's What You Need to Know"
 description: "The internet is full of “start a business “ ideas and nonsense that has been rinsed through and have no value anymore for new modern businesses. The reality"
 slug: "want-to-start-a-business-that-matters-heres-what-you-need-to-know"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/want-to-start-a-business-that-matters-heres-what-you-need-to-know/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216215035"

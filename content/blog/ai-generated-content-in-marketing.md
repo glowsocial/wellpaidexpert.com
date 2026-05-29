@@ -2,6 +2,7 @@
 title: "Top Types of AI-Generated Content in Marketing Uncovered"
 description: "Discover the power of AI! Uncover top types of AI-generated content in marketing, revolutionizing strategies for experts and entrepreneurs."
 slug: "ai-generated-content-in-marketing"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/ai-generated-content-in-marketing/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208195456"

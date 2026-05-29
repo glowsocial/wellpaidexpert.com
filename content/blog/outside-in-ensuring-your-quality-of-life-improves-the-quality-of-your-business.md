@@ -2,6 +2,7 @@
 title: "Outside In: Ensuring Your Quality of Life Improves the Quality of Your Business"
 description: "Pixabay - CC0 License"
 slug: "outside-in-ensuring-your-quality-of-life-improves-the-quality-of-your-business"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/outside-in-ensuring-your-quality-of-life-improves-the-quality-of-your-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427104205"

@@ -2,6 +2,7 @@
 title: "Boost Your Reach with Engaging Carousel Posts for LinkedIn"
 description: "Unlock the secrets to boosting engagement with carousel posts for LinkedIn. Learn tips, tricks, and strategies to captivate your audience!"
 slug: "carousel-posts-for-linkedin"
+date: "2024-04-21"
 source_url: "https://thewellpaidexpert.com/carousel-posts-for-linkedin/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240421084627"

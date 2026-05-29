@@ -2,6 +2,7 @@
 title: "Skyrocket Your Business: Easy Email Marketing for Solopreneurs"
 description: "Boost your business with email marketing for solopreneurs. Learn to nurture leads, enhance conversions, and build customer relationships!"
 slug: "email-marketing-for-solopreneurs"
+date: "2024-05-30"
 source_url: "https://thewellpaidexpert.com/email-marketing-for-solopreneurs/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240530231502"

@@ -2,6 +2,7 @@
 title: "How Pharma Startups Can Get Noticed"
 description: "Pharma is one of the most heavily regulated industries in the world. In the United States, the Food and Drug Administration (FDA) oversees approvals, while"
 slug: "how-pharma-startups-can-get-noticed"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/how-pharma-startups-can-get-noticed/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216215952"

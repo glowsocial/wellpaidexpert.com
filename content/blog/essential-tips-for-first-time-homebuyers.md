@@ -2,6 +2,7 @@
 title: "Essential Tips for First-Time Homebuyers"
 description: "For hopeful homeowners, the prospect of having their very own house is an exciting adventure. It can also be a daunting and confusing process. That is why it"
 slug: "essential-tips-for-first-time-homebuyers"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/essential-tips-for-first-time-homebuyers/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427103647"

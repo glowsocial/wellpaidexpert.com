@@ -2,6 +2,7 @@
 title: "You are An Expert, But That Doesn't Mean You Have to Know Everything"
 description: "Photo by Christina Morillo from Pexels."
 slug: "you-are-an-expert-but-that-doesnt-mean-you-have-to-know-everything"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/you-are-an-expert-but-that-doesnt-mean-you-have-to-know-everything/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427100128"

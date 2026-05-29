@@ -2,6 +2,7 @@
 title: "Simple Strategies To Squeeze More Out Of Your Staff (In The Right Way)"
 description: "Source: Unsplash (Free)"
 slug: "simple-strategies-to-squeeze-more-out-of-your-staff-in-the-right-way"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/simple-strategies-to-squeeze-more-out-of-your-staff-in-the-right-way/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427100903"

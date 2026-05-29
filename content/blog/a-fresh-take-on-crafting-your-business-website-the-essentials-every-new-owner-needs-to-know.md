@@ -2,6 +2,7 @@
 title: "A Fresh Take on Crafting Your Business Website: The Essentials Every New Owner Needs to Know"
 description: "Alright, launching a new business? Super exciting times! But first things first, who are you chatting up through your website? Your audience, of course! Dive"
 slug: "a-fresh-take-on-crafting-your-business-website-the-essentials-every-new-owner-needs-to-know"
+date: "2024-09-14"
 source_url: "https://thewellpaidexpert.com/a-fresh-take-on-crafting-your-business-website-the-essentials-every-new-owner-needs-to-know/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240914233908"

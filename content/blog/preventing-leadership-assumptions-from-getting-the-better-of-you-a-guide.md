@@ -2,6 +2,7 @@
 title: "Preventing Leadership Assumptions From Getting The Better Of You: A Guide"
 description: "Pexels - CC0 License"
 slug: "preventing-leadership-assumptions-from-getting-the-better-of-you-a-guide"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/preventing-leadership-assumptions-from-getting-the-better-of-you-a-guide/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427103115"

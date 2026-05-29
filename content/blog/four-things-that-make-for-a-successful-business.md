@@ -2,6 +2,7 @@
 title: "Four Things That Make for a Successful Business"
 description: "Four things make up a very successful business. You have your product, your market, the people who will buy everything from you, and money. Without profit,"
 slug: "four-things-that-make-for-a-successful-business"
+date: "2024-11-06"
 source_url: "https://thewellpaidexpert.com/four-things-that-make-for-a-successful-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241106204009"

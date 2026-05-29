@@ -2,6 +2,7 @@
 title: "How to tell if you're ready to add a new offer"
 description: "If I gave you 100 new clients tomorrow, could you handle them all at once?👇"
 slug: "how-to-tell-if-youre-ready-to-add-a-new-offer"
+date: "2022-12-20"
 source_url: "https://thewellpaidexpert.com/how-to-tell-if-youre-ready-to-add-a-new-offer/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20221220164650"

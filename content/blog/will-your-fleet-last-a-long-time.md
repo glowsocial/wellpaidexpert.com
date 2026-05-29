@@ -2,6 +2,7 @@
 title: "Will Your Fleet Last A Long Time?"
 description: "Image Credit - CCO License"
 slug: "will-your-fleet-last-a-long-time"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/will-your-fleet-last-a-long-time/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427110029"

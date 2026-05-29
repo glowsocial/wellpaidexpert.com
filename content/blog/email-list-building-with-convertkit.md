@@ -2,6 +2,7 @@
 title: "Boost Your Reach: Email List Building with ConvertKit"
 description: "Discover the secrets of email list building with ConvertKit to grow your audience and boost engagement. Start converting clicks into loyal subscribers today!"
 slug: "email-list-building-with-convertkit"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/email-list-building-with-convertkit/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223090745"

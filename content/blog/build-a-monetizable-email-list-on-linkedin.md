@@ -2,6 +2,7 @@
 title: "Build a Monetizable Email List on LinkedIn Easily"
 description: "Learn how to build a monetizable email list on LinkedIn with practical steps. Boost your lead generation and marketing strategy today."
 slug: "build-a-monetizable-email-list-on-linkedin"
+date: "2024-07-19"
 source_url: "https://thewellpaidexpert.com/build-a-monetizable-email-list-on-linkedin/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240719143635"

@@ -2,6 +2,7 @@
 title: "Managing The Roadblocks Of Starting A Business"
 description: "Are you thinking about starting your own business? You might have heard this is easy to do and while that’s somewhat true, you could still face significant"
 slug: "managing-the-roadblocks-of-starting-a-business"
+date: "2024-09-15"
 source_url: "https://thewellpaidexpert.com/managing-the-roadblocks-of-starting-a-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240915012916"

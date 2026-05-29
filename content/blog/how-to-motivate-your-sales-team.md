@@ -2,6 +2,7 @@
 title: "How to Motivate Your Sales Team"
 description: "Keeping your sales team motivated is one of the most important parts of running a successful business. Salespeople face constant challenges throughout their"
 slug: "how-to-motivate-your-sales-team"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/how-to-motivate-your-sales-team/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216202025"

@@ -2,6 +2,7 @@
 title: "Five Safety Must-Haves for Your Business Premises in 2026"
 description: "If you run a business, mitigating danger is paramount. Here are five safety must-haves to work through methodically and get on track."
 slug: "five-safety-must-haves-for-your-business-premises-in-2026"
+date: "2026-03-25"
 ---
 
 If you run a business, mitigating danger is paramount. Both the people who work with you and your customers deserve to know that the environment in which they conduct business isn't a risk to their safety, and you need to do your utmost to protect that right.

@@ -2,6 +2,7 @@
 title: "Pulling Your Business Up From A Financial Nosedive"
 description: "Whether it’s due to sudden major expenses, a loss of funding, or simply due to a few bad quarters, finding your business in trouble, with the risk of collapse"
 slug: "pulling-your-business-up-from-a-financial-nosedive"
+date: "2024-09-15"
 source_url: "https://thewellpaidexpert.com/pulling-your-business-up-from-a-financial-nosedive/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240915011254"

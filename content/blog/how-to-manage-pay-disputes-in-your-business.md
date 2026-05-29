@@ -2,6 +2,7 @@
 title: "How to Manage Pay Disputes in Your Business"
 description: "When you’re trying to effectively manage the finances in your business, you have to ensure that you’re taking care of all of your financial responsibilities"
 slug: "how-to-manage-pay-disputes-in-your-business"
+date: "2024-09-14"
 source_url: "https://thewellpaidexpert.com/how-to-manage-pay-disputes-in-your-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240914234405"

@@ -2,6 +2,7 @@
 title: "How to Get The Hiring Process Right for Your Company"
 description: "As a business owner, you’re aware that employees will come and go from your establishment and there isn’t much you can do to control this. You can try your"
 slug: "how-to-get-the-hiring-process-right-for-your-company"
+date: "2024-07-19"
 source_url: "https://thewellpaidexpert.com/how-to-get-the-hiring-process-right-for-your-company/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240719141953"

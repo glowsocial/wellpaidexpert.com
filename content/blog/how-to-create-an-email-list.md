@@ -2,6 +2,7 @@
 title: "Strategies for Success: How to Create an Email List"
 description: "Learn how to create an email list effectively. From selecting the right ESP, creating compelling offers, to tracking metrics for success."
 slug: "how-to-create-an-email-list"
+date: "2024-05-28"
 source_url: "https://thewellpaidexpert.com/how-to-create-an-email-list/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240528064859"

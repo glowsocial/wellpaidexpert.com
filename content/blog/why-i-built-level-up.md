@@ -2,6 +2,7 @@
 title: "Why I Built Level Up"
 description: "I built Level Up to help more entrepreneurs stay in business by demystifying the murky art of cold outreach."
 slug: "why-i-built-level-up"
+date: "2023-09-26"
 source_url: "https://thewellpaidexpert.com/why-i-built-level-up/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20230926045321"

@@ -2,6 +2,7 @@
 title: "Improving Your POS Experience For Customers"
 description: "If you want your retail business to be a success, one of the main areas you will always want to look into is the POS, or point-of-sale. This is part of the"
 slug: "improving-your-pos-experience-for-customers"
+date: "2025-07-16"
 source_url: "https://thewellpaidexpert.com/improving-your-pos-experience-for-customers/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250716010839"

@@ -6,6 +6,7 @@ source_url: "https://thewellpaidexpert.com/how-collaboration-over-competition-he
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427101305"
 image: "/how-collaboration-over-competition-helps-private-practices.png"
+date: "2025-04-27"
 ---
 
 ![Medical professionals collaborating around a conference table in a modern clinic](/how-collaboration-over-competition-helps-private-practices.png)

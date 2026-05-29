@@ -2,6 +2,7 @@
 title: "How to Land High-Ticket B2B Clients Using LinkedIn (The Easy Way)"
 description: "LinkedIn has 800M members, 4 in 5 driving business decisions. Here's the simple outreach system that fills your calendar with 8-17 qualified sales conversations per week — without paid ads."
 slug: "b2b-clients-using-linkedin"
+date: "2023-06-18"
 source_url: "https://thewellpaidexpert.com/b2b-clients-using-linkedin/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20230618162357"

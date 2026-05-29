@@ -6,6 +6,7 @@ source_url: "https://thewellpaidexpert.com/what-you-really-need-to-build-a-busin
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427110325"
 image: "/what-you-really-need-to-build-a-business.png"
+date: "2025-04-27"
 ---
 
 ![What you really need to build a business](/what-you-really-need-to-build-a-business.png)

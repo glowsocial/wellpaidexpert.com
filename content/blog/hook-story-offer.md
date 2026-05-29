@@ -2,6 +2,7 @@
 title: "Boost Sales with the Proven Hook Story Offer Strategy"
 description: "Discover how the hook story offer framework can skyrocket your sales and engage your audience like never before. Learn to captivate and convert!"
 slug: "hook-story-offer"
+date: "2024-04-21"
 source_url: "https://thewellpaidexpert.com/hook-story-offer/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240421074051"

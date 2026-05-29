@@ -2,6 +2,7 @@
 title: "List Building CRO Tips: How to Use Conversion Rate Optimization to Grow Your Email List"
 description: "Conversion Rate Optimization is an often overlooked part of the digital marketing landscape. But it doesn't have to be. Read this primer for more."
 slug: "conversion-rate-optimization"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/conversion-rate-optimization/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208182433"

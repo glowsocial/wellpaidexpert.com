@@ -2,6 +2,7 @@
 title: "How to Set Up Your Restaurant Business For Success"
 description: "Image Credit."
 slug: "how-to-set-up-your-restaurant-business-for-success"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/how-to-set-up-your-restaurant-business-for-success/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427105043"

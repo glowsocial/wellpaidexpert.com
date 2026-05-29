@@ -2,6 +2,7 @@
 title: "5 Things To Have In Place Before You Start A Business"
 description: "Thinking of starting up a business? Then read my guide on the things you’ll need in place before you do, below. "
 slug: "5-things-to-have-in-place-before-you-start-a-business"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/5-things-to-have-in-place-before-you-start-a-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427104608"

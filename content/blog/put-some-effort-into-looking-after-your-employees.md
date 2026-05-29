@@ -2,6 +2,7 @@
 title: "Put Some Effort Into Looking After Your Employees"
 description: "Looking after your employees is not optional. It’s something that you need to do whether you want to or not, and you’ve got to start taking this role"
 slug: "put-some-effort-into-looking-after-your-employees"
+date: "2024-11-06"
 source_url: "https://thewellpaidexpert.com/put-some-effort-into-looking-after-your-employees/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241106204208"

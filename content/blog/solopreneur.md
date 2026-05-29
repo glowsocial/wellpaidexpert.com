@@ -2,6 +2,7 @@
 title: "Solopreneur Success: Capitalizing on Your Expertise Online"
 description: "Unlock the power of being a solopreneur! Learn to capitalize on your expertise, navigate challenges, and drive digital success. Start your journey now!"
 slug: "solopreneur"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/solopreneur/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208193310"

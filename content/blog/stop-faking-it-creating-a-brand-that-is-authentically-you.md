@@ -2,6 +2,7 @@
 title: "Stop Faking It: Creating a Brand That Is Authentically You"
 description: "Pexels - CCO Licence"
 slug: "stop-faking-it-creating-a-brand-that-is-authentically-you"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/stop-faking-it-creating-a-brand-that-is-authentically-you/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427094153"

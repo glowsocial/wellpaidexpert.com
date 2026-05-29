@@ -2,6 +2,7 @@
 title: "Thinking of Going it Alone? Here's What You Need to Know"
 description: "Source"
 slug: "thinking-of-going-it-alone-heres-what-you-need-to-know"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/thinking-of-going-it-alone-heres-what-you-need-to-know/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427101148"

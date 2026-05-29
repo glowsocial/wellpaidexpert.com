@@ -2,6 +2,7 @@
 title: "Creating Digital Products: A Smart Guide to Passive Income"
 description: "Unlock the secrets to creating digital products that generate passive income and elevate your business in today's online marketplace."
 slug: "creating-digital-products"
+date: "2024-05-30"
 source_url: "https://thewellpaidexpert.com/creating-digital-products/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240530231606"

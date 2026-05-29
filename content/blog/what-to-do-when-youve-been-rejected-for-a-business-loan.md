@@ -2,6 +2,7 @@
 title: "What To Do When You've Been Rejected For A Business Loan"
 description: "If you’re trying to start up a business, then applying for a loan is a common way to secure the funding that you need to get things rolling. However, when"
 slug: "what-to-do-when-youve-been-rejected-for-a-business-loan"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/what-to-do-when-youve-been-rejected-for-a-business-loan/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427102816"

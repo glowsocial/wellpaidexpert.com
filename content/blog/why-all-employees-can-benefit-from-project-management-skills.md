@@ -2,6 +2,7 @@
 title: "Why All Employees Can Benefit From Project Management Skills"
 description: "Let’s get this straight right off the bat: project management isn’t just for people with fancy job titles and Gantt charts. It’s for everyone. It doesn’t"
 slug: "why-all-employees-can-benefit-from-project-management-skills"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/why-all-employees-can-benefit-from-project-management-skills/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427093614"

@@ -2,6 +2,7 @@
 title: "How Business Expos and Trade Fairs Can Benefit Your Small Business"
 description: "When you run a business, you have a lot to deal with. It might seem as though you simply don’t have the time or resources to consider things like business"
 slug: "how-business-expos-and-trade-fairs-can-benefit-your-small-business"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/how-business-expos-and-trade-fairs-can-benefit-your-small-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427104019"

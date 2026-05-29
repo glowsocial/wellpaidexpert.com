@@ -2,6 +2,7 @@
 title: "Personality Quiz"
 description: "Based on your answers, you should build a personality quiz. Think:"
 slug: "quiz/personality-quiz"
+date: "2023-09-26"
 source_url: "https://thewellpaidexpert.com/quiz/personality-quiz/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20230926044845"

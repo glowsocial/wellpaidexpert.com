@@ -2,6 +2,7 @@
 title: "How Business Owners Often Make Their Lives More Difficult"
 description: "If running a successful business was easy, then everyone would do it. It takes a special kind of person to voluntarily undertake the hardships of building a"
 slug: "how-business-owners-often-make-their-lives-more-difficult"
+date: "2024-11-06"
 source_url: "https://thewellpaidexpert.com/how-business-owners-often-make-their-lives-more-difficult/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241106203735"

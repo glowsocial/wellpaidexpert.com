@@ -2,6 +2,7 @@
 title: "Things To Consider When Getting A New Car"
 description: "If you have been dreading this time coming around then you are not alone. Many people do not look forward to buying a new car. This is because there are so"
 slug: "things-to-consider-when-getting-a-new-car"
+date: "2024-09-15"
 source_url: "https://thewellpaidexpert.com/things-to-consider-when-getting-a-new-car/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240915010625"

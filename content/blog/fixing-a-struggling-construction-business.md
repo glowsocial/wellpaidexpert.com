@@ -2,6 +2,7 @@
 title: "Fixing A Struggling Construction Business"
 description: "If you have a business in construction and you are finding that things are not quite going to plan or that you are not profiting in the way you thought you"
 slug: "fixing-a-struggling-construction-business"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/fixing-a-struggling-construction-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427095027"

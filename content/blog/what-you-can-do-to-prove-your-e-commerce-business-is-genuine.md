@@ -2,6 +2,7 @@
 title: "What You Can Do to Prove Your E-Commerce Business is Genuine"
 description: "Image credit"
 slug: "what-you-can-do-to-prove-your-e-commerce-business-is-genuine"
+date: "2024-07-19"
 source_url: "https://thewellpaidexpert.com/what-you-can-do-to-prove-your-e-commerce-business-is-genuine/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240719155556"

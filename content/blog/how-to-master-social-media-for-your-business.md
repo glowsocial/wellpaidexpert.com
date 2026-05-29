@@ -2,6 +2,7 @@
 title: "How to Master Social Media for Your Business"
 description: "Photo by Pixabay"
 slug: "how-to-master-social-media-for-your-business"
+date: "2024-12-06"
 source_url: "https://thewellpaidexpert.com/how-to-master-social-media-for-your-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241206192337"

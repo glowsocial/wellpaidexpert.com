@@ -2,6 +2,7 @@
 title: "How to Reverse Engineer a Sales Funnel for Growth"
 description: "Discover how to reverse engineer a sales funnel for unmatched business growth, enhancing lead generation and optimizing conversion rates."
 slug: "reverse-engineer-a-sales-funnel"
+date: "2024-04-21"
 source_url: "https://thewellpaidexpert.com/reverse-engineer-a-sales-funnel/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240421090712"

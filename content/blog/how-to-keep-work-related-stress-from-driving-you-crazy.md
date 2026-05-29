@@ -2,6 +2,7 @@
 title: "How to Keep Work-Related Stress from Driving You Crazy"
 description: "So, just picture this very relatable scenario that basically every entrepreneur has had to deal with at one point in their lives: it’s 10 p.m., and you’re"
 slug: "how-to-keep-work-related-stress-from-driving-you-crazy"
+date: "2025-01-19"
 source_url: "https://thewellpaidexpert.com/how-to-keep-work-related-stress-from-driving-you-crazy/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250119073201"

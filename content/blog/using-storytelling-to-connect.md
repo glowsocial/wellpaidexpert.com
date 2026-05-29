@@ -2,6 +2,7 @@
 title: "Using Storytelling to Connect: The Secret to Deeper Bonds"
 description: "Unlock the power of using storytelling to connect, enhance relationships, and engage audiences more deeply. Discover the art and science behind it here."
 slug: "using-storytelling-to-connect"
+date: "2024-05-25"
 source_url: "https://thewellpaidexpert.com/using-storytelling-to-connect/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240525215907"

@@ -2,6 +2,7 @@
 title: "Scored"
 description: "Based on your answers, you should build a scored quiz. Think:"
 slug: "quiz/scored"
+date: "2023-09-26"
 source_url: "https://thewellpaidexpert.com/quiz/scored/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20230926052339"

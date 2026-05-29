@@ -2,6 +2,7 @@
 title: "Becoming a Great Leader: What Does It Entail?"
 description: "Do you aspire to transcend from being a mere boss to a true leader? While anyone can hold a position of authority, not everyone can embody the qualities of a"
 slug: "becoming-a-great-leader-what-does-it-entail"
+date: "2024-11-06"
 source_url: "https://thewellpaidexpert.com/becoming-a-great-leader-what-does-it-entail/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241106211046"

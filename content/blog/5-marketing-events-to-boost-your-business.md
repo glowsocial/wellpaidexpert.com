@@ -2,6 +2,7 @@
 title: "5 Marketing Events To Boost Your Business"
 description: "Pexels. CCO Licensed."
 slug: "5-marketing-events-to-boost-your-business"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/5-marketing-events-to-boost-your-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427104643"

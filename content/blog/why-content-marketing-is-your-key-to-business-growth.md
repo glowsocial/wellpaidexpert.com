@@ -2,6 +2,7 @@
 title: "Why Content Marketing is Your Key to Business Growth"
 description: "We are in 2024 and if you don't know you need to have a good digital content marketing strategy by now, then you are severely behind. Any small, medium or"
 slug: "why-content-marketing-is-your-key-to-business-growth"
+date: "2024-10-05"
 source_url: "https://thewellpaidexpert.com/why-content-marketing-is-your-key-to-business-growth/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241005022104"

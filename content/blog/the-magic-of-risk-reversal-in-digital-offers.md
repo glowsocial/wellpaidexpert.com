@@ -2,6 +2,7 @@
 title: "The Magic of Risk Reversal in Digital Offers"
 description: "Risk reversal shifts the burden of doubt from buyer to seller and is the most effective way to increase conversions on digital offers. Here is how to craft guarantees that eliminate purchase hesitation."
 slug: "the-magic-of-risk-reversal-in-digital-offers"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/the-magic-of-risk-reversal-in-digital-offers/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208192824"

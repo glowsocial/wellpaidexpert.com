@@ -6,6 +6,7 @@ source_url: "https://thewellpaidexpert.com/the-6-types-of-digital-marketing-ever
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241206190156"
 image: "/the-6-types-of-digital-marketing-every-business-needs-to-thrive-in-2024.png"
+date: "2024-12-06"
 ---
 
 ![The 6 Types of Digital Marketing Every Business Needs To Thrive in 2024](/the-6-types-of-digital-marketing-every-business-needs-to-thrive-in-2024.png)

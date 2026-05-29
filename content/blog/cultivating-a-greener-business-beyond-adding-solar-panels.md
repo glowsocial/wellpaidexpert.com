@@ -2,6 +2,7 @@
 title: "Cultivating A Greener Business (Beyond Adding Solar Panels)"
 description: "Source : Pixabay CC0 "
 slug: "cultivating-a-greener-business-beyond-adding-solar-panels"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/cultivating-a-greener-business-beyond-adding-solar-panels/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216214422"

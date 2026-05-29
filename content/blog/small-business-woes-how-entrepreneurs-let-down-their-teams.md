@@ -2,6 +2,7 @@
 title: "Small Business Woes: How Entrepreneurs Let Down Their Teams"
 description: "Small businesses thrive when their leaders make the right decisions. Here's how to avoid the most common ways entrepreneurs let their teams down."
 slug: "small-business-woes-how-entrepreneurs-let-down-their-teams"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/small-business-woes-how-entrepreneurs-let-down-their-teams/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427095744"

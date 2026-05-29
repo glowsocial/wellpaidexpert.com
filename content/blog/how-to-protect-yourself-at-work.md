@@ -2,6 +2,7 @@
 title: "How to Protect Yourself At Work"
 description: "The working world can be tricky to manage. We want to do well at our jobs, of course, but it’s also important to remember that ultimately, our employers are"
 slug: "how-to-protect-yourself-at-work"
+date: "2024-11-06"
 source_url: "https://thewellpaidexpert.com/how-to-protect-yourself-at-work/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241106211933"

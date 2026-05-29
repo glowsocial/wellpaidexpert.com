@@ -2,6 +2,7 @@
 title: "4 Issues That Can Disrupt Your Mental Health"
 description: "If you are trying to look after your mental health then you need to also be in tune with your physical health. The two go hand in hand and work as a great"
 slug: "4-issues-that-can-disrupt-your-mental-health"
+date: "2024-10-05"
 source_url: "https://thewellpaidexpert.com/4-issues-that-can-disrupt-your-mental-health/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241005040716"

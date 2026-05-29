@@ -2,6 +2,7 @@
 title: "Knowledge/Trivia"
 description: "Based on your answers, you should build a knowledge/trivia quiz. Think:"
 slug: "quiz/knowledge-trivia"
+date: "2023-09-26"
 source_url: "https://thewellpaidexpert.com/quiz/knowledge-trivia/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20230926064122"

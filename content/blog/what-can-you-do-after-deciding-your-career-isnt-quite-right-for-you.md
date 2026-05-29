@@ -2,6 +2,7 @@
 title: "What Can You Do After Deciding Your Career Isn't Quite Right For You?"
 description: "Deciding that you’re in the wrong career is quite the gut punch. You might have spent a lot of time working your way up to where you are now, and once you’re"
 slug: "what-can-you-do-after-deciding-your-career-isnt-quite-right-for-you"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/what-can-you-do-after-deciding-your-career-isnt-quite-right-for-you/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427094229"

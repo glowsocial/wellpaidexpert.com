@@ -2,6 +2,7 @@
 title: "Building a Mastermind Group: Steps to Forge Success Together"
 description: "Unlock the secrets of building a mastermind group to elevate your success with expert strategies and collaborative insights."
 slug: "building-a-mastermind-group"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/building-a-mastermind-group/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223100221"

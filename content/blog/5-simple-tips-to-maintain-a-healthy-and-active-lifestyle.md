@@ -2,6 +2,7 @@
 title: "5 Simple Tips to Maintain a Healthy and Active Lifestyle"
 description: "Maintaining a healthy and active lifestyle is essential for overall well-being, yet it’s something many people find challenging due to busy schedules and the"
 slug: "5-simple-tips-to-maintain-a-healthy-and-active-lifestyle"
+date: "2024-09-15"
 source_url: "https://thewellpaidexpert.com/5-simple-tips-to-maintain-a-healthy-and-active-lifestyle/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240915011517"

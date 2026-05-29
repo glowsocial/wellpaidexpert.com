@@ -2,6 +2,7 @@
 title: "Overcoming Hurdles: Identifying Blocks to Success Easily"
 description: "Unlock your full potential by identifying blocks to success and mastering strategies for overcoming them. Dive into transformative insights now!"
 slug: "identifying-blocks-to-success"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/identifying-blocks-to-success/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223102619"

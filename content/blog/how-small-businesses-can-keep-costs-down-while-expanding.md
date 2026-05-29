@@ -2,6 +2,7 @@
 title: "How Small Businesses Can Keep Costs Down While Expanding"
 description: "Growth sounds great on paper, and it’s basically what most businesses and business owners aim for. After all, with more customers, more products, and more"
 slug: "how-small-businesses-can-keep-costs-down-while-expanding"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/how-small-businesses-can-keep-costs-down-while-expanding/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216205053"

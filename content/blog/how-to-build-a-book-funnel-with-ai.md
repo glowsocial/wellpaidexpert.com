@@ -2,6 +2,7 @@
 title: "How to Build a Book Funnel with AI: A Step-by-Step Guide"
 description: "Discover how to build a book funnel with AI, transforming your marketing strategy and boosting sales. Click for the ultimate guide!"
 slug: "how-to-build-a-book-funnel-with-ai"
+date: "2024-04-21"
 source_url: "https://thewellpaidexpert.com/how-to-build-a-book-funnel-with-ai/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240421092507"

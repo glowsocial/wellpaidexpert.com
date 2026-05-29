@@ -2,6 +2,7 @@
 title: "Worried About Becoming A Boss? Three Things That'll Ensure You're Good At The Job"
 description: "Being a business owner and being a boss aren’t always the same thing. A lot of new companies are headed up by a single person, and only once the funds are in"
 slug: "worried-about-becoming-a-boss-three-things-thatll-ensure-youre-good-at-the-job"
+date: "2025-03-21"
 source_url: "https://thewellpaidexpert.com/worried-about-becoming-a-boss-three-things-thatll-ensure-youre-good-at-the-job/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250321081633"

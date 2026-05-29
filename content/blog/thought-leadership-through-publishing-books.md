@@ -2,6 +2,7 @@
 title: "Gain Influence: Thought Leadership Through Publishing Books"
 description: "Elevate your status with thought leadership through publishing books. Discover key strategies to transform expertise into influence."
 slug: "thought-leadership-through-publishing-books"
+date: "2024-05-30"
 source_url: "https://thewellpaidexpert.com/thought-leadership-through-publishing-books/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240530170113"

@@ -2,6 +2,7 @@
 title: "Why You Need to Rethink Who You Trust in Your DMs"
 description: "Image credit"
 slug: "why-you-need-to-rethink-who-you-trust-in-your-dms"
+date: "2025-07-16"
 source_url: "https://thewellpaidexpert.com/why-you-need-to-rethink-who-you-trust-in-your-dms/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250716012530"

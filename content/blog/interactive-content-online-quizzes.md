@@ -2,6 +2,7 @@
 title: "The Quiz Playbook: Unlock the Power of Interactive Content"
 description: "Interactive content beats static content on almost all vectors: engagement, time on page, ability to turn a website visitor into a lead... all of it."
 slug: "interactive-content-online-quizzes"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/interactive-content-online-quizzes/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208193347"

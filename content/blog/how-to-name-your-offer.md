@@ -2,6 +2,7 @@
 title: "How to Name Your Offer: The Strategy Behind Names That Sell"
 description: "The wrong offer name kills conversions before anyone reads a word. Here's the framework for naming digital products, programs, and services so buyers immediately understand the value."
 slug: "how-to-name-your-offer"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/how-to-name-your-offer/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223093755"

@@ -2,6 +2,7 @@
 title: "The Benefits of Auditing Energy Costs in Your Business"
 description: "Running a business means juggling many moving parts, from staffing and operations to customer service and growth. Among those responsibilities, energy is one"
 slug: "the-benefits-of-auditing-energy-costs-in-your-business"
+date: "2025-12-16"
 source_url: "https://thewellpaidexpert.com/the-benefits-of-auditing-energy-costs-in-your-business/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216220032"

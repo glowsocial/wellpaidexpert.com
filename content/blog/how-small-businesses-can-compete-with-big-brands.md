@@ -2,6 +2,7 @@
 title: "How Small Businesses Can Compete with Big Brands"
 description: "Image credit"
 slug: "how-small-businesses-can-compete-with-big-brands"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/how-small-businesses-can-compete-with-big-brands/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427092839"

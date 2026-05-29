@@ -2,6 +2,7 @@
 title: "Top Considerations When Choosing a Lawyer"
 description: "Image Pexels CC0 License"
 slug: "top-considerations-when-choosing-a-lawyer"
+date: "2025-10-18"
 source_url: "https://thewellpaidexpert.com/top-considerations-when-choosing-a-lawyer/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251018110305"

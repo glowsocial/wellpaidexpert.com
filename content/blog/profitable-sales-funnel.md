@@ -2,6 +2,7 @@
 title: "Why Create a Profitable Sales Funnel for Your Digital Empire?"
 description: "Every online service provider needs a profitable sales funnel to add predictable income that isn't directly tied to client work. Here's why."
 slug: "profitable-sales-funnel"
+date: "2024-04-21"
 source_url: "https://thewellpaidexpert.com/profitable-sales-funnel/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240421092742"

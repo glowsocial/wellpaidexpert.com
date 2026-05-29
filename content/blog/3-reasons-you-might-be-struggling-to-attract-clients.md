@@ -2,6 +2,7 @@
 title: "3 reasons you might be struggling to attract clients"
 description: "Entrepreneurship is not for the faint of heart. If you’re struggling to attract clients, here are three reasons why that might be the case."
 slug: "3-reasons-you-might-be-struggling-to-attract-clients"
+date: "2022-12-27"
 source_url: "https://thewellpaidexpert.com/3-reasons-you-might-be-struggling-to-attract-clients/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20221227091941"

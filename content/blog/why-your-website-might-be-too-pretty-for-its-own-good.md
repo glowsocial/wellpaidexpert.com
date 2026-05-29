@@ -2,6 +2,7 @@
 title: "Why Your Website Might be too Pretty for its Own Good"
 description: "Image credit"
 slug: "why-your-website-might-be-too-pretty-for-its-own-good"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/why-your-website-might-be-too-pretty-for-its-own-good/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427100701"

@@ -2,6 +2,7 @@
 title: "Profitable Business Ideas Without Being Entrepreneurial"
 description: "Discover how to create a profitable business idea without being entrepreneurial, unlocking secrets for success with minimal startup hassle."
 slug: "how-to-create-a-profitable-business-idea-without-being-entrepreneurial"
+date: "2024-04-21"
 source_url: "https://thewellpaidexpert.com/how-to-create-a-profitable-business-idea-without-being-entrepreneurial/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240421080646"

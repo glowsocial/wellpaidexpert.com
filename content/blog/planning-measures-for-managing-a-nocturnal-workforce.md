@@ -2,6 +2,7 @@
 title: "Planning Measures For Managing A Nocturnal Workforce"
 description: "Running a night shift operation seems easy on the surface - you’re just managing a service while everyone else is sleeping right? Shift your sleeping pattern"
 slug: "planning-measures-for-managing-a-nocturnal-workforce"
+date: "2025-03-21"
 source_url: "https://thewellpaidexpert.com/planning-measures-for-managing-a-nocturnal-workforce/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250321081335"

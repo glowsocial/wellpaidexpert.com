@@ -2,6 +2,7 @@
 title: "Staying Out of Spam: How Solopreneurs Can Ensure Email Deliverability"
 description: "If you're going to double down on email (which you should!), you want to ensure email deliverability. Read to find out how solopreneurs do that."
 slug: "ensure-email-deliverability"
+date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/ensure-email-deliverability/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208193422"

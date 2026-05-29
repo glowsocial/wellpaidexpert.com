@@ -2,6 +2,7 @@
 title: "Revamp Your Strategy: The Power of AI Marketing Tools"
 description: "Unlock the future of your business with ai marketing. Discover how artificial intelligence transforms strategies for unparalleled success."
 slug: "ai-marketing"
+date: "2024-04-21"
 source_url: "https://thewellpaidexpert.com/ai-marketing/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240421081904"

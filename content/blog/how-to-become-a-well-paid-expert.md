@@ -6,6 +6,7 @@ source_url: "https://thewellpaidexpert.com/how-to-become-a-well-paid-expert/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223094329"
 image: "/how-to-become-a-well-paid-expert.png"
+date: "2024-02-23"
 ---
 
 ![How to become a well-paid expert](/how-to-become-a-well-paid-expert.png)

@@ -2,6 +2,7 @@
 title: "Maximize Leads with Effective Quiz Templates: A Guide"
 description: "Unlock lead generation success with effective quiz templates. Learn to craft engaging quizzes, boost customer experience, and skyrocket your service!"
 slug: "effective-quiz-templates"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/effective-quiz-templates/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223102732"

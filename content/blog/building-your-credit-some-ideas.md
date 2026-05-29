@@ -2,6 +2,7 @@
 title: "Building Your Credit: Some Ideas"
 description: "One of the main elements of looking after your personal finances is to ensure that you are keeping a good credit score at all times. This is the kind of thing"
 slug: "building-your-credit-some-ideas"
+date: "2024-10-05"
 source_url: "https://thewellpaidexpert.com/building-your-credit-some-ideas/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241005040046"

@@ -2,6 +2,7 @@
 title: "Roadmap to Achieving Your First $10K Month"
 description: "Discover strategies for achieving your first $10k month as a business owner with our step-by-step guide to financial success and growth."
 slug: "achieving-first-10k-month"
+date: "2024-02-23"
 source_url: "https://thewellpaidexpert.com/achieving-first-10k-month/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240223100526"

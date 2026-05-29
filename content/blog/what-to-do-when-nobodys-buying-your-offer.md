@@ -2,6 +2,7 @@
 title: "What to do when nobody’s buying your offer"
 description: "Have you ever ditched a launch or felt like a failure because nobody is signing up to your offer?"
 slug: "what-to-do-when-nobodys-buying-your-offer"
+date: "2022-12-21"
 source_url: "https://thewellpaidexpert.com/what-to-do-when-nobodys-buying-your-offer/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20221221075217"

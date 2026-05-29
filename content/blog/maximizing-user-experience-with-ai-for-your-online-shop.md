@@ -2,6 +2,7 @@
 title: "Maximizing User Experience with AI for Your Online Shop"
 description: "User experience (UX) plays a crucial role in driving sales for online shops. A website that's easy to navigate, visually appealing, and quick to load"
 slug: "maximizing-user-experience-with-ai-for-your-online-shop"
+date: "2024-11-06"
 source_url: "https://thewellpaidexpert.com/maximizing-user-experience-with-ai-for-your-online-shop/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241106214243"

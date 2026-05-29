@@ -2,6 +2,7 @@
 title: "The Case for a Smaller Office: 6 Major Benefits"
 description: "Many people will argue that the concept of the traditional office is dead in the water. As we navigate the post-pandemic era, companies are rightly"
 slug: "the-case-for-a-smaller-office-6-major-benefits"
+date: "2025-04-27"
 source_url: "https://thewellpaidexpert.com/the-case-for-a-smaller-office-6-major-benefits/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20250427103344"
