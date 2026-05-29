@@ -104,7 +104,7 @@ Your website is your digital storefront and the hub of your online presence. It 
 Invest in a
 user-friendly, mobile-responsive design that’s easy to navigate and optimized for search engines. Include engaging copy, high-quality visuals, and prominent calls-to-action to guide visitors through your site.
 
-It's always worth investing properly in your business website. The long-term [cost of a cheap website](http://thewellpaidexpert.com) could be much higher than you'd think, so you're better off investing upfront for one that actually works for your business.
+It's always worth investing properly in your business website. The long-term [cost of a cheap website](https://rawcutcreative.com/high-cost-of-a-cheap-website/) could be much higher than you'd think, so you're better off investing upfront for one that actually works for your business.
 
 ### Leveraging Social Media Channels
 
