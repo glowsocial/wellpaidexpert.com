@@ -8,7 +8,7 @@ image: "/why-security-is-so-important-for-your-business-in-2026.png"
 
 ![Cybersecurity dashboard on an office desk](/why-security-is-so-important-for-your-business-in-2026.png)
 
-As businesses have become increasingly reliant on digital technology, security has evolved from being an IT concern to something that's integral to your company. In 2026 there are a wide range of threats that can hit the digital side of your business, so you need to be ready. If a hacker or a threat gets to your business it can completely take your company down and cause a lot of loss both in terms of your money and customers you might lose too. Whether you run a small local business or a multinational corporation, protecting your assets, employees and customers has never been more important. Follow these tips and work with a [security solutions](https://datastealth.io/blogs/mainframe-security-solutions-complete-guide) company.
+As businesses have become increasingly reliant on digital technology, security has evolved from being an IT concern to something that's integral to your company. In 2026 there are a wide range of threats that can hit the digital side of your business, so you need to be ready. If a hacker or a threat gets to your business it can completely take your company down and cause a lot of loss both in terms of your money and customers you might lose too. Whether you run a small local business or a multinational corporation, protecting your assets, employees and customers has never been more important. Follow these tips and work with a [security solutions](https://datastealth.io/blogs/mainframe-security-solutions-complete-guide-for-2026) company.
 
 ## Cybersecurity is always evolving
 
