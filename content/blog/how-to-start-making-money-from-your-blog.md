@@ -16,7 +16,7 @@ If you’re based in the UK and your blog starts bringing in money, it’s impor
 
 ## Understand Your Audience
 
-The more you know about your audience, the easier it becomes to create content they enjoy. Spend some time looking at what people engage with most and pay attention to the conversations happening in your comments and social media accounts. Many bloggers also keep an eye on social media performance to understand what’s working and what isn’t. Something as simple as learning [how to know who unfollowed me on instagram](https://followbuddy.com/blog/how-to-see-who-unfollowed-you-on-instagram) can give you a better idea of how people are reacting to your content and whether certain posts are pushing people away or keeping them engaged.
+The more you know about your audience, the easier it becomes to create content they enjoy. Spend some time looking at what people engage with most and pay attention to the conversations happening in your comments and social media accounts. Many bloggers also keep an eye on social media performance to understand what’s working and what isn’t. Something as simple as learning [how to know who unfollowed me on instagram](https://followbuddy.com/blog/who-unfollowed-me-on-instagram) can give you a better idea of how people are reacting to your content and whether certain posts are pushing people away or keeping them engaged.
 
 ## Make Yourself Easy To Contact
 
