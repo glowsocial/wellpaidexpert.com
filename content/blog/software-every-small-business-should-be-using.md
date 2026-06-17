@@ -6,7 +6,10 @@ date: "2024-11-06"
 source_url: "https://thewellpaidexpert.com/software-every-small-business-should-be-using/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241106213927"
+image: "/software-every-small-business-should-be-using.png"
 ---
+
+![Software every small business should be using](/software-every-small-business-should-be-using.png)
 
 When you are a small business, the more productive and efficient you are, the better your revenue will be. As you can imagine, the more revenue you bring in, the greater your profits and with these, you can reinvest them and grow your small business.
 
@@ -30,7 +33,7 @@ will help you with any adaptations that you need to make to your images, such as
 
 ## CRM System
 
-A CRM system is used to keep track of any communication with your clients. You can set appointments on one, write any notes that you have had with the customer as well as set callbacks. By using a CRM system, everyone in your small business can read the notes, so that they can help your clients and know what’s happened in the past.
+A CRM system is used to keep track of any communication with your clients. You can set appointments on one, write any notes that you have had with the customer as well as set callbacks. By using a CRM system, everyone in your small business can read the notes, so that they can help your clients and know what’s happened in the past. For some businesses, a generic CRM tool will work. For businesses with more complex needs, it’s best to work with a [software development company](https://activelogic.com/) to develop your own custom software tool.
 
 The above three systems are a touch on the many different software that you can use as a small business. Take a look through the list and see if any of them can help. As you can imagine some options are better for
 businesses
