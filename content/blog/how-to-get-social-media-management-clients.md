@@ -122,7 +122,7 @@ Before the call ends, ask: "Does this feel like the right fit?" If yes, send the
 
 If you want the process to be repeatable, document the word-for-word outreach scripts, LinkedIn connection templates, preview close technique, and proposal template before you start scaling.
 
-It is $27 and covers the full system used to run a profitable one-person agency at $4,300 per month.
+A complete system should cover the outreach, offer structure, proposal process, and delivery workflow used to run a profitable one-person agency.
 
 ---
 

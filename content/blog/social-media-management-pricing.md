@@ -118,7 +118,7 @@ These do not require more clients — they deepen the value you provide to clien
 
 A strong pricing system should walk through the pricing structure, proposal format, and package options used in real client work, including the niche selection framework that helps identify which industries pay the most and churn the least.
 
-It is $27 and covers the complete system for getting to $4,300 per month as a one-person agency.
+A complete pricing system should show how the package structure, proposal format, and delivery workflow connect so a one-person agency can stay profitable.
 
 ---
 
