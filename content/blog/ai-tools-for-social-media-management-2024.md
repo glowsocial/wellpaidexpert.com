@@ -80,4 +80,4 @@ Mastering the AI production stack before you have clients means your first clien
 
 ---
 
-**The Agency Blueprint includes the exact tools and workflow the one-person agency model is built around** — including how to use AI production tools to serve multiple clients without burning out. [It's $27. Start here.](/agency-blueprint/)
+**A one-person agency needs exact tools and workflow, not vague AI optimism.** The goal is to use AI production tools to serve multiple clients without burning out or letting quality drift.

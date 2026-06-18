@@ -79,7 +79,7 @@ This isn't a shortcut to quality — it's a force multiplier for skilled operato
 
 ## What This Looks Like in Practice
 
-The [Agency Blueprint](/agency-blueprint/) models exactly this path for social media management:
+A one-person social media management business can model exactly this path:
 
 - Start with 1–2 clients at $1,075/month (the conservative model)
 - Build to 4–5 clients = $4,300–$5,375/month
@@ -89,4 +89,4 @@ $10k is the next logical step for someone who's mastered the system.
 
 ---
 
-**Ready to build it?** The [Agency Blueprint](/agency-blueprint/) is $27 and gives you the complete system — client math, service structure, outreach approach, and delivery workflow.
+**Ready to build it?** Start with the complete system: client math, service structure, outreach approach, and delivery workflow.

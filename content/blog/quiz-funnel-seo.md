@@ -104,4 +104,4 @@ You're using existing domain authority to lift new content — the same principl
 
 ---
 
-**Building a quiz to grow your list and drive leads?** The [Agency Blueprint](/agency-blueprint/) includes the full content and lead generation system for positioning your expertise — including when quizzes fit the model and when something simpler works better.
+**Building a quiz to grow your list and drive leads?** Make sure it fits your broader content and lead generation system. Sometimes a quiz is useful; sometimes a simpler lead capture path works better.

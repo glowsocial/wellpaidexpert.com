@@ -72,4 +72,4 @@ Getting your first consulting client is a confidence problem disguised as a stra
 
 Don't optimize for the perfect first client. Optimize for a real first client. Charge properly. Do great work. Ask for referrals. Repeat.
 
-If you want the complete playbook for packaging your expertise, setting your rates, and building a consulting practice that generates consistent revenue — the [Agency Blueprint](https://thewellpaidexpert.com/agency-blueprint) is $27 and covers exactly this. Start there.
+If you want a consulting practice that generates consistent revenue, build the playbook before you need it: package your expertise, set your rates, document the sales conversation, and make the delivery process repeatable.

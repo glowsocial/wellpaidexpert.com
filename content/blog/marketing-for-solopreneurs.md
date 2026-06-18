@@ -90,8 +90,8 @@ That's roughly 10–12 hours per week for a marketing system that generates cons
 
 One path many solopreneurs take is turning their marketing knowledge into a service — specifically, offering social media management to businesses that don't have the time or know-how to do it themselves.
 
-The [Agency Blueprint](/agency-blueprint/) shows how to build this as a recurring-revenue business: sign 4–5 clients at $1,000–$1,500/month, use AI tools to deliver at scale, and generate consistent income without employees.
+A recurring-revenue version of this model might look like this: sign 4–5 clients at $1,000–$1,500/month, use AI tools to deliver at scale, and generate consistent income without employees.
 
 ---
 
-**Ready to turn solopreneur skills into a scalable agency model?** The [Agency Blueprint](/agency-blueprint/) is $27 and walks you through the entire system.
+**Ready to turn solopreneur skills into a scalable agency model?** Build the system first: the offer, the pricing, the acquisition process, and the delivery workflow.

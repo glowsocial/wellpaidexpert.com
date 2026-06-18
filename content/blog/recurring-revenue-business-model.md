@@ -81,12 +81,12 @@ Price based on the value of consistent delivery, not hourly time:
 
 Most new retainer businesses undercharge because they price based on hours rather than outcomes. If you're managing a company's entire social media presence — something that would cost $4,000–$6,000/month to hire in-house — a $1,500 retainer is genuinely a deal for the client, not just a reasonable rate for you.
 
-## The Agency Blueprint Model
+## A Simple Recurring Revenue Model
 
-The [Agency Blueprint](/agency-blueprint/) is built entirely around recurring revenue. The model: 4–5 clients, each paying a monthly retainer, total income of $4,300–$5,375/month.
+A simple recurring revenue model might look like this: 4–5 clients, each paying a monthly retainer, for a stable base of monthly income.
 
-The blueprint includes the pricing structure, the contract approach, the client acquisition process, and the delivery system that makes ongoing service sustainable at that volume.
+The important pieces are the pricing structure, the contract approach, the client acquisition process, and the delivery system that makes ongoing service sustainable at that volume.
 
 ---
 
-**Want the full recurring revenue system for a one-person agency?** The [Agency Blueprint](/agency-blueprint/) is $27 and walks you through every step — from signing your first client to building a stable monthly income.
+**Want the full recurring revenue system for a one-person agency?** Document every step: signing the first client, setting expectations, delivering consistently, and turning the work into stable monthly income.

@@ -117,9 +117,9 @@ Use this structure: situation summary, scope of work (bullets), pricing table, o
 
 Paste your notes. Get your draft. Review and send.
 
-This is one of the core components inside the [Social Media Agency Blueprint](/agency-blueprint/) — the proposal template and the AI prompt used to generate custom proposals in real time, even while still on a discovery call.
+This is one of the core components of a strong social media agency sales process: a proposal template and AI prompt that can generate custom proposals in real time, even while still on a discovery call.
 
-The full Blueprint is $27 and includes the proposal system, outreach scripts, pricing structure, and the complete AI fulfillment workflow.
+A complete proposal system should include outreach scripts, pricing structure, and the AI fulfillment workflow that supports delivery after the client says yes.
 
 ---
 

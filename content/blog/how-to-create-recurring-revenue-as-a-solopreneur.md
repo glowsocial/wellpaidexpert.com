@@ -77,4 +77,4 @@ One retained client stabilizes your income. Two creates real breathing room. Thr
 
 That's what a sustainable expert practice actually looks like.
 
-The [Agency Blueprint](https://thewellpaidexpert.com/agency-blueprint) has the full retainer agreement template, the pricing worksheet, and the exact conversation guide for the retainer transition — all for $27. Start there, then go have the conversation.
+A simple retainer agreement, a pricing worksheet, and a conversation guide can make the transition much easier. Prepare those pieces first, then go have the conversation.

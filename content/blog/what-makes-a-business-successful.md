@@ -72,8 +72,8 @@ It's worth naming the things that don't matter as much as the internet suggests:
 
 The good news: these three factors reinforce each other. When you get clear on your value proposition, client acquisition becomes easier because you know who you're talking to. When client acquisition is systematic, you can invest in better delivery. When delivery is efficient, you have margin to raise prices — which strengthens your positioning.
 
-The [Agency Blueprint](/agency-blueprint/) was built around this exact framework: a specific value proposition (social media management for local and service businesses), a proven outreach system, and an AI-assisted delivery model that keeps costs low and quality high.
+This same framework applies to any focused service business: a specific value proposition, a proven outreach system, and a delivery model that keeps costs low while quality stays high.
 
 ---
 
-**Want to see what all three look like in practice?** The [Agency Blueprint](/agency-blueprint/) is $27 and lays out the full system for building a $4,300/month one-person agency.
+**Want to see what all three look like in practice?** Look at any durable one-person business and you will usually find the same pattern: clear positioning, repeatable acquisition, and a delivery system the owner can actually sustain.

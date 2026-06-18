@@ -83,9 +83,9 @@ Several factors legitimately justify higher rates:
 
 **Don't discount to close.** Lower prices attract lower-quality clients and signal that your original price wasn't real. Offer a shorter trial period instead.
 
-## The Agency Blueprint Pricing Model
+## A Simple Social Media Agency Pricing Model
 
-The [Agency Blueprint](/agency-blueprint/) uses a specific client math:
+A simple one-person agency model can use this client math:
 
 - 4–5 clients
 - $1,075/month average (conservative)
@@ -93,8 +93,8 @@ The [Agency Blueprint](/agency-blueprint/) uses a specific client math:
 
 That's a starting point designed to be achievable in 60–90 days for someone building from zero. As you add clients and raise rates with proof, the ceiling goes much higher.
 
-The blueprint includes the exact package structure, pricing conversation scripts, and the tech stack that keeps delivery costs low.
+The important pieces are the package structure, pricing conversation scripts, and tech stack that keeps delivery costs low.
 
 ---
 
-**Want the full pricing model and client acquisition playbook?** The [Agency Blueprint](/agency-blueprint/) is $27 and includes the complete system: how to price, how to sign clients, and how to deliver without burning out.
+**Want a pricing model that actually works?** Define how to price, how to sign clients, and how to deliver without burning out before you try to scale.

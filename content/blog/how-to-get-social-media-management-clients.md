@@ -120,7 +120,7 @@ Before the call ends, ask: "Does this feel like the right fit?" If yes, send the
 
 ## The complete outreach system, scripts, and close template
 
-If you want the exact word-for-word outreach scripts, the LinkedIn connection templates, the preview close technique, and the proposal template — all of it is included in the [Social Media Agency Blueprint](/agency-blueprint/).
+If you want the process to be repeatable, document the word-for-word outreach scripts, LinkedIn connection templates, preview close technique, and proposal template before you start scaling.
 
 It is $27 and covers the full system used to run a profitable one-person agency at $4,300 per month.
 

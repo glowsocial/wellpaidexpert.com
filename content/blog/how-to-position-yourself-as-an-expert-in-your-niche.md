@@ -84,4 +84,4 @@ Here's where to start:
 
 That's it. The whole strategy fits in a week's worth of focused work. After that, consistency does the rest.
 
-If you want a complete system — positioning, packaging, pricing, and the consistent client acquisition that follows — the [Agency Blueprint](https://thewellpaidexpert.com/agency-blueprint) is $27 and covers exactly this. Most people make it back in the first client meeting.
+If you want a complete system, focus on the sequence: positioning first, then packaging, pricing, and the consistent client acquisition that follows. Most experts skip the first step and then wonder why the sales conversation feels harder than it should.

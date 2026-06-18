@@ -116,7 +116,7 @@ These do not require more clients — they deepen the value you provide to clien
 
 ## The full pricing and packaging system
 
-The [Social Media Agency Blueprint](/agency-blueprint/) walks through the exact pricing structure, proposal format, and package options used in a working agency — including the niche selection framework that helps you identify which industries pay the most and churn the least.
+A strong pricing system should walk through the pricing structure, proposal format, and package options used in real client work, including the niche selection framework that helps identify which industries pay the most and churn the least.
 
 It is $27 and covers the complete system for getting to $4,300 per month as a one-person agency.
 

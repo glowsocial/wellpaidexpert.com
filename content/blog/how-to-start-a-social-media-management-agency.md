@@ -111,7 +111,7 @@ Most people who follow a structured process reach their first paying client with
 
 ## The fastest way to get started
 
-If you want the exact scripts, templates, pricing frameworks, and AI fulfillment system laid out step by step — rather than piecing it together yourself — the [Social Media Agency Blueprint](/agency-blueprint/) covers the complete process for $27.
+If you want the process to be repeatable, lay out the scripts, templates, pricing frameworks, and AI fulfillment system step by step instead of piecing it together differently for every client.
 
 It includes the niche selection framework, nine cold outreach scripts, the preview close technique, and the AI proposal generator that lets you send a professional proposal within 60 seconds of a discovery call.
 

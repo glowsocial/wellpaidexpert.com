@@ -68,14 +68,14 @@ The reverse funnel works best when:
 
 It's a particularly good fit for **consultants, agencies, coaches, and fractional executives** — anyone whose value is in their judgment, not just their deliverables.
 
-## A Real-World Agency Blueprint Example
+## A Real-World Self-Study Offer Example
 
-The Agency Blueprint ($27) at The Well-Paid Expert was designed as the self-study base of exactly this kind of inverted structure. It gives you the full system for building a one-person social media agency — so you can see what premium looks like before you decide whether to pursue the done-with-you path.
+A self-study offer can be designed as the base of exactly this kind of inverted structure. It should give buyers a complete enough system to understand the method, see what premium support might look like, and decide whether they want a more hands-on path.
 
-If the blueprint resonates and you want to build faster with direct support, that option exists. If you want to implement on your own first, the blueprint is self-contained.
+If the self-study offer resonates and the buyer wants to build faster with direct support, that option exists. If they want to implement on their own first, the offer should still be self-contained.
 
 That's the reverse funnel in practice: accessible entry point, clear path to premium, no bait-and-switch.
 
 ---
 
-**Ready to see the system?** The [Agency Blueprint](/agency-blueprint/) is $27 and shows you exactly how a one-person social media agency generates $4,300/month in recurring revenue — with the client math, the pricing model, and the outreach script included.
+**Ready to build the system?** Start by documenting the client math, pricing model, outreach script, and delivery workflow. Those pieces make the offer concrete instead of theoretical.

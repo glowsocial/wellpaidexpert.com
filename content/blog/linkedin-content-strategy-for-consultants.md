@@ -85,4 +85,4 @@ After enough time building visible expertise, the equation flips: people reach o
 
 ---
 
-**Managing LinkedIn content for clients is one of the core services in the Agency Blueprint model.** If you want to turn LinkedIn content expertise into recurring client revenue, [the blueprint shows you how](/agency-blueprint/).
+**Managing LinkedIn content for clients can become a recurring service model.** If you want to turn LinkedIn content expertise into revenue, define the offer, the workflow, the approval process, and the measurable outcome before you start selling it.

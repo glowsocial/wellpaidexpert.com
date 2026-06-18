@@ -78,4 +78,4 @@ Clients who feel that don't cancel. They refer.
 
 ---
 
-**The Agency Blueprint covers the full client lifecycle** — from signing to onboarding to retention — for $27. [Get the blueprint here.](/agency-blueprint/)
+**Retention starts before the first invoice.** A strong client lifecycle covers signing, onboarding, delivery, communication, and renewal long before there is a problem to fix.

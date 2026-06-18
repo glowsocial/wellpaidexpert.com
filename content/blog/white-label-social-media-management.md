@@ -65,7 +65,7 @@ Software-based white label is usually more profitable. Human fulfillment white l
 
 ## The Alternative: AI-Assisted Self-Fulfillment
 
-The model behind the [Agency Blueprint](/agency-blueprint/) doesn't rely on white label partners. Instead, it uses AI tools to produce high-quality, platform-specific content at scale — with one person managing the full workflow.
+A lean agency model does not have to rely on white label partners. Instead, it can use AI tools to produce high-quality, platform-specific content at scale, with one person managing the full workflow.
 
 The result: 70–80% margins instead of 20–40%, full quality control, and content that actually sounds like the client's brand.
 
@@ -73,4 +73,4 @@ For most one-person agencies just getting started, self-fulfillment with the rig
 
 ---
 
-**Building a lean, high-margin social media agency?** The [Agency Blueprint](/agency-blueprint/) shows you the exact tools, workflow, and client model — for $27.
+**Building a lean, high-margin social media agency?** Start with the tools, workflow, and client model. Those three pieces decide whether the business stays profitable or quietly turns into another job.

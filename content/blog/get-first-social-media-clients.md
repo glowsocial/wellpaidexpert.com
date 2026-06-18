@@ -89,4 +89,4 @@ The gap from 0 to 1 client is the hardest. From 1 to 3 is much easier because yo
 
 ---
 
-**Ready to build the full client acquisition system?** The [Agency Blueprint](/agency-blueprint/) is $27 and includes the outreach script, service structure, and delivery workflow that takes you from first client to $4,300/month.
+**Ready to build the full client acquisition system?** Document the outreach script, service structure, and delivery workflow before you sell. That is what turns a first client into a repeatable business instead of a lucky break.

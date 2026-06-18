@@ -82,4 +82,4 @@ That skill gap is exactly where agency owners create value. Clients who know the
 
 ---
 
-**Managing LinkedIn content for clients (or thinking about it)?** The [Agency Blueprint](/agency-blueprint/) shows you the full service model: what to offer, how to price it, and how to deliver LinkedIn content systematically for multiple clients at once.
+**Managing LinkedIn content for clients (or thinking about it)?** Treat the carousel process as part of a full service model: what you offer, how you price it, and how you deliver LinkedIn content systematically for multiple clients at once.

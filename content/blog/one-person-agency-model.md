@@ -83,9 +83,9 @@ The one-person agency model is a strong fit if:
 
 It's not a great fit if you hate client management, want to build a team quickly, or are looking for passive income. This model requires active client relationships — it's just that 5 client relationships is manageable for one person in a way that 20 isn't.
 
-## The Blueprint
+## The Playbook
 
-The [Agency Blueprint](/agency-blueprint/) is the complete playbook for building a one-person social media agency to $4,300/month:
+A complete one-person social media agency playbook should include:
 
 - The service structure and pricing
 - How to find and sign your first clients
@@ -94,4 +94,4 @@ The [Agency Blueprint](/agency-blueprint/) is the complete playbook for building
 
 ---
 
-**Ready to build yours?** The [Agency Blueprint](/agency-blueprint/) is $27 — the full system, not a teaser.
+**Ready to build yours?** Start with the full system, not a teaser: offer, pricing, outreach, onboarding, delivery, and retention.

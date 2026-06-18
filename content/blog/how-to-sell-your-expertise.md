@@ -65,4 +65,4 @@ You're not forcing anyone to do anything. You're offering a solution you believe
 
 ---
 
-**The Agency Blueprint includes the full client conversation framework** — from initial outreach through the sales call to signed contract. It's $27. [Start here.](/agency-blueprint/)
+**A strong client conversation framework matters** — from initial outreach through the sales call to signed contract. The more clearly you define that process, the easier it becomes to sell your expertise without improvising every step.

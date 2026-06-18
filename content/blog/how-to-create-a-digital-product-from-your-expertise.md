@@ -90,6 +90,6 @@ This is a slow build — but every asset compounds. The blog post you write toda
 
 ## Your Next Step
 
-If you want the exact structure for identifying your first product, pricing it, building a simple funnel, and making consistent sales — without building something complex and without needing a tech team — the [Agency Blueprint](https://thewellpaidexpert.com/agency-blueprint) covers this in full. It's $27 and it's practical.
+If you want the exact structure for identifying your first product, pricing it, building a simple funnel, and making consistent sales, keep the system simple enough to run without a tech team.
 
 Your knowledge is already there. Let's get it working for you while you sleep.

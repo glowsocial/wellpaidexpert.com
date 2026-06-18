@@ -79,10 +79,10 @@ Several psychological principles work in your favor with this structure:
 
 ## Building This at the Agency Level
 
-The [Agency Blueprint](/agency-blueprint/) is the self-study anchor in this site's reverse funnel. It delivers a complete, working system for $27 — and for people who want to build faster with direct support, there are paths forward.
+A strong self-study offer can anchor this kind of reverse funnel when it delivers a complete, working system and leaves room for higher-touch support later.
 
-If the blueprint resonates and you want to go deeper, that option exists. If you want to implement it on your own first, it's fully self-contained.
+If the self-study offer resonates and the buyer wants to go deeper, that option exists. If they want to implement it on their own first, it should still be fully self-contained.
 
 ---
 
-**Ready to see the base of a working reverse funnel?** The [Agency Blueprint](/agency-blueprint/) is $27 — a self-contained system for building a $4,300/month one-person social media agency.
+**Ready to see the base of a working reverse funnel?** Start by mapping one self-contained offer that solves a real problem, proves your approach, and gives qualified buyers a reason to trust the next step.

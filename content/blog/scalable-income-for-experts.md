@@ -70,8 +70,8 @@ The one-person agency model is a specific implementation of scalable retainer se
 2. Raising rates as reputation grows
 3. Adding digital products as backend offers for people who discover the agency through content
 
-The [Agency Blueprint](/agency-blueprint/) was designed to be one of those backend products — an accessible entry point to a scalable agency system for people whose expertise can be packaged into a service.
+A backend product can become an accessible entry point to a scalable service system for people whose expertise can be packaged into a repeatable offer.
 
 ---
 
-**Ready to build a scalable income model?** The [Agency Blueprint](/agency-blueprint/) is $27 — the full system for turning expertise into recurring monthly revenue without employees or overhead.
+**Ready to build a scalable income model?** Start with the full system for turning expertise into recurring monthly revenue without unnecessary employees or overhead.

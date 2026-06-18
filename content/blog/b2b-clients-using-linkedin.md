@@ -122,4 +122,4 @@ Here’s to your success in landing high-ticket B2B clients using LinkedIn!
 
 ## Ready to Build Your Own Agency System?
 
-The Agency Blueprint ($27) is the same framework Kathleen used to transition from client work to a scalable one-person agency. [Get instant access here.](/agency-blueprint/)
+The same framework applies when transitioning from client work to a scalable one-person agency: choose a specific buyer, sell a repeatable outcome, and build a delivery system that does not depend on constant custom work.

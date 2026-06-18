@@ -53,7 +53,7 @@ Purpose needs to flow through to the offer:
 | Belief | Offer | Connection |
 |--------|-------|-----------|
 | Small business owners shouldn't need a marketing team | Monthly social media management | I am the team you deserve but couldn't afford |
-| Experts should earn from knowledge, not just hours | Agency Blueprint | Here's the system that changes that equation |
+| Experts should earn from knowledge, not just hours | Productized expertise | Here is the system that changes that equation |
 | Social media doesn't have to consume you | Done-for-you content service | We take it off your plate entirely |
 
 When belief leads directly to the offer, the sale feels less like a transaction and more like a logical conclusion.
@@ -80,4 +80,4 @@ That kind of referral doesn't come from delivering good work. It comes from bein
 
 ---
 
-**The Agency Blueprint is a purpose-driven offer.** It exists because Kathleen believes expert knowledge should generate recurring revenue — not just hourly billing. [Read about it here.](/agency-blueprint/)
+**A purpose-driven offer should connect directly to the belief behind the business.** If you believe expert knowledge should generate recurring revenue, the offer should help people make that shift instead of simply selling more hours.

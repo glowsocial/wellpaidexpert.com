@@ -75,6 +75,6 @@ Once you've delivered results on a project, the smartest next move is a retainer
 
 If you haven't raised your rates in the last 12 months, raise them. Set a date — first of next quarter — tell your existing clients, and hold firm.
 
-If you want a complete framework for packaging, pricing, and selling your expertise — including the scripts, the proposal templates, and the exact positioning language that makes clients say yes — that's exactly what the [Agency Blueprint](https://thewellpaidexpert.com/agency-blueprint) covers. $27.
+If you want a complete framework for packaging, pricing, and selling your expertise, include the scripts, proposal templates, and exact positioning language that make the decision easier for clients.
 
 Your expertise is worth more than you're charging. Start there.
