@@ -145,7 +145,7 @@ async function callClaude(prompt) {
 }
 
 function buildPrompt(keyword) {
-  return `You are writing a blog post for The Well-Paid Expert (thewellpaidexpert.com), a website by Kathleen Celmins that helps consultants, coaches, freelancers, and solopreneurs get paid well for their expertise. The site's core product is the $27 Agency Blueprint, which teaches experts how to build recurring revenue from what they know.
+  return `You are writing a blog post for The Well-Paid Expert (thewellpaidexpert.com), an editorial resource for consultants, coaches, freelancers, solopreneurs, and small business owners who want practical guidance on marketing, operations, positioning, and building a leaner business.
 
 Voice: Direct, warm, experienced. Like a smart mentor who's been in the trenches and cuts through the noise. First-person occasional. Opinionated. Anti-fluff. Kathleen's audience has tried all the generic advice — give them the real stuff.
 
@@ -154,9 +154,8 @@ Write a complete, publication-ready blog post targeting this keyword: "${keyword
 The post MUST:
 - Be genuinely useful and specific (not generic "5 tips to grow your business" fluff)
 - Include at least one concrete framework, script, example, or step-by-step section
-- Mention the Agency Blueprint naturally in the closing CTA (link: https://thewellpaidexpert.com/agency-blueprint)
 - Be 900–1,300 words
-- Use H1, H2 subheadings, and a closing paragraph with CTA
+- Use H1, H2 subheadings, and a strong closing paragraph
 
 Return ONLY valid markdown in this exact format — no extra commentary, no code fences around the whole thing:
 

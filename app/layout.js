@@ -22,19 +22,19 @@ export const metadata = {
     canonical: "./",
   },
   title: {
-    default: "The Well-Paid Expert | Turn Your Expertise Into a $100K Revenue Stream",
+    default: "The Well-Paid Expert | Practical Business Articles for Experts",
     template: "%s | The Well-Paid Expert",
   },
   description:
-    "Helping experts add $100,000+ per year with what they already know. Resources on email lists, quiz funnels, LinkedIn strategy, digital products, and building a one-person business.",
+    "Practical articles for consultants, creators, and small business owners on marketing, operations, strategy, AI, and building a leaner business.",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://thewellpaidexpert.com",
     siteName: "The Well-Paid Expert",
-    title: "The Well-Paid Expert | Turn Your Expertise Into Revenue",
+    title: "The Well-Paid Expert | Practical Business Articles for Experts",
     description:
-      "You deserve to be paid well for your expertise. Learn how to build digital products, grow your email list, and create a profitable one-person online business.",
+      "Articles on marketing, operations, strategy, AI, and building a leaner small business.",
   },
   twitter: {
     card: "summary_large_image",

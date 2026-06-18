@@ -8,7 +8,6 @@ import {
   getAllBlogPosts,
 } from "@/lib/posts";
 import { markdownToHtml } from "@/lib/markdown";
-import LeadMagnetBar from "@/app/components/LeadMagnetBar";
 
 export async function generateStaticParams() {
   const slugs = getAllSlugs("blog");
@@ -192,16 +191,14 @@ export default async function BlogPost({ params }) {
           </div>
         )}
 
-        <LeadMagnetBar variant="article" />
-
         <div className="post-cta-box">
-          <h3>Want to build a $4,300/mo social media agency?</h3>
+          <h3>Keep exploring The Well-Paid Expert.</h3>
           <p>
-            Get the exact scripts, AI tools, pricing structure, and client
-            acquisition system used in a working agency — for $27.
+            Browse the full article archive for more practical ideas on
+            marketing, operations, strategy, and small business growth.
           </p>
-          <Link href="/agency-blueprint/" className="btn btn--primary">
-            Get the Agency Blueprint
+          <Link href="/articles/" className="btn btn--primary">
+            View All Articles
           </Link>
         </div>
       </article>

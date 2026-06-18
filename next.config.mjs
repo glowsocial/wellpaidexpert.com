@@ -61,6 +61,11 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: "/agency-blueprint/:path*",
+        destination: "/articles",
+        permanent: true,
+      },
+      {
         source: "/who-am-i-anyway",
         destination: "/about",
         permanent: true,
