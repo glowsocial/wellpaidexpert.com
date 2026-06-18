@@ -16,7 +16,7 @@ You might be inclined to think that sustainability is just a passing trend in bu
 
 Nobody loves plastic these days. It’s that sticky, clingy friend who overstays their welcome and clogs up all the oceans. Show customers you’re ready to move on by phasing out single-use plastics and switching to sustainable materials for your packaging, products, and even your office supplies.
 
-Reusable bags, recycled paper, [aluminium pizza tray products](https://www.aussiecookware.com.au/product-category/pizza-cookware/), biodegradable materials – it’s not just good for the planet; it’s an instant “good guy” badge for your business. Customers are more likely to trust a company that actively does something about waste, even if it’s a small step. And trust translates to loyalty. So, start small if you need to, but take that step away from plastic.
+Reusable bags, recycled paper, [aluminium pizza tray](https://www.aussiecookware.com.au/product-category/pizza-cookware/), biodegradable materials – it’s not just good for the planet; it’s an instant “good guy” badge for your business. Customers are more likely to trust a company that actively does something about waste, even if it’s a small step. And trust translates to loyalty. So, start small if you need to, but take that step away from plastic.
 
 Oh, and if you can’t get rid of the plastic because you require them for safety and functionality, then look for sustainable options like these
 pharmacy blister packs, for example, which use good natured® Bio-PET which is a sustainable, recycled form of plant-based packaging, which is much friendlier for the planet than traditional plastics, and which will appeal more to customers as a result.
