@@ -59,11 +59,11 @@ Clients who value your service will stay. Clients who leave over a reasonable ra
 
 ### Start with your target monthly revenue
 
-If your goal is $4,300 per month, you need to figure out how many clients at what price point gets you there:
+If your goal is meaningful monthly revenue, you need to figure out how many clients at what price point gets you there:
 
-- 4 clients at $1,075/mo
-- 3 clients at $1,433/mo
-- 5 clients at $860/mo
+- 4 clients at $1,000/mo
+- 3 clients at $1,500/mo
+- 5 clients at $900/mo
 
 Most agency owners find the sweet spot is four to six clients at $1,000 to $1,500 per month. This creates enough revenue to be meaningful without overextending your capacity.
 
