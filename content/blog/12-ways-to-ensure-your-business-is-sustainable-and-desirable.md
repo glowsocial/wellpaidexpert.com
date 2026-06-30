@@ -63,7 +63,7 @@ How many single-use pens, notebooks, or coffee cups does your business go throug
 Switching to reusable alternatives
 might sound minor, but it adds up fast – and it’s one of the simplest ways to keep your business eco-friendly. Think refillable pens, recycled notebooks, and ceramic mugs instead of disposables.
 
-This isn’t just about what’s good for the environment; it’s also about creating a workspace that shows customers and employees you care. A clutter-free, sustainable office has a fresh, forward-thinking vibe. And when clients visit, they’ll notice – and appreciate – the details. Don’t be surprised if they walk away thinking, “Now there’s a company with its act together.”
+This isn’t just about what’s good for the environment; it’s also about creating a workspace that shows customers and employees you care. A clutter-free, sustainable office has a fresh, forward-thinking vibe. And when clients visit, they’ll notice – and appreciate – the details. Don’t be surprised if they walk away thinking, “Now there’s a company with its act together.” If you have a lot of paper files, now could be a good time to turn them into a digital format, so you can stop waste from accumulating. You can use a [digital scanner](https://readdle.com/scannerpro) to do this for you.
 
 ## 8. Waste Not, Want Not
 
