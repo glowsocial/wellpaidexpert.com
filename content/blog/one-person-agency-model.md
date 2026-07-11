@@ -16,7 +16,7 @@ faq:
     answer: "Start with one client in your network — someone you can do great work for when you have time to focus. Get a testimonial. Use that as the foundation for outreach to your second and third clients. Most one-person agency owners land their first 3 clients through direct outreach to their existing LinkedIn connections, not cold prospecting."
 ---
 
-> If you're building an AI-powered social media agency, [Glow Social](https://glowsocial.com) handles the fulfillment side — it posts to 12 platforms automatically, generates captions with built-in AI, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
+> If you're building a social media agency, [Boomp](https://boomp.net) handles the fulfillment side — it prepares captions and images, schedules compatible formats across nine connectable networks, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
 
 
 
@@ -65,7 +65,7 @@ A one-person social media agency delivering for 5 clients needs:
 
 | Tool | Purpose | Approx. monthly cost |
 |------|---------|---------------------|
-| AI content tool (e.g., Glow Social) | Content creation + scheduling | $99–$199 |
+| AI content tool (e.g., Boomp) | Content creation + scheduling | $99–$299 |
 | Canva Pro | Graphics and carousels | $13 |
 | Analytics/reporting tool | Client reports | $0–$50 |
 | Simple CRM or spreadsheet | Client tracking | $0–$20 |

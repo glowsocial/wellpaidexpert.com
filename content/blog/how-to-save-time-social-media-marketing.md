@@ -35,4 +35,4 @@ A solo massage therapist was spending every Wednesday evening writing Instagram 
 - [Best Social Media Automation Tools for Small Business](/best-social-media-automation-tools-small-business)
 - [What Happens If You Don't Post on Social Media Regularly?](/what-happens-not-posting-regularly)
 
-**→ [Generate a full month of content in 10 minutes](https://glowsocial.com/preview/real-estate)**
+**→ [Generate a full month of content in 10 minutes](https://boomp.net/preview)**

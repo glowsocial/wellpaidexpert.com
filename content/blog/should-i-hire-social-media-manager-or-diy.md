@@ -35,4 +35,4 @@ A solo real estate agent was debating between a $500 per month freelancer and do
 - [Best Social Media Automation Tools for Small Business](/best-social-media-automation-tools-small-business)
 - [How to Save Time on Social Media Marketing](/how-to-save-time-social-media-marketing)
 
-**→ [Try it yourself — see a free preview of your content](https://glowsocial.com/preview/real-estate)**
+**→ [Try it yourself — see a free preview of your content](https://boomp.net/preview)**

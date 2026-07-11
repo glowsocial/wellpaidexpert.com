@@ -35,4 +35,4 @@ Competing with big businesses doesn't mean matching their volume or production q
 - [How Often Should Small Businesses Post on Social Media?](/how-often-should-small-businesses-post)
 - [How to Make Your Business More Visible](/how-to-make-your-business-more-visible)
 
-**→ [Level the playing field — see your AI-generated content](https://glowsocial.com/preview/real-estate)**
+**→ [Level the playing field — see your AI-generated content](https://boomp.net/preview)**

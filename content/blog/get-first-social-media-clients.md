@@ -16,7 +16,7 @@ faq:
     answer: "Charge at least $750–$1,000/month for your first client — even if it feels high. Undercharging creates the wrong precedent and may signal low quality. If the client can't afford it, offer a smaller scope at the same rate, not the same scope at a lower rate."
 ---
 
-> If you're building an AI-powered social media agency, [Glow Social](https://glowsocial.com) handles the fulfillment side — it posts to 12 platforms automatically, generates captions with built-in AI, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
+> If you're building a social media agency, [Boomp](https://boomp.net) handles the fulfillment side — it prepares captions and images, schedules compatible formats across nine connectable networks, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
 
 
 

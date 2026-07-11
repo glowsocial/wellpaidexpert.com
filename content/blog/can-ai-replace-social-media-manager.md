@@ -20,7 +20,7 @@ A social media manager's job breaks into two distinct halves. The first half is 
 
 ## Real-World Example
 
-A salon owner with two locations was paying a freelancer $400 per month for 8 posts per platform. She switched to Glow Social at $99 per month and got 12 posts across Instagram and Facebook, auto-scheduled with industry-specific content about hair care, seasonal styles, and booking prompts. She kept one staff member responsible for replying to DMs and comments during slow appointment gaps. Total social media cost dropped from $400 to $99, and her response time on DMs actually improved because it was handled in-house.
+A salon owner with two locations was paying a freelancer $400 per month for eight posts per platform. She switched to Boomp Core at $99 per month and received 20 static posts about hair care, seasonal styles, and booking prompts to review and schedule across Instagram and Facebook. She kept one staff member responsible for replying to DMs and comments during slow appointment gaps, preserving the human side of engagement while reducing the content-production cost.
 
 ## What Most People Get Wrong
 
@@ -32,7 +32,7 @@ The question isn't "AI or human." It's "AI for what, human for what." Businesses
 
 - [Should I Hire a Social Media Manager or Do It Myself?](/should-i-hire-social-media-manager-or-diy)
 - [How Much Does a Social Media Manager Cost?](/how-much-does-a-social-media-manager-cost)
-- [Does Glow Social Work for Salons?](/does-glow-social-work-for-salons)
+- [Does Boomp Work for Salons?](/does-boomp-work-for-salons)
 - [AI Social Media Tools for Agency Owners](/ai-social-media-tools-for-agency-owners)
 
-**→ [See what AI-generated content looks like for your business](https://glowsocial.com/preview/real-estate)**
+**→ [See what AI-generated content looks like for your business](https://boomp.net/preview)**

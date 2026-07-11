@@ -35,4 +35,4 @@ Chasing follower counts is the wrong metric for local businesses. Five hundred l
 - [What Your Social Media Would Look Like If You Actually Posted Consistently](/what-your-social-media-would-look-like-if-you-actually-posted-consistently)
 - [How to Compete with Bigger Businesses on Social Media](/compete-with-bigger-businesses-social-media)
 
-**→ [Generate your free social media preview](https://glowsocial.com/preview/real-estate)**
+**→ [Generate your free social media preview](https://boomp.net/preview)**

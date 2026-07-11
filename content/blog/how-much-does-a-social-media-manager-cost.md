@@ -7,12 +7,12 @@ tags: ["social media manager", "pricing", "small business", "hiring", "AI tools"
 schema_type: "Article"
 faq:
   - question: "How much does a social media manager cost?"
-    answer: "A freelance social media manager costs $300-$500 per month for basic posting. A full-time hire runs $50,000-$70,000 per year. AI-powered done-for-you platforms like Glow Social start at $99 per month and handle both content creation and scheduling."
+    answer: "A freelance social media manager costs $300-$500 per month for basic posting. A full-time hire runs $50,000-$70,000 per year. AI-powered done-for-you platforms like Boomp start at $99 per month and handle both content creation and scheduling."
 ---
 
 ## Direct Answer
 
-A freelance social media manager costs $300-$500 per month for basic posting. A full-time hire runs $50,000-$70,000 per year. AI-powered done-for-you platforms like Glow Social start at $99 per month and handle both content creation and scheduling.
+A freelance social media manager costs $300-$500 per month for basic posting. A full-time hire runs $50,000-$70,000 per year. AI-powered done-for-you platforms like Boomp start at $99 per month and handle both content creation and scheduling.
 
 ## Why This Matters
 
@@ -31,8 +31,8 @@ Cheap freelance social media managers (under $250 per month) often just repost t
 **Related reading:**
 
 - [Should I Hire a Social Media Manager or Do It Myself?](/should-i-hire-social-media-manager-or-diy)
-- [Is Glow Social Better Than Hiring a Social Media Manager?](/glow-social-vs-hiring-social-media-manager)
-- [How Much Does Glow Social Cost?](/how-much-does-glow-social-cost)
+- [Is Boomp Better Than Hiring a Social Media Manager?](/boomp-vs-hiring-social-media-manager)
+- [How Much Does Boomp Cost?](/how-much-does-boomp-cost)
 - [Social Media Management Pricing](/social-media-management-pricing)
 
-**→ [See what $99/month of content looks like for your business](https://glowsocial.com/preview/real-estate)**
+**→ [See what $99/month of content looks like for your business](https://boomp.net/preview)**

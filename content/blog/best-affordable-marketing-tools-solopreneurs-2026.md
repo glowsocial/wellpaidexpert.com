@@ -10,7 +10,7 @@ faqs:
   - q: "How much should a solopreneur spend on marketing tools?"
     a: "A reasonable marketing tool stack for a solopreneur is $50–$200/month total. That covers email marketing, done-for-you social media, and basic analytics. The key is avoiding tools that duplicate each other and tools that require significant time to operate — time is your most expensive resource."
   - q: "What is the best social media tool for solopreneurs who don't want to create content?"
-    a: "AI-powered done-for-you social media services are the best fit for solopreneurs who can't afford to spend hours creating content each week. Services like Glow Social generate captions and images in your brand voice and publish automatically for around $99/month — eliminating 15+ hours of monthly content work."
+    a: "Done-for-you social media services are the best fit for solopreneurs who can't afford to spend hours creating content each week. Services like Boomp prepare captions and images from your business details for review, then publish approved posts on schedule, starting at $99/month."
   - q: "Is it worth paying for social media management as a solopreneur?"
     a: "If your time is worth more than $99/month (which it almost certainly is), then yes. The alternative — doing social media yourself — costs 15–20 hours per month. For a solopreneur billing $75+/hour, that's $1,000+/month in time. Outsourcing it for $99/month is one of the clearest ROI decisions you can make."
 ---
@@ -35,7 +35,7 @@ This is where most solopreneurs waste the most time. Social media without a syst
 
 For a solopreneur, that time is your product. You either charge for it, use it to develop your expertise, or build the relationships that drive referrals. Spending it on caption-writing is a bad trade.
 
-The AI done-for-you category has matured enough in 2026 that the output is genuinely good. [Glow Social](https://glowsocial.com) ($99/month) reads your website, learns your voice, and produces a monthly batch of posts with custom images. You spend 20 minutes reviewing and approving. That's the whole job.
+The AI done-for-you category has matured enough in 2026 that the output is genuinely good. [Boomp](https://boomp.net) ($99/month) reads your website, learns your voice, and produces a monthly batch of posts with custom images. You spend 20 minutes reviewing and approving. That's the whole job.
 
 For a full comparison of what's available at different price points, [AffordableSocialMediaManagement.com's cost breakdown](https://affordablesocialmediamanagement.com/cost/) is the clearest guide I've seen — including an honest look at why "$0" tools actually cost more than paid ones when you factor in time.
 
@@ -70,7 +70,7 @@ Set them up once and check them monthly. That's enough to inform real decisions.
 | Tool | Monthly Cost |
 |------|-------------|
 | Kit (email, up to 1K subscribers) | $0 |
-| Glow Social (done-for-you social) | $99 |
+| Boomp (done-for-you social) | $99 |
 | Carrd (landing pages) | ~$1.50 |
 | Calendly (scheduling) | $0 |
 | Canva Pro (design) | $13 |
@@ -101,4 +101,4 @@ At $99/month, it's the clearest time-for-money trade in the solopreneur toolkit.
 
 ---
 
-*Kathleen Celmins is the founder of [Glow Social](https://glowsocial.com). She writes at [The Well-Paid Expert](https://thewellpaidexpert.com) about building expert businesses that scale without adding more hours.*
+*Kathleen Celmins is the founder of [Boomp](https://boomp.net). She writes at [The Well-Paid Expert](https://thewellpaidexpert.com) about building expert businesses that scale without adding more hours.*

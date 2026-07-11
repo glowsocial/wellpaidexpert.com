@@ -60,16 +60,16 @@ It reads your website, understands your services and tone, and generates a full 
 
 **Here's where to try it based on your industry:**
 
-- [Real Estate Agents](https://glowsocial.com/preview/real-estate)
-- [HVAC Companies](https://glowsocial.com/preview/hvac)
-- [Dentists](https://glowsocial.com/preview/dentist)
-- [Roofing Companies](https://glowsocial.com/preview/roofing)
-- [Landscaping Companies](https://glowsocial.com/preview/landscaping)
-- [Plumbers](https://glowsocial.com/preview/plumbing)
-- [Accountants & CPAs](https://glowsocial.com/preview/accountant)
-- [Cleaning Companies](https://glowsocial.com/preview/cleaning)
-- [Auto Repair Shops](https://glowsocial.com/preview/auto-repair)
-- [Salons & Spas](https://glowsocial.com/preview/salon)
+- [Real Estate Agents](https://boomp.net/preview)
+- [HVAC Companies](https://boomp.net/preview)
+- [Dentists](https://boomp.net/preview)
+- [Roofing Companies](https://boomp.net/preview)
+- [Landscaping Companies](https://boomp.net/preview)
+- [Plumbers](https://boomp.net/preview)
+- [Accountants & CPAs](https://boomp.net/preview)
+- [Cleaning Companies](https://boomp.net/preview)
+- [Auto Repair Shops](https://boomp.net/preview)
+- [Salons & Spas](https://boomp.net/preview)
 
 Don't see your industry? Use any of the links above — the tool reads your actual website regardless of which landing page you start from.
 
@@ -77,7 +77,7 @@ Don't see your industry? Use any of the links above — the tool reads your actu
 
 Most people who see their preview have one of two reactions:
 
-**"These are actually good."** — Great. That means the AI understood your business. You can sign up for Glow Social and we'll keep generating content like this, scheduled and posted automatically, every single week.
+**"These are actually good."** — Great. That means the first look understood your business. You can sign up for Boomp and we'll keep preparing content like this for review, then publish approved posts on schedule.
 
 **"These need some tweaks."** — Also great. That means the foundation is solid and you have specific opinions about your brand voice. That's exactly the kind of feedback that makes the final product even better.
 
@@ -95,7 +95,7 @@ Social media isn't about going viral. It's about being the obvious choice when s
 
 Stop thinking about it and look at what it would actually be:
 
-**→ [Generate your free social media preview](https://glowsocial.com/preview/real-estate)**
+**→ [Generate your free social media preview](https://boomp.net/preview)**
 
 60 seconds. 12 posts. Custom images. Zero obligation.
 
@@ -109,4 +109,3 @@ Then decide if you want to keep posting consistently — or keep meaning to.
 - [How Often Should Small Businesses Post on Social Media?](/how-often-should-small-businesses-post)
 - [How to Create Social Media Content Faster](/how-to-create-social-media-content-faster)
 - [How to Get More Customers from Social Media](/how-to-get-more-customers-from-social-media)
-

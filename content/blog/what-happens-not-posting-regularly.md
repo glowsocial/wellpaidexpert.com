@@ -33,6 +33,6 @@ Going quiet isn't the same as pausing. When you pause a Google ad, it stops cost
 - [How Often Should Small Businesses Post on Social Media?](/how-often-should-small-businesses-post)
 - [How to Save Time on Social Media Marketing](/how-to-save-time-social-media-marketing)
 - [What Your Social Media Would Look Like If You Actually Posted Consistently](/what-your-social-media-would-look-like-if-you-actually-posted-consistently)
-- [Does Glow Social Work for Restaurants?](/does-glow-social-work-for-restaurants)
+- [Does Boomp Work for Restaurants?](/does-boomp-work-for-restaurants)
 
-**→ [Never miss a post — see automated content in action](https://glowsocial.com/preview/real-estate)**
+**→ [Never miss a post — see automated content in action](https://boomp.net/preview)**

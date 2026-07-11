@@ -35,4 +35,4 @@ Local businesses abandon social media because they can't track direct sales from
 - [How to Compete with Bigger Businesses on Social Media](/compete-with-bigger-businesses-social-media)
 - [What Happens If You Don't Post on Social Media Regularly?](/what-happens-not-posting-regularly)
 
-**→ [See what consistent posting looks like for your industry](https://glowsocial.com/preview/real-estate)**
+**→ [See what consistent posting looks like for your industry](https://boomp.net/preview)**

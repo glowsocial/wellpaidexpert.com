@@ -127,7 +127,7 @@ A complete system should cover the outreach, offer structure, proposal process, 
 ---
 
 
-> If you're building an AI-powered social media agency, [Glow Social](https://glowsocial.com) handles the fulfillment side — it posts to 12 platforms automatically, generates captions with built-in AI, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
+> If you're building a social media agency, [Boomp](https://boomp.net) handles the fulfillment side — it prepares captions and images, schedules compatible formats across nine connectable networks, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
 
 ## Frequently asked questions about getting social media management clients
 

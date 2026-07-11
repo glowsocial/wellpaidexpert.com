@@ -35,4 +35,4 @@ If you're a solo dog groomer spending every Sunday night staring at a blank Inst
 - [What Your Social Media Would Look Like If You Actually Posted Consistently](/what-your-social-media-would-look-like-if-you-actually-posted-consistently)
 - [Can AI Replace a Social Media Manager?](/can-ai-replace-social-media-manager)
 
-**→ [See what a month of content looks like for your business](https://glowsocial.com/preview/real-estate)**
+**→ [See what a month of content looks like for your business](https://boomp.net/preview)**

@@ -9,11 +9,11 @@ faq:
   - question: "How do you start a social media management agency from scratch with no experience?"
     answer: "Starting a social media management agency from scratch requires four steps: pick one niche, define a fixed-price service package, build an AI fulfillment system that lets you serve clients in under 15 minutes per week each, and close your first client using a preview-based outreach approach rather than a cold pitch. Prior experience in social media management is not required — clients care about results, not credentials."
   - question: "How much does it cost to start a social media agency?"
-    answer: "Starting a social media management agency requires almost no upfront investment. An AI writing tool like ChatGPT costs $20 per month. A social media scheduling platform like Glow Social costs $99 per month. A basic website costs $10 to $20 per month. Total startup costs are typically under $150 per month — all covered by a single client."
+    answer: "Starting a social media management agency requires almost no upfront investment. An AI writing tool like ChatGPT costs $20 per month. A social media content and scheduling platform like Boomp starts at $99 per month. A basic website costs $10 to $20 per month. Total startup costs can stay under $150 per month — all covered by a single client."
   - question: "How many clients do you need to make $100k per year with a social media agency?"
     answer: "At $1,000 per month per client, you need 9 clients to reach $100,000 per year. At $1,500 per month, you need 6 clients. At $2,000 per month, you need just 5. Most solo agency owners reach their first $5,000 per month milestone within three to six months of starting if they follow a structured outreach process."
   - question: "What is the best tool for running a social media agency with multiple clients?"
-    answer: "The most effective combination for a solo social media agency is an AI writing tool for caption generation and Glow Social for multi-platform scheduling and analytics. Together they reduce active fulfillment time to 10 to 15 minutes per client per week, making it possible to scale to 10 or more clients without adding staff."
+    answer: "The most effective combination for a solo social media agency is an AI writing tool for caption generation and Boomp for multi-platform scheduling and analytics. Together they reduce active fulfillment time to 10 to 15 minutes per client per week, making it possible to scale to 10 or more clients without adding staff."
   - question: "How do you price social media management services and what should you charge per month?"
     answer: "Social media management retainers typically range from $500 to $2,500 per month per client. Entry-level packages covering one platform start around $500 to $750 per month. Full-service packages covering three or more platforms with monthly reporting and analytics range from $1,500 to $2,500 per month. Price based on value delivered, not hours worked."
   - question: "How long does it take to get your first social media management client?"
@@ -72,7 +72,7 @@ With the right tools, you can generate a full month of content for each client i
 The core stack:
 
 - **AI writing tool** (ChatGPT or Claude) for caption generation
-- **[Glow Social](https://glowsocial.com)** for multi-platform scheduling and analytics — connects to 12 platforms and automates posting entirely
+- **[Boomp](https://boomp.net)** for content preparation, multi-platform scheduling, and analytics across nine connectable networks
 - **Canva** for branded graphics
 
 With this stack, serving one client takes 10 to 15 minutes per week of active work.

@@ -123,7 +123,7 @@ A complete pricing system should show how the package structure, proposal format
 ---
 
 
-> If you're building an AI-powered social media agency, [Glow Social](https://glowsocial.com) handles the fulfillment side — it posts to 12 platforms automatically, generates captions with built-in AI, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
+> If you're building a social media agency, [Boomp](https://boomp.net) handles the fulfillment side — it prepares captions and images, schedules compatible formats across nine connectable networks, and tracks analytics in one dashboard. Most agency owners using it spend 10 to 15 minutes per client per week on content review.
 
 ## Frequently asked questions about social media management pricing
 
@@ -152,7 +152,6 @@ A standard retainer includes content creation, scheduling, monthly reporting, an
 **Related reading:**
 
 - [How Much Does a Social Media Manager Cost?](/how-much-does-a-social-media-manager-cost)
-- [Is Glow Social Better Than Hiring a Social Media Manager?](/glow-social-vs-hiring-social-media-manager)
+- [Is Boomp Better Than Hiring a Social Media Manager?](/boomp-vs-hiring-social-media-manager)
 - [Can AI Replace a Social Media Manager?](/can-ai-replace-social-media-manager)
 - [Should I Hire a Social Media Manager or Do It Myself?](/should-i-hire-social-media-manager-or-diy)
-

@@ -35,4 +35,4 @@ A solo realtor tested two approaches over 90 days. Month one: posted 7 times per
 - [How to Get More Customers from Social Media](/how-to-get-more-customers-from-social-media)
 - [What Your Social Media Would Look Like If You Actually Posted Consistently](/what-your-social-media-would-look-like-if-you-actually-posted-consistently)
 
-**→ [See what consistent posting looks like for your business](https://glowsocial.com/preview/real-estate)**
+**→ [See what consistent posting looks like for your business](https://boomp.net/preview)**

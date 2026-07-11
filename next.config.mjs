@@ -76,6 +76,47 @@ const nextConfig = {
         destination: "/leadership-statement-examples",
         permanent: true,
       },
+      // Glow Social → Boomp rebrand — slugs updated to match, 301 preserves indexed URLs
+      {
+        source: "/does-glow-social-work-for-realtors",
+        destination: "/does-boomp-work-for-realtors",
+        permanent: true,
+      },
+      {
+        source: "/does-glow-social-work-for-restaurants",
+        destination: "/does-boomp-work-for-restaurants",
+        permanent: true,
+      },
+      {
+        source: "/does-glow-social-work-for-salons",
+        destination: "/does-boomp-work-for-salons",
+        permanent: true,
+      },
+      {
+        source: "/glow-social-vs-hiring-social-media-manager",
+        destination: "/boomp-vs-hiring-social-media-manager",
+        permanent: true,
+      },
+      {
+        source: "/glow-social-vs-hootsuite",
+        destination: "/boomp-vs-hootsuite",
+        permanent: true,
+      },
+      {
+        source: "/how-does-glow-social-work",
+        destination: "/how-does-boomp-work",
+        permanent: true,
+      },
+      {
+        source: "/how-much-does-glow-social-cost",
+        destination: "/how-much-does-boomp-cost",
+        permanent: true,
+      },
+      {
+        source: "/what-platforms-does-glow-social-support",
+        destination: "/what-platforms-does-boomp-support",
+        permanent: true,
+      },
       // Old landing pages → articles (or homepage)
       ...[
         "100kcasestudy-2", "100kcasestudy",
