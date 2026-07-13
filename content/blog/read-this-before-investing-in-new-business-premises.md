@@ -20,7 +20,7 @@ If you have a lot of employees coming to your premises, for example an office, y
 
 Next, you'll need to look into whether the land and lot are suitable. Many firms these days are taking advantage of new technology. It's easy to get an [aerial drone survey](https://www.violetcrownaerial.com/3d-mapping) of your proposed site nowadays. This can provide you with more detailed information about the likely outcome of any construction project.
 
-Other things you need to think about include the space you require. Do you have enough room to conduct operations into the future? Also, do you have the right features available on your land, such as lighting, plumbing, electrical capacity, and HVAC installations? Older buildings or existing premises may need significant upgrades.
+Other things you need to think about include the space you require. Do you have enough room to conduct operations into the future? Also, do you have the right features available on your land, such as lighting, plumbing including outdoor [drainage](https://swiftdrain.com/pre-sloped-trench-drain/), electrical capacity, and HVAC installations? Older buildings or existing premises may need significant upgrades.
 
 ## Run the financials
 
