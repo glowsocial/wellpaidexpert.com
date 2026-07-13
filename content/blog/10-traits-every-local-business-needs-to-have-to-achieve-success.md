@@ -28,6 +28,8 @@ Local businesses work seamlessly when customer service is high on the priority l
 
 Forming strong and authentic relationships as a small business owner is paramount to your long term success. Following up with clients, having open conversations and showing each of your customers that you genuinely care about them will lead to long-term success and growth.
 
+These strong relationships should include the professional services that support your business, like your accountant or legal team. For example, if you buy and sell horses for the racing community, it makes sense to work with an [equine lawyer](https://www.cataneselaw.com/legal-services/equine-law/) and keep them close to your chest. The same applies if you're managing property. You need to get to know the real estate agents you can trust in your area.
+
 ## 5. Community Spirit
 
 Having a strong presence in the community is a great way to build a positive name for your business and establish your brand in the local area. Whether you're making an appearance at a local market, or sponsoring a school football team, there's so much you can do to show that you're a valued member of the community.
