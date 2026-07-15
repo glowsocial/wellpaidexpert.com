@@ -37,6 +37,12 @@ A startling percentage of data breaches or cybersecurity attacks are the product
 
 When you are focusing on business growth, it's normal to want to cut down on expenses as much as possible. After all, this means that you then have more money set aside to invest in business growth and development. However, there are some things that are always worth investing in, and good cybersecurity is one of them. Therefore, if you do not already have cybersecurity software installed on your laptop or computer, now is the time to rectify this issue. This software can help prevent cyberattacks in numerous different ways, such as by ensuring that private data remains private and alerting when a specific site may be dangerous or harmful. Before purchasing software outright, see if they have a free trial available. This will help you to find software that best meets your needs, meaning that you feel more confident in your investment. Either way, this is perhaps the easiest way to protect and grow your business, as most of the hard work is then carried out on your behalf.
 
+## Get Independently Accredited
+
+Software and staff training go a long way, but many businesses find that real peace of mind comes from formal accreditation. Cyber Essentials, the UK government-backed certification scheme, requires businesses to demonstrate that key technical controls are in place, and holding the certification is increasingly expected by clients, insurers and even some public-sector contracts.
+
+Working with an experienced [Cyber Essentials consultancy firm](https://sota.co.uk/cyber-essentials-consultancy-london/) can make the process far more straightforward, helping you identify gaps before you apply and guiding you through the assessment itself, rather than navigating the requirements alone.
+
 ## Check Business Investments Carefully
 
 Even if your business seems secure, you can still potentially lose money due to fraud and Ponzi schemes. As your company builds financially, you might want to consider investing your funds to grow your commercial assets and interests. This is a good use of your money, but it can lead to getting caught up in fraud and potentially losing all your money.
