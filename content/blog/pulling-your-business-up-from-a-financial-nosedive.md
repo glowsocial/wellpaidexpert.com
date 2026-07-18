@@ -3,14 +3,15 @@ title: "Pulling Your Business Up From A Financial Nosedive"
 description: "Whether it’s due to sudden major expenses, a loss of funding, or simply due to a few bad quarters, finding your business in trouble, with the risk of collapse"
 slug: "pulling-your-business-up-from-a-financial-nosedive"
 date: "2024-09-15"
+image: "/pulling-your-business-up-from-a-financial-nosedive.png"
 source_url: "https://thewellpaidexpert.com/pulling-your-business-up-from-a-financial-nosedive/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240915011254"
 ---
 
-Whether it’s due to sudden major expenses, a loss of funding, or simply due to a few bad quarters, finding your business in trouble, with the risk of collapse rising up to meet you imminently can get the alarm bells ringing. However, it’s important you don’t freeze when you hear them. Here, we’re going to look at what steps you should start taking to manage it, as well as what options might help you pull through.
+![Financial charts showing a business beginning to recover](/pulling-your-business-up-from-a-financial-nosedive.png)
 
-Picture – CC0 License
+Whether it’s due to sudden major expenses, a loss of funding, or simply due to a few bad quarters, finding your business in trouble, with the risk of collapse rising up to meet you imminently can get the alarm bells ringing. However, it’s important you don’t freeze when you hear them. Here, we’re going to look at what steps you should start taking to manage it, as well as what options might help you pull through.
 
 Decreasing Your Expenses
 
@@ -40,5 +41,7 @@ Consider Insolvency
 If all other efforts fail and your business remains unsustainable,
 insolvency
 might be the only viable option. Insolvency occurs when your business can no longer meet its debt obligations. In such cases, consider formal insolvency procedures, such as filing for bankruptcy, which can provide a structured way to resolve your debts and protect your personal assets, depending on your business structure. Bankruptcy should be viewed as a last resort, as it will have long-term consequences on your credit and ability to operate. However, it can also provide a fresh start by discharging certain debts and allowing you to reorganize your business under court supervision.
+
+If you're a director then talking to a dedicated [director insolvency](https://directorfirst.co.uk/) advice company can be extremely beneficial and help you assess your options and understand the next steps fully so you don't make the wrong decisions.
 
 If you business is really in that much trouble, then at some point, you may want to consider whether it might be a better idea simply to find an exit strategy. However, before you do that, be sure to look at the other options available to you, first.
