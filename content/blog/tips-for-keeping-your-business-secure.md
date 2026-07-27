@@ -30,7 +30,7 @@ is imperative for keeping everyone in your business in the know. You want your e
 
 ## Conduct regular health and safety checks
 
-As an employer, it’s your duty to keep your building safe from harm. To do this efficiently, ensure you conduct regular health and safety checks that can find any potential harm before it happens. These checks are designed to minimize any risks, identify where problems could arise in the future and to put plans in place should anything happen. These should be done at least annually, but more frequently if possible. This is particularly true if you have recently changed your equipment, moved your office around or have had an influx of new employees start with you.
+As an employer, it’s your duty to keep your building safe from harm. To do this efficiently, ensure you conduct regular health and safety checks that can find any potential harm before it happens. These checks are designed to minimize any risks, identify where problems could arise in the future and to put plans in place should anything happen. These should be done at least annually, but more frequently if possible. This is particularly true if you have recently changed your equipment, moved your office around or have had an influx of new employees start with you. It's a good idea to bring in expert companies such as [passive fire protection contractors](https://www.fisltd.co.uk/passive-fire-protection/) to ensure you're not overlooking anything.
 
 These are just a few things you can do that can help keep your
 business
