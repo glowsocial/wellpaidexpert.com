@@ -111,7 +111,7 @@ Technology helps you grow without increasing your workload. Look for tools that 
 
 Cloud-based tools allow you to work from anywhere and maintain flexibility as you scale. Customer support software, inventory systems, and analytic dashboards all help you stay organized during high-growth periods. Start off small; choose tech that solves real problems, not just what's popular.
 
-Then there are more specialist tools that help you streamline specific areas, like [AI for freight carriers](https://www.eranova.ai/solutions/carriers). Doing your research and finding the best options for you makes sure you can scale with as minimal issues as possible.
+Then there are more specialist tools that help you streamline specific areas, like AI for freight carriers. Doing your research and finding the best options for you makes sure you can scale with as minimal issues as possible.
 
 ## Conclusion
 
