@@ -3,19 +3,20 @@ title: "How to Motivate Your Sales Team"
 description: "Keeping your sales team motivated is one of the most important parts of running a successful business. Salespeople face constant challenges throughout their"
 slug: "how-to-motivate-your-sales-team"
 date: "2025-12-16"
+image: "/how-to-motivate-your-sales-team.png"
 source_url: "https://thewellpaidexpert.com/how-to-motivate-your-sales-team/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216202025"
 ---
 
+![A bright sales strategy meeting room with an upward growth chart](/how-to-motivate-your-sales-team.png)
+
 Keeping your sales team motivated
 is one of the most important parts of running a successful business. Salespeople face constant challenges throughout their day. They’re often given projections, tough targets, and changing market conditions that they have to contend with in order to meet their targets for you. It’s natural for motivation to dip from time to time, but as a business leader, it’s your role to keep the team energised and confident.
 
 Tools like the
-Close O Matic AI Sales platform
+[Close O Matic AI Sales Platform](https://www.close-o-matic.com/)
 can help streamline the process and close deals faster. But true motivation comes directly from you, the leadership. With the right culture and mindset, people will feel like they can be inspired in their roles and perform at their best.
-
-Image source: Pexels
 
 Set goals that are both clear and achievable. Nothing kills the motivation for your team faster than unclear expectations. When they know exactly what’s expected of them, it’s easier for them to stay focused and measure their progress accurately. With specific and realistic goals that challenge your team but don’t overwhelm them, you can break larger targets into smaller milestones so they can see their progress along. Ensuring that every salesperson understands how their individual efforts contribute to the company’s bigger picture can also be a good motivating factor.
 
