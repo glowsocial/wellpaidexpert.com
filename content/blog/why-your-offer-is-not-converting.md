@@ -4,6 +4,7 @@ description: "Uncover why your offer isn't converting. Boost conversion rates by
 slug: "why-your-offer-is-not-converting"
 date: "2023-12-08"
 source_url: "https://thewellpaidexpert.com/why-your-offer-is-not-converting/"
+image: "/why-your-offer-is-not-converting.jpg"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20231208190914"
 faq:
@@ -19,11 +20,7 @@ faq:
     a: "Lowering price is rarely the right first move. Most non-conversions are trust or relevance problems, not price objections. Before discounting, test adding a payment plan, strengthening your guarantee, improving the sales copy to speak more directly to pain points, or repositioning who the offer is for. If you've tested those and price remains the objection, consider a lower-entry product that leads into your core offer rather than discounting the flagship."
 ---
 
-## Should you build a quiz for your business?
-
-Take this quick (60-second) quiz to find out whether you should build a list in the first place, and if so, what type of quiz your business needs.
-
-Take the quiz and find out now
+![Fishing rod resting on a pier rail over teal water, a metaphor for offers that aren't converting](/why-your-offer-is-not-converting.jpg)
 
 Ever felt like a fisherman casting out countless lines, but the bait never seems to bite? That’s how it can feel when you’re wondering
 why your offer is not converting. You’ve got what you believe is an irresistible lure – that perfect free trial or discounted package. But despite all your efforts and clever marketing campaigns, those leads remain elusive.
