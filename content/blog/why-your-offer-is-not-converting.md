@@ -97,6 +97,8 @@ We often get caught up in trying to convince potential clients about our value p
 
 A good idea is considering where potential customers fall within the buyer’s journey – awareness stage, consideration stage, decision stage? Once you understand this concept fully,
 
+Working with companies like [Surff](https://surff.io/) will give you insights into the journey customers have been on to make a purchase at your business, helping you understand how they got there, and what appeals to them.
+
 ### The Power of Demonstrating Understanding
 
 You might think your free trial or lead magnet should do the convincing for you – after all isn’t giving something away one surefire way of attracting people?
