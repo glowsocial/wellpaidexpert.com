@@ -30,6 +30,8 @@ But when a company keeps defaulting to outside hiring because it hasn't done eno
 
 So instead, it's honestly just going to be a lot smarter to maybe just look into [upgrading employee talent companies](https://www.ardentlearning.com/), because at a certain point it becomes painfully obvious that replacing people over and over again isn't exactly the only answer, and usually not the cheapest one either. Overall, here, it just doesn't make all that much sense for companies to spend a fortune searching for the "right person," while underusing perfectly capable people they already have.
 
+Of course, there are still times when going outside the company is absolutely the right move, especially when the role is highly specialized, the leadership gap is urgent, or the business genuinely needs someone with experience the current team doesn't have yet. That's where working with a firm like the [Maneva Group](https://www.manevagroup.com/non-profits-executive-search-firm) can actually make sense, because a focused executive search can help an organization find the right senior-level fit instead of rushing into another expensive hire that doesn't last. The point isn't that external recruitment is bad; it's that it works best when it's a deliberate choice, not a substitute for developing the people already there.
+
 ## Seriously, Missed Promotions Don't Just Hurt One Person
 
 You could even say that some companies get a little delusional, because they often treat a missed promotion like it's one private disappointment that only affects the person who didn't get picked. Absolutely not, most of the time here, it usually spreads much further than that.
