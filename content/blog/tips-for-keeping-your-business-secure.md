@@ -16,6 +16,10 @@ When you have a business, it’s vital you do what you can to keep it secure. No
 
 It’s important to recognise where your business is most vulnerable and sometimes this isn’t about physical vulnerabilities at all. Instead, it’s about the level of risk that exists at any given time in your business model. Because your business also needs to be financially secure. Luckily, there are always going to be effective ways to manage risk. For instance, consider whether you should use a service like Laurus to [sell IP addresses](https://larus.net/sell-ip-addresses/). If you don’t do this, you run the risk of digital failure and this can be catastrophic. This is just one example.
 
+## Have Legal Support To Hand
+
+You won’t always have all the answers as a business owner, but that’s where departments and teams are handy to have working alongside you - or on retainer, perhaps. Legal support is necessary for a business to have available to handle any disputes or potential legal trouble. A [civil law attorney](https://www.callrainwater.com/locations/little-rock-corporate-hill/), for example, can be a great help when tackling problems that may arise as you run a business, whether it’s in its infancy or not.
+
 ## Ensure your building is safe
 
 One of the most important things when it comes to keeping your business secure is prioritizing your physical business
