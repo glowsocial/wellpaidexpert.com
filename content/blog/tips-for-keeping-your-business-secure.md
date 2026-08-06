@@ -14,7 +14,7 @@ When you have a business, it’s vital you do what you can to keep it secure. No
 
 ## Know The Vulnerabilities
 
-It’s important to recognise where your business is most vulnerable and sometimes this isn’t about physical vulnerabilities at all. Instead, it’s about the level of risk that exists at any given time in your business model. Because your business also needs to be financially secure. Luckily, there are always going to be effective ways to manage risk. For instance, consider whether you should use a service like Laurus to [sell IP addresses](https://larus.net/sell-ip-addresses/). If you don’t do this, you run the risk of digital failure and this can be catastrophic. This is just one example.
+It’s important to recognise where your business is most vulnerable and sometimes this isn’t about physical vulnerabilities at all. Instead, it’s about the level of risk that exists at any given time in your business model. Because your business also needs to be financially secure. Luckily, there are always going to be effective ways to manage risk. For instance, consider whether you should use a service like Larus to [sell IP addresses](https://larus.net/sell-ip-addresses/). If you don’t do this, you run the risk of digital failure and this can be catastrophic. This is just one example.
 
 ## Have Legal Support To Hand
 
