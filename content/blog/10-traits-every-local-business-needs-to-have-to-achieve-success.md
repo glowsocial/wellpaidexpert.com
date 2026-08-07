@@ -56,7 +56,11 @@ This also applies to companies who provide a service for your business or subcon
 
 ## 10. Patience and Tenacity
 
-Patience, determination and tenacity as a small, local business owner. So many small companies close too quickly because there isn't enough time and research dedicated to keeping it up and running. With the correct strategies and mindset your local business will thrive for years to come!
+Patience, determination and tenacity as a small, local business owner. So many small companies close too quickly because there isn't enough time and research dedicated to keeping it up and running.
+
+Additionally, for small businesses, it can be challenging to pivot and keep up to date with fluctuations in the market and economy. So, often, they end up falling behind and becoming outdated, which can lead to a significant decline in sales over time. Here's where ensuring that your business is ready for the future, through the right tech and offers, can help you ensure ongoing success. To assess how to future-proof your business, start by taking a [business readiness survey](https://futurereadybusiness.sg/). With these insights at hand, you can partner with a specialist and make the investments that will ensure a bright future for your company.
+
+With the correct strategies and mindset your local business will thrive for years to come!
 
 ## Bonus: Attractive Premises
 
