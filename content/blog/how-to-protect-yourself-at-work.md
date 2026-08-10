@@ -3,10 +3,13 @@ title: "How to Protect Yourself At Work"
 description: "The working world can be tricky to manage. We want to do well at our jobs, of course, but it’s also important to remember that ultimately, our employers are"
 slug: "how-to-protect-yourself-at-work"
 date: "2024-11-06"
+image: "/how-to-protect-yourself-at-work.png"
 source_url: "https://thewellpaidexpert.com/how-to-protect-yourself-at-work/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241106211933"
 ---
+
+![Personal protective equipment arranged in a workplace](/how-to-protect-yourself-at-work.png)
 
 The working world can be tricky to manage. We want to do well at our jobs, of course, but it’s also important to remember that ultimately, our employers are not our friends. While everything will likely run smoothly when everything’s going well, that could well change as soon as there’s a crack in the ice.
 
@@ -22,6 +25,10 @@ So, what does this look like in practice? It may be a case of choosing to move t
 
 Employers have a legal — not to mention a moral — obligation to keep their employees safe. If they fail in that duty of care, then you may be entitled to financial compensation. Alas, in many cases, employees who experience illness as a result of their work are often reluctant to fight for what’s rightfully theirs. If you have an
 occupational disease, then it’s recommended to speak to an attorney, who will be able to determine whether you have a case for compensation. It’s also worth remembering that employers can’t fire employees who bring a case against them, though you may not wish to work for an employer who puts their staff in harm’s way, anyway.
+
+[David Bence](https://www.bencelawfirm.com/) of Bence Law points out that many employees are actually owed money right now, but only a fraction of them ever take action to recover it. Think about it: how many times have you been hurt on your job or treated negligently? When you actually go through what's happened at your workplace, it's often surprising what you discover and what comes back to memory.
+
+If you've been in a situation you think warrants further investigation, work with the professional to see what funds you can recover. There's no reason you need to fund all of your medical expenses and time off work yourself.
 
 ## Avoid Oversharing
 
