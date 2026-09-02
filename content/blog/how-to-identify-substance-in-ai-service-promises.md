@@ -3,6 +3,7 @@ title: "How to Identify Substance in AI Service Promises"
 description: "Use proof, a clear scope, and a small test to tell whether an AI service can deliver useful business results."
 slug: "how-to-identify-substance-in-ai-service-promises"
 date: "2026-08-28"
+image: "/how-to-identify-substance-in-ai-service-promises.png"
 tags: ["AI tools", "vendor evaluation", "business operations", "buying guide"]
 schema_type: "Article"
 faq:
@@ -13,6 +14,8 @@ faq:
   - question: "Should an AI service guarantee a business result?"
     answer: "Be careful with broad guarantees. A credible provider can define deliverables and service standards, but revenue and growth also depend on factors outside the provider's control."
 ---
+
+![A laptop workflow and paper checklist ready for human review](/how-to-identify-substance-in-ai-service-promises.png)
 
 AI services often promise faster work, lower costs, and better results. Some can deliver real value. Others add a new tool, a new bill, and more work for your team.
 
@@ -66,7 +69,7 @@ One useful test can reveal more than a long sales presentation.
 
 AI output can sound confident when it is wrong. The service needs a safe review path for work that affects customers, money, legal duties, or the public reputation of the business.
 
-The provider should state which actions happen automatically and which actions need approval. They should also explain how the system reports errors and how a person can correct them.
+The provider should state which actions happen automatically and which actions need approval. They should also explain how the system reports errors and how a person can correct them. [AI and automation services](https://freshbreaddigital.com/) can be useful examples of how these systems can handle tasks such as lead follow-up while keeping the business in control.
 
 Human review is not a sign that the service failed. It is part of a responsible design.
 
