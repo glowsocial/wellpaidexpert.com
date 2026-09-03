@@ -44,4 +44,6 @@ So, you can probably tell that changes things. It changes trust, effort, and how
 
 Businesses don't like hearing this, but oh well, it's because it's much easier to blame the attitude than to admit the company's been serving somebody the exact same year of work over and over again with slightly different calendar dates on it. A lot of employees don't start underperforming because they've become lazy overnight.
 
+That’s especially true in sales, where doing the same thing over and over can leave even good people sounding stale. If nobody is giving them a reason to sharpen their approach, learn new ways to handle conversations, or get better at what they already do, things can flatten out pretty quickly. Something like [AI sales training](https://yoodli.ai/use-cases/sales-training) can give sales teams another way to keep practicing and developing those skills instead of just hoping experience will do all the work.
+
 Sure, some do, but a good chunk of the time, they start flattening out because there's nowhere to go, nothing new to learn, nothing bigger to work toward, and no real sign that stronger effort leads anywhere useful. It's not their fault, especially if they have put in effort at one point and nothing happened.
