@@ -9,8 +9,6 @@ wayback_timestamp: "20231208195456"
 image: "/ai-generated-content-in-marketing.png"
 ---
 
-![Ultrawide monitor displaying colorful abstract digital artwork on a designer desk with a graphics tablet](/ai-generated-content-in-marketing.png)
-
 ## Should you build a quiz for your business?
 
 Take this quick (60-second) quiz to find out whether you should build a list in the first place, and if so, what type of quiz your business needs.
