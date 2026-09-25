@@ -126,7 +126,13 @@ export default async function BlogPost({ params }) {
 
   if (!post) notFound();
 
-  const contentHtml = markdownToHtml(post.content);
+  // The header already shows post.image — drop the same image when it opens the body.
+  const lead = post.content.match(/^\s*!\[([^\]]*)\]\(([^)\s]+)\)\s*/);
+  const leadIsHero = Boolean(post.image && lead && lead[2] === post.image);
+  const heroAlt = (leadIsHero && lead[1]) || post.title;
+  const contentHtml = markdownToHtml(
+    leadIsHero ? post.content.slice(lead[0].length) : post.content
+  );
   const allPosts = getAllBlogPosts();
   const relatedPosts = getRelatedPosts(post, allPosts);
 
@@ -153,7 +159,7 @@ export default async function BlogPost({ params }) {
             <div className="blog-post-image">
               <Image
                 src={post.image}
-                alt={post.title}
+                alt={heroAlt}
                 width={960}
                 height={540}
                 priority

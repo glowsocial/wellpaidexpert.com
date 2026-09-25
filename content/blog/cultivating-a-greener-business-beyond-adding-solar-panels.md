@@ -1,6 +1,6 @@
 ---
 title: "Cultivating A Greener Business (Beyond Adding Solar Panels)"
-description: "Source : Pixabay CC0 "
+description: "Solar panels and LED lights are good starting points. Here are five further eco-friendly upgrades that can transform your business for the better."
 slug: "cultivating-a-greener-business-beyond-adding-solar-panels"
 date: "2025-12-16"
 image: "/cultivating-a-greener-business-beyond-adding-solar-panels.png"
@@ -8,8 +8,6 @@ source_url: "https://thewellpaidexpert.com/cultivating-a-greener-business-beyond
 recovered_from: "wayback_machine"
 wayback_timestamp: "20251216214422"
 ---
-
-Source : Pixabay CC0
 
 ![Reusable food jars and recycled packaging in a green office pantry](/cultivating-a-greener-business-beyond-adding-solar-panels.png)
 

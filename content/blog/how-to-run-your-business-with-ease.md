@@ -8,8 +8,6 @@ image: "/run-business-with-ease.png"
 
 Running a business usually feels like you've got to do everything all at once, and… well, that's probably because that's exactly what you do have to do, at least at the start. And because of that, it's easy to fall into a cycle where you're busy all the time but still feel behind. However, the key to running things with a bit more ease isn't working harder or putting in more hours, it's making everything fit together more simply. With that in mind, keep reading to find out more.
 
-![A confident entrepreneur at an organized workspace with a strategy whiteboard](/run-business-with-ease.png)
-
 ## Focus On What Really Matters
 
 One of the quickest ways to reduce pressure is to be clear about priorities - the fact is that not every task needs your immediate attention, no matter how it feels. Try identifying the few things that actually move your business forward and start there because when you focus on high-impact work, everything else just tends to fall into place behind it.
