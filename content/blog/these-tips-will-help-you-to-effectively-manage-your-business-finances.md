@@ -6,6 +6,7 @@ date: "2024-09-15"
 source_url: "https://thewellpaidexpert.com/these-tips-will-help-you-to-effectively-manage-your-business-finances/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20240915012134"
+image: "/these-tips-will-help-you-to-effectively-manage-your-business-finances.jpg"
 ---
 
 Do you feel as though your finances are out of control? Maybe you know that you need to make a positive change with your cash flow but you just have no idea how to get started. Either way, if you leave things as they are then you may end up running your
@@ -18,8 +19,6 @@ The first thing you need to do is set up a business bank account. You have to co
 990 compliance
 too. If you are having a really hard time understanding what you should be paying and why then one thing you can do is try and work with a financial accountant. When you do, you can trust in them to give you all of the help you need to ensure that your operation stays afloat for years to come. You can also use invoicing software, as this is a good way for you to flag when business payments are overdue and when you should be chasing debts.
 
-Source:
-
 Keep Saving
 
 You also have to make sure that you keep on
@@ -28,5 +27,7 @@ saving. It can be tempting for you to try and transfer all of the income you hav
 Allow for Expenses
 
 If you can allow for expenses then this will make your life easier when the time comes for you to manage your tax returns. It will also make your business more financially stable. If you want to help yourself here then make sure that you are cancelling subscriptions that you don’t need anymore and make sure that you also manage your vendors. If you know that your vendors are increasing the price of their products then there’s nothing wrong with this, but at least make sure that you can account for increases so you’re not left struggling when the time comes. You may also want to try and pay on time too, and allowing for expenses is the best way to do this.
+
+You should also think about expenses that come from employees using their own vehicles for work. If your staff regularly drive for business purposes, having a consistent way to calculate and reimburse these costs can make them easier to include in your overall budget. A [Fixed and Variable Rate (FAVR) program](https://cardata.co/blog/fixed-and-variable-rate-favr-reimbursement-programs) is one option businesses can consider when reimbursing employees for the costs associated with business driving. Planning for these expenses in advance can help you avoid unexpected costs and keep a closer eye on your finances.
 
 At the end of the day, it can be very difficult for you to run a business, especially if you don’t know what’s going on with your money situation. By taking the time to go through things now, you can save yourself a world of trouble going forward, so try and keep this in mind as it could help you to make the changes you need to keep your business afloat, even during economic downturns.
