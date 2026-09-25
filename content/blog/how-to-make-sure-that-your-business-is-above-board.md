@@ -6,13 +6,12 @@ date: "2024-12-06"
 source_url: "https://thewellpaidexpert.com/how-to-make-sure-that-your-business-is-above-board/"
 recovered_from: "wayback_machine"
 wayback_timestamp: "20241206204019"
+image: "/business-above-board.png"
 ---
 
 First things first, what do we mean about being above board? In this case, it means making sure that your business keeps on the right side of legal issues and potential pitfalls. There are loads of ways for your business to stumble, and lawsuits or failing to meet government regulations can end up being incredibly expensive to your business wallet and reputation.
 
 So, here are some things to consider when running your business to make sure that it is always above board and above legal reproach.
-
-![Business owner ensuring compliance](/business-above-board.png)
 
 ## Do Your Research
 
@@ -43,6 +42,10 @@ Often, your employees have rights and responsibilities, so it’s a good idea fo
 Make sure that you’re upfront with your employees about your expectations and the needs of the job. It’s also important to make sure that you pay them fairly and promptly. While it might seem like you save money by cutting corners with your employees, this can prove far more expensive.
 
 As well as making sure you aren’t liable for employment laws, it’s also important to make sure that your employees are safe at the workplace. Accidents can and do happen, but if your company can prove that it does all it can to protect the people that work there, it will be far better for your business. Also, this will be much better for your employees.
+
+Make sure you understand what happens and what you need to do immediately after an accident occurs. Most states require employers to carry workers' compensation coverage, so double-check it’s included in your premium.
+
+If you're facing a case, have a [workers compensation lawyer](https://www.silbermanlam.com) you can forward your workers to. Generally speaking, your insurer will take care of liability issues that you're facing, but check your documents.
 
 Looking after your employees isn’t just important because of legal issues. If your employees are unhappy, they won’t work as effectively or be motivated to go the extra mile if you need them to. Even worse, people won’t stay in an environment that makes them feel unappreciated and taken advantage of.
 
