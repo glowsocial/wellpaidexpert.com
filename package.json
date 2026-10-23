@@ -11,6 +11,7 @@
     "generate:one": "node scripts/generate-blog-posts.js --count 1"
   },
   "dependencies": {
+    "@next/third-parties": "16.4.2",
     "gray-matter": "^4.0.3",
     "next": "16.4.2",
     "react": "19.2.3",
