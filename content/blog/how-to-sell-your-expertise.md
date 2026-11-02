@@ -3,6 +3,7 @@ title: "How to Sell Your Expertise Without Feeling Like a Used Car Salesman"
 description: "Most experts are uncomfortable selling — not because they're bad at it, but because they're doing it wrong. Here's how to sell naturally by leading with value instead of pressure."
 slug: "how-to-sell-your-expertise"
 date: "2024-07-28"
+image: "/how-to-sell-your-expertise.jpg"
 tags: ["offer-creation", "solopreneur", "agency-business"]
 schema_type: "FAQPage"
 faq:
@@ -16,6 +17,8 @@ faq:
     answer: "Ask for the sale directly but gently: 'Based on what you've told me, I think this is exactly what you need. Would you like to move forward?' Direct questions are not aggressive — ambiguity is. Most clients who don't buy fail to do so because no one clearly asked."
 ---
 
+![A consultant reviewing documents with clients](/how-to-sell-your-expertise.jpg)
+
 Most experts hate selling because the version of selling they've been exposed to involves pressure, manipulation, and pretending to have answers before understanding the question.
 
 There's a different way — and it actually works better.
@@ -27,6 +30,8 @@ When you sell a commodity (a car, a phone plan, a generic service), the sale is 
 When you sell expertise, the sale is about demonstrating understanding before anything else. Clients don't buy expertise; they buy confidence that you understand their problem.
 
 This changes the entire sales dynamic. You're not trying to close — you're trying to understand. And the more genuinely you understand, the more natural the close becomes.
+
+That understanding should also be reflected in how you present your business to potential clients. A clear, relevant business name can help communicate your area of expertise and give the right audience a sense of what you offer. If you're still exploring ideas, a [business name generator for coaches & consultants](https://tinycal.net/free-tools/business-name-generator) can help you develop options that reflect your services and appeal to your intended audience. The name is only one part of your positioning, but it can help establish the right first impression.
 
 ## The Conversation Structure That Converts
 
