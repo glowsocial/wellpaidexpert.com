@@ -29,7 +29,7 @@ If you don’t do this, your restaurant won’t be legal, so you could end up be
 
 ## Funding Your Restaurant
 
-Most businesses have starting costs and running costs, and a restaurant is no exception. Most restaurants need investment to get started so that you can furnish the place as well as kit out the kitchen with everything you need. You will also likely need employees to prepare and serve food.
+Most businesses have starting costs and running costs, and a restaurant is no exception. Most restaurants need investment to get started so that you can furnish the place as well as kit out the kitchen with everything you need. This may include suitable cold storage for keeping frozen ingredients and other perishable stock. Depending on the space available and your storage requirements, a [mobile freezer room for sale](https://www.classiccoolrooms.com.au/mobile/) may be worth considering. Remember to account for the purchase price, delivery, installation requirements and ongoing electricity costs when working out your startup budget. You will also likely need employees to prepare and serve food.
 
 There are a few different ways to receive these funds. If you have cash, you can pay for things upfront out of your own pocket. This means that, if you make a loss, you lose your own money, but the restaurant is completely yours and you can be debt-free.
 
