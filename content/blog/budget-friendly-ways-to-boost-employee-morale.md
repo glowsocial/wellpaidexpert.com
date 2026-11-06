@@ -45,4 +45,8 @@ Strong friendships between co-workers make the workplace more enjoyable and coll
 
 Even simple things, like encouraging short breaks away from desks to chat, can help colleagues connect personally. These informal interactions build camaraderie and strengthen the team, making it easier and more natural to work together on projects.
 
+## Organise Company Events
+
+Cohesion, team building, and interpersonal relationships can be hard to strengthen if your company is large, operating from multiple branches, or prioritising remote work. This is where organising in-person events can make all the difference. Whether it's a conference, dinner, or team building event, meeting face-to-face can help your team members network and get to know one another, which builds trust and respect. If you are not sure how to get started with organising a company event, specialists like [Catalyst Event Solutions](https://www.catalystevents.com.au/) can help you design and run a memorable meet-up that reflects your goals and budget.
+
 Ultimately, building morale means showing consistent appreciation. You don't need a huge budget to prove you value your team; you just need to be thoughtful and intentional with your actions.
