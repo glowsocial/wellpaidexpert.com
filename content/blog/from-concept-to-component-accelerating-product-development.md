@@ -32,6 +32,8 @@ The main goal is to get a tangible part in hand as fast as possible to spot desi
 
 Relying on just one manufacturing technology can limit your design options and slow you down. A better approach is to consider using multiple technologies, combining different processes to get the best result. A component might need the strength of a machined base, but also intricate features or a specific surface finish that another method can achieve best.
 
+Electrical assemblies also benefit from the same thinking, with the fuse, holder, wiring and enclosure designed as connected parts rather than isolated items. Working with a specialist [fuse holder manufacturer](https://essfuse.com/product-category/fuse-holders/) early in the design process can help product developers compare PCB-mount, panel-mount, inline and chassis-mount options based on fuse size, available space and installation requirements. Automotive, EV, solar and industrial equipment may call for different fuse arrangements, so the electrical protection should be considered alongside the rest of the component layout. A prototype can then reveal whether the selected holder is easy to install, leaves enough clearance for replacement and suits the final production process.
+
 For instance, a medical diagnostic device might have its main housing made through injection molding, but a crucial internal part, like a microfluidic plate, could be made using precision etching. Combining technologies helps you optimize for speed, cost, and performance, creating a final product that's better than what any single process could deliver alone.
 
 ## Reducing Risk in Product Launches
